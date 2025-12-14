@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MEDIA/IMAGES/IMAGES.md",
+                "file": "Research/Gem-Stage tower (floor).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IMAGES"
+              "title": "Gem-Stage tower (floor)"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MEDIA/IMAGES/IMAGES.md",
+                "file": "Research/Gem-Stage tower (floor).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for IMAGES"
+              "title": "Backlinks for Gem-Stage tower (floor)"
             }
           },
           {
@@ -202,10 +202,11 @@
   },
   "active": "7a64d64b7816f9eb",
   "lastOpenFiles": [
-    "MEDIA/IMAGES/IMG-14-12-2025-001219736.png",
-    "MEDIA/IMAGES/IMAGES.md",
-    "Untitled/Untitled.md",
     "Research/Foundation/Helical anchors foundation.md",
+    "Research/Gem-Stage tower (floor).md",
+    "MEDIA/IMAGES/IMAGES.md",
+    "MEDIA/IMAGES/IMG-14-12-2025-001219736.png",
+    "Untitled/Untitled.md",
     "Untitled",
     "MEDIA/IMAGES/IMAGES.base",
     "MEDIA/IMAGES/IMG-14-12-2025-190038353.png",
@@ -225,7 +226,6 @@
     "MEDIA/IMAGES/IMAGES.canvas",
     "MEDIA/IMAGES/Pasted image 20251214023717.png",
     "MEDIA/IMAGES/Pasted image 20251214023744.png",
-    "Research/Gem-Stage tower (floor).md",
     "Research/Foundation/Modula temporar.md",
     "Research/Foundation/Foundation.md",
     "Personal meeting notes/15-12-25 Presentation GMM.md",

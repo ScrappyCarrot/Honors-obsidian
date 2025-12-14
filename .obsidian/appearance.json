@@ -1,5 +1,8 @@
 {
   "enabledCssSnippets": [
     "canvas-colors"
-  ]
+  ],
+  "cssTheme": "Minimal",
+  "theme": "system",
+  "accentColor": "#875cff"
 }
