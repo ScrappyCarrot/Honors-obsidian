@@ -1,0 +1,8 @@
+views:
+  - type: cards
+    name: Gallery
+    filters:
+      and:
+        - type == "Visual Note"
+        - "!Cover.isEmpty()"
+    image: note.Cover
