@@ -11,14 +11,16 @@
             "id": "7a64d64b7816f9eb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
+                "file": "MEDIA/PDF/Circulaire_Gebiedsontwikkeling_Internationale_Knoop_XL_27052019_compressed_EN.pdf",
+                "page": 1,
+                "left": -25,
+                "top": 621,
+                "zoom": 0.6210691823899371
               },
-              "icon": "lucide-file",
-              "title": "Untitled"
+              "icon": "lucide-file-text",
+              "title": "Circulaire_Gebiedsontwikkeling_Internationale_Knoop_XL_27052019_compressed_EN"
             }
           }
         ]
@@ -116,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "MEDIA/PDF/Circulaire_Gebiedsontwikkeling_Internationale_Knoop_XL_27052019_compressed_EN.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +128,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for Circulaire_Gebiedsontwikkeling_Internationale_Knoop_XL_27052019_compressed_EN"
             }
           },
           {
@@ -225,8 +227,9 @@
   },
   "active": "7a64d64b7816f9eb",
   "lastOpenFiles": [
-    "MEDIA/PDF/Temporary Demountable Structures (Institution of Structural Engineers) (Z-Library).pdf",
     "Untitled.md",
+    "MEDIA/PDF/Circulaire_Gebiedsontwikkeling_Internationale_Knoop_XL_27052019_compressed_EN.pdf",
+    "MEDIA/PDF/Temporary Demountable Structures (Institution of Structural Engineers) (Z-Library).pdf",
     "MEDIA/PDF/Temporary and Tactical Urbanism (Re)Assembling Urban Space (Quentin Stevens, Kim Dovey) (Z-Library).pdf",
     "2025-12-14.md",
     "MEDIA/PDF/Temporary Structures in Construction, Third Edition (Robert Ratay) (Z-Library).pdf",
@@ -270,7 +273,6 @@
     "Notion/2c74d57434b881b592e20042c6fd9b7f/Untitled 2.md",
     "Notion/2c74d57434b881b592e20042c6fd9b7f/EUROCODE LETS GOOOOOOOOO.md",
     "Notion/2c74d57434b881b592e20042c6fd9b7f/Create questions for survey.md",
-    "Notion/Export-5f56dad0-627c-4c59-9b8e-e10e101eba41/Private & Shared/People",
     "Canvas export/CANVAS OF IDEAS.canvas",
     "Untitled.canvas"
   ]
