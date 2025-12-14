@@ -13,34 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/Foundation/Untitled.md",
+                "file": "Research/Foundation/Foundation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          }
-        ]
-      },
-      {
-        "id": "1ceb6674102057a5",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5fb9ba64098134e9",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "MEDIA/EUROCODE/EUCODE-7-Geotechnical.pdf",
-                "page": 28,
-                "left": -4,
-                "top": 251,
-                "zoom": 1
-              },
-              "icon": "lucide-file-text",
-              "title": "EUCODE-7-Geotechnical"
+              "title": "Foundation"
             }
           }
         ]
@@ -116,17 +94,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/Foundation/Untitled.md",
+                "file": "Research/Foundation/Foundation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for Foundation"
             }
           },
           {
@@ -195,13 +173,11 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 402.5,
-    "collapsed": true
+    "width": 402.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -225,12 +201,13 @@
   },
   "active": "7a64d64b7816f9eb",
   "lastOpenFiles": [
-    "MEDIA/IMAGES/Pasted image 20251214175812.png",
+    "Research/Gem-Stage tower (floor).md",
     "Research/Foundation/Foundation.md",
-    "Research/Foundation/Untitled.md",
+    "Research/Foundation/Modula temporar.md",
+    "IMG-14-12-2025-190038402.png",
+    "IMG-14-12-2025-190038353.png",
     "CANVAS OF IDEAS.canvas",
     "MEDIA/IMAGES/IMG-14-12-2025-001219736.png",
-    "Research/Gem-Stage tower (floor).md",
     "MEDIA/EUROCODE/EUCODE-7-Geotechnical.pdf",
     "Personal meeting notes/15-12-25 Presentation GMM.md",
     "Research/Foundation",
@@ -251,8 +228,6 @@
     "MEDIA/IMAGES/Pasted image 20251214023739.png",
     "MEDIA/IMAGES/Pasted image 20251214023744.png",
     "Screenshot 2025-12-13 004653.png",
-    "Screenshot 2025-12-13 020057.png",
-    "Screenshot 2025-12-14 020559.png",
     "Untitled.base",
     "Notion/Export-5f56dad0-627c-4c59-9b8e-e10e101eba41/Private & Shared/People.md",
     "Notion/Export-5f56dad0-627c-4c59-9b8e-e10e101eba41/Private & Shared/People/Maria Barbu.md",

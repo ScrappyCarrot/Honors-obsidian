@@ -5,4 +5,3 @@ The GEM-stage tower is a portable tower that is capable to provide the power nee
 - Check connections and stability principles
 - Assembly &transportation method
 - Ask about the weathering effects on the steel members/ connections
-
