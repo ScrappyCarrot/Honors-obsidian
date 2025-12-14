@@ -36,7 +36,7 @@
                 "file": "MEDIA/PDF/HAI-Engineering-Manual-min.pdf",
                 "page": 6,
                 "left": -17,
-                "top": 611,
+                "top": 51,
                 "zoom": 0.8713235294117647
               },
               "icon": "lucide-file-text",
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MEDIA/PDF/HAI-Engineering-Manual-min.pdf",
+                "file": "Research/Foundation/Helical anchors foundation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for HAI-Engineering-Manual-min"
+              "title": "Backlinks for Helical anchors foundation"
             }
           },
           {
@@ -222,8 +222,9 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "7a64d64b7816f9eb",
+  "active": "873643a3ecf23f1b",
   "lastOpenFiles": [
+    "CANVAS OF IDEAS.canvas",
     "Research/Foundation/Helical anchors foundation.md",
     "MEDIA/PDF/HAI-Engineering-Manual-min.pdf",
     "Research/Foundation/Modula temporar.md",
@@ -232,7 +233,6 @@
     "MEDIA/IMAGES/IMG-14-12-2025-190038402.png",
     "Research/Foundation/Foundation.md",
     "Research/Gem-Stage tower (floor).md",
-    "CANVAS OF IDEAS.canvas",
     "MEDIA/IMAGES/IMG-14-12-2025-001219736.png",
     "MEDIA/EUROCODE/EUCODE-7-Geotechnical.pdf",
     "Personal meeting notes/15-12-25 Presentation GMM.md",
