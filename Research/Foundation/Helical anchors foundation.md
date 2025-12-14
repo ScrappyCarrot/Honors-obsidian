@@ -45,5 +45,5 @@ Helical anchors can also be used in tangent with concrete foundations<mark style
 ! Corrosion would also be a factor to be taken into account as steel anchors would be exposed to some moisture in the ground.
 
 ---
-
-One way to use this system is to have concrete slabs acting as footings, along with helical anchors that are added to troubling l
+##### **Conclusions:**
+One way to use this system is to have concrete slabs acting as footings, along with helical anchors that are added to parts of the foundation that require more load bearing capacity.
