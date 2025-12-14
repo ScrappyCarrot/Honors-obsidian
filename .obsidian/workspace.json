@@ -192,7 +192,8 @@
       "webpage-html-export:Export as HTML": false,
       "obsidian42-brat:BRAT": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-importer:Open Importer": false
+      "obsidian-importer:Open Importer": false,
+      "obsidian42-text-transporter:Text Transporter": false
     }
   },
   "active": "391c0a66a904b9d0",

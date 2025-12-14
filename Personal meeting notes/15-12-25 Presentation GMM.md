@@ -6,4 +6,3 @@
 -make case study of plot 1 and what that would mean for our project
 -make clay models and render them with AI for the 3 variants
 -small overview of everything, try to make the presentation with NotebookLM
-

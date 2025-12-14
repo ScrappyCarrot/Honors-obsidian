@@ -6,13 +6,13 @@
 - **Municipality documents** → constraints + opportunities
 - Regulations, timelines, permissions
 
-**Spatial Strategy**
+**Spatial Strategy** ^qo56sd
 
-- **Bridge / Elevated Walkway?**
-- Different solutions → different moments
-- Temporary vs permanent connections???
-- During construction / after completion
-- Phased logic important
+- **Bridge / Elevated Walkway?** ^7hj05c
+- Different solutions → different moments ^hjcnd5
+- Temporary vs permanent connections??? ^niv723
+- During construction / after completion ^gbpl2u
+- Phased logic important ^0wwqi2
 
 **Construction Phases**
 
@@ -41,7 +41,7 @@
 
 - Research outcomes + open questions
 - 5-minute presentation
-- Analytical, not final
+- Analytical, not final ^299f31
 - Exploration phase
 - Rough numbers acceptable
 
