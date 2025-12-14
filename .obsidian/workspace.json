@@ -11,14 +11,12 @@
             "id": "7a64d64b7816f9eb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Research/Foundation/Helical anchors foundation.md",
-                "mode": "preview",
-                "source": false
+                "file": "MEDIA/IMAGES/IMG-14-12-2025-001219736.png"
               },
-              "icon": "lucide-file",
-              "title": "Helical anchors foundation"
+              "icon": "lucide-image",
+              "title": "IMG-14-12-2025-001219736"
             }
           }
         ]
@@ -94,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/Foundation/Helical anchors foundation.md",
+                "file": "MEDIA/IMAGES/IMG-14-12-2025-001219736.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +102,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Helical anchors foundation"
+              "title": "Backlinks for IMG-14-12-2025-001219736"
             }
           },
           {
@@ -202,19 +200,22 @@
   },
   "active": "7a64d64b7816f9eb",
   "lastOpenFiles": [
-    "CANVAS OF IDEAS.canvas",
+    "MEDIA/IMAGES/IMAGES.md",
+    "MEDIA/IMAGES/IMG-14-12-2025-001219736.png",
+    "MEDIA/IMAGES/books_library_shelves_120472_2560x1024.jpg",
+    "MEDIA/IMAGES/Pasted image 20251214023717.png",
+    "MEDIA/IMAGES/Pasted image 20251214023744.png",
+    "MEDIA/IMAGES/IMG-14-12-2025-190038353.png",
+    "MEDIA/IMAGES/IMG-14-12-2025-190038402.png",
+    "MEDIA/IMAGES/Pasted image 20251214190742.png",
     "Research/Foundation/Helical anchors foundation.md",
+    "CANVAS OF IDEAS.canvas",
     "MEDIA/PDF/HAI-Engineering-Manual-min.pdf",
     "Untitled.base",
     "Untitled 1.base",
-    "MEDIA/IMAGES/books_library_shelves_120472_2560x1024.jpg",
     "Research/Gem-Stage tower (floor).md",
     "Research/Foundation/Modula temporar.md",
-    "MEDIA/IMAGES/IMG-14-12-2025-190038353.png",
-    "MEDIA/IMAGES/Pasted image 20251214190742.png",
-    "MEDIA/IMAGES/IMG-14-12-2025-190038402.png",
     "Research/Foundation/Foundation.md",
-    "MEDIA/IMAGES/IMG-14-12-2025-001219736.png",
     "MEDIA/EUROCODE/EUCODE-7-Geotechnical.pdf",
     "Personal meeting notes/15-12-25 Presentation GMM.md",
     "Research/Foundation",
@@ -228,9 +229,7 @@
     "2025-12-14.md",
     "MEDIA/IMAGES/Pasted image 20251214023712.png",
     "MEDIA/IMAGES/Pasted image 20251214023701.png",
-    "MEDIA/IMAGES/Pasted image 20251214023717.png",
     "MEDIA/IMAGES/Pasted image 20251214023739.png",
-    "MEDIA/IMAGES/Pasted image 20251214023744.png",
     "Notion/Export-5f56dad0-627c-4c59-9b8e-e10e101eba41/Private & Shared/People.md",
     "Notion/Export-5f56dad0-627c-4c59-9b8e-e10e101eba41/Private & Shared/People/Maria Barbu.md",
     "Notion/Export-5f56dad0-627c-4c59-9b8e-e10e101eba41/Private & Shared/People/Aylin I.md",
@@ -247,7 +246,6 @@
     "Notion/2c74d57434b881b592e20042c6fd9b7f/We can check to see if elevators or ramps are the better sollution.md",
     "Notion/2c74d57434b881b592e20042c6fd9b7f/CANVAS OF IDEAS (Victor).md",
     "Notion/2c74d57434b881b592e20042c6fd9b7f/Presentation for GMM2.md",
-    "Notion/2c74d57434b881b592e20042c6fd9b7f/City flow research cases.md",
     "Canvas export/CANVAS OF IDEAS.canvas",
     "Untitled.canvas"
   ]
