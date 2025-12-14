@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/Foundation/Helical anchors foundation.md",
+                "file": "Untitled/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Helical anchors foundation"
+              "title": "Untitled"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/Foundation/Helical anchors foundation.md",
+                "file": "Untitled/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Helical anchors foundation"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -202,9 +202,12 @@
   },
   "active": "7a64d64b7816f9eb",
   "lastOpenFiles": [
+    "Research/Foundation/Helical anchors foundation.md",
+    "Untitled/Untitled.md",
+    "Untitled",
+    "MEDIA/IMAGES/IMAGES.base",
     "MEDIA/IMAGES/IMG-14-12-2025-190038353.png",
     "MEDIA/IMAGES/Pasted image 20251214190742.png",
-    "Research/Foundation/Helical anchors foundation.md",
     "MEDIA/IMAGES/IMG-14-12-2025-190038402.png",
     "MEDIA/IMAGES/Pasted image 20251214023739.png",
     "MEDIA/IMAGES/books_library_shelves_120472_2560x1024.jpg",
@@ -218,8 +221,6 @@
     "Canvas export/site-lib/fonts/mathjax_vector-bold.woff",
     "Canvas export/site-lib/fonts/mathjax_sansserif-italic.woff",
     "Canvas export/site-lib/fonts/mathjax_typewriter-regular.woff",
-    "Canvas export/site-lib/fonts/mathjax_script-regular.woff",
-    "Canvas export/site-lib/fonts/mathjax_sansserif-bold.woff",
     "MEDIA/IMAGES/IMAGES.canvas",
     "MEDIA/IMAGES/Pasted image 20251214023717.png",
     "MEDIA/IMAGES/IMAGES.md",
