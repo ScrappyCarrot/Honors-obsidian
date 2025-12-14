@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled/Untitled.md",
+                "file": "MEDIA/IMAGES/IMAGES.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "IMAGES"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled/Untitled.md",
+                "file": "MEDIA/IMAGES/IMAGES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for IMAGES"
             }
           },
           {
@@ -202,8 +202,10 @@
   },
   "active": "7a64d64b7816f9eb",
   "lastOpenFiles": [
-    "Research/Foundation/Helical anchors foundation.md",
+    "MEDIA/IMAGES/IMG-14-12-2025-001219736.png",
+    "MEDIA/IMAGES/IMAGES.md",
     "Untitled/Untitled.md",
+    "Research/Foundation/Helical anchors foundation.md",
     "Untitled",
     "MEDIA/IMAGES/IMAGES.base",
     "MEDIA/IMAGES/IMG-14-12-2025-190038353.png",
@@ -211,7 +213,6 @@
     "MEDIA/IMAGES/IMG-14-12-2025-190038402.png",
     "MEDIA/IMAGES/Pasted image 20251214023739.png",
     "MEDIA/IMAGES/books_library_shelves_120472_2560x1024.jpg",
-    "MEDIA/IMAGES/IMG-14-12-2025-001219736.png",
     "MEDIA/PDF/Temporary and Tactical Urbanism (Re)Assembling Urban Space (Quentin Stevens, Kim Dovey) (Z-Library).pdf",
     "CANVAS OF IDEAS.canvas",
     "Canvas export/media/pdf/hai-engineering-manual-min.pdf",
@@ -223,7 +224,6 @@
     "Canvas export/site-lib/fonts/mathjax_typewriter-regular.woff",
     "MEDIA/IMAGES/IMAGES.canvas",
     "MEDIA/IMAGES/Pasted image 20251214023717.png",
-    "MEDIA/IMAGES/IMAGES.md",
     "MEDIA/IMAGES/Pasted image 20251214023744.png",
     "Research/Gem-Stage tower (floor).md",
     "Research/Foundation/Modula temporar.md",
@@ -249,7 +249,6 @@
     "Notion/2c74d57434b881b592e20042c6fd9b7f/Rerouting for cars.md",
     "Notion/2c74d57434b881b592e20042c6fd9b7f/We can check to see if elevators or ramps are the better sollution.md",
     "Notion/2c74d57434b881b592e20042c6fd9b7f/CANVAS OF IDEAS (Victor).md",
-    "Notion/2c74d57434b881b592e20042c6fd9b7f/Presentation for GMM2.md",
     "Canvas export/CANVAS OF IDEAS.canvas",
     "Untitled.canvas"
   ]
