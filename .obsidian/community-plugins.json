@@ -18,5 +18,6 @@
   "text-extractor",
   "obsidian-annotator",
   "convert-url-to-iframe",
-  "pdf-plus"
+  "pdf-plus",
+  "folders2graph"
 ]
