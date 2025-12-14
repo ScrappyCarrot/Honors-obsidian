@@ -1,0 +1,16 @@
+formulas:
+  Untitled: file(thumbnail)
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - file.ext == "pdf"
+        - file.folder == "MEDIA/PDF"
+    order:
+      - formula.Untitled
+      - file.ext
+      - file.name
+    cardSize: 280
+    imageAspectRatio: 1.05
+    imageFit: contain

@@ -167,7 +167,8 @@
 			"width":417,
 			"height":440,
 			"color":"4"
-		}
+		},
+		{"id":"12c06e41bf809658","type":"file","file":"MEDIA/IMAGES/Pasted image 20251214190742.png","x":-1880,"y":1600,"width":400,"height":225}
 	],
 	"edges":[
 		{"id":"f1153a809622ee9e","fromNode":"0a18e5d7148299a3","fromSide":"bottom","toNode":"67ebb59448249d05","toSide":"top"},
