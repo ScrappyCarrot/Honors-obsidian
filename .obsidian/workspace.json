@@ -11,38 +11,14 @@
             "id": "7a64d64b7816f9eb",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "MEDIA/PDF/nko-mmk-bijlage-4 - -ontwerpverantwoording-korte-lijst-oplossingsricht - -10-dec-2024+(1)_EN.pdf",
-                "page": 2,
-                "left": 10,
-                "top": 831,
-                "zoom": 0.8962787414279952
+                "file": "Research/Gem-Stage tower (floor).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "nko-mmk-bijlage-4 - -ontwerpverantwoording-korte-lijst-oplossingsricht - -10-dec-2024+(1)_EN"
-            }
-          }
-        ]
-      },
-      {
-        "id": "28575f166ce5bc28",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "10a0faa06044459f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "MEDIA/PDF/Temporary Demountable Structures (Institution of Structural Engineers) (Z-Library).pdf",
-                "page": 21,
-                "left": -17,
-                "top": 533,
-                "zoom": 0.8958029552678087
-              },
-              "icon": "lucide-file-text",
-              "title": "Temporary Demountable Structures (Institution of Structural Engineers) (Z-Library)"
+              "icon": "lucide-file",
+              "title": "Gem-Stage tower (floor)"
             }
           }
         ]
@@ -118,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MEDIA/PDF/nko-mmk-bijlage-4 - -ontwerpverantwoording-korte-lijst-oplossingsricht - -10-dec-2024+(1)_EN.pdf",
+                "file": "Research/Gem-Stage tower (floor).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for nko-mmk-bijlage-4 - -ontwerpverantwoording-korte-lijst-oplossingsricht - -10-dec-2024+(1)_EN"
+              "title": "Backlinks for Gem-Stage tower (floor)"
             }
           },
           {
@@ -225,10 +201,14 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "c89686570795ced7",
+  "active": "7a64d64b7816f9eb",
   "lastOpenFiles": [
-    "MEDIA/PDF/Temporary Demountable Structures (Institution of Structural Engineers) (Z-Library).pdf",
+    "MEDIA/PDF/GEM-STAGE-Factsheet-2021.pdf",
+    "Research/Gem-Stage tower (floor).md",
+    "Personal meeting notes/15-12-25 Presentation GMM.md",
+    "Notion/Meet 12dec.md",
     "MEDIA/PDF/nko-mmk-bijlage-4 - -ontwerpverantwoording-korte-lijst-oplossingsricht - -10-dec-2024+(1)_EN.pdf",
+    "MEDIA/PDF/Temporary Demountable Structures (Institution of Structural Engineers) (Z-Library).pdf",
     "MEDIA/PDF/besluit-bouwwerken-leefomgeving-tekst-bij-inwerkingtreding-1 (1).pdf",
     "MEDIA/PDF/Temporary Structures in Construction, Third Edition (Robert Ratay) (Z-Library).pdf",
     "MEDIA/PDF/Circulaire_Gebiedsontwikkeling_Internationale_Knoop_XL_27052019_compressed_EN.pdf",
@@ -237,8 +217,6 @@
     "Untitled.md",
     "MEDIA/IMAGES/books_library_shelves_120472_2560x1024.jpg",
     "MEDIA/PDF/Temporary and Tactical Urbanism (Re)Assembling Urban Space (Quentin Stevens, Kim Dovey) (Z-Library).pdf",
-    "Personal meeting notes/15-12-25 Presentation GMM.md",
-    "Notion/Meet 12dec.md",
     "MEDIA/IMAGES/Pasted image 20251214023712.png",
     "MEDIA/IMAGES/Pasted image 20251214023701.png",
     "MEDIA/IMAGES/Pasted image 20251214023717.png",
@@ -251,15 +229,12 @@
     "Untitled.base",
     "Meeting Notes 2c04d57434b8802d8e02cf55e60d64b6_all 1.csv",
     "Meeting Notes 2c04d57434b8802d8e02cf55e60d64b6_all.csv",
-    "People d3d4d57434b882dfb0d8014512d331ec.csv",
-    "Notion",
     "Notion/Export-5f56dad0-627c-4c59-9b8e-e10e101eba41/Private & Shared/People.md",
     "Notion/Export-5f56dad0-627c-4c59-9b8e-e10e101eba41/Private & Shared/People/Maria Barbu.md",
     "Notion/Export-5f56dad0-627c-4c59-9b8e-e10e101eba41/Private & Shared/People/Aylin I.md",
     "Notion/2c74d57434b881b592e20042c6fd9b7f/Build a bridge w- secondary function.md",
     "Notion/2c74d57434b881b592e20042c6fd9b7f/Evacuation of bats-birds etc.md",
     "Notion/2c74d57434b881b592e20042c6fd9b7f/Elevated expressway.md",
-    "Research/Glow tower.md",
     "Notion/2c74d57434b881b592e20042c6fd9b7f/Bridge.md",
     "Notion/2c74d57434b881b592e20042c6fd9b7f/Make complex site.md",
     "Notion/2c74d57434b881b592e20042c6fd9b7f/Secondary sctructures (materials for people moving in+ wildlife shelter).md",
