@@ -22,6 +22,28 @@
             }
           }
         ]
+      },
+      {
+        "id": "1ceb6674102057a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5fb9ba64098134e9",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "MEDIA/PDF/GEM-STAGE-Factsheet-2021.pdf",
+                "page": 1,
+                "left": -33,
+                "top": 1698,
+                "zoom": 0.448015122873346
+              },
+              "icon": "lucide-file-text",
+              "title": "GEM-STAGE-Factsheet-2021"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
