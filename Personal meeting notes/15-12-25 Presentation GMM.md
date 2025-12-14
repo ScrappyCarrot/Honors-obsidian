@@ -7,4 +7,4 @@
 -make clay models and render them with AI for the 3 variants
 -small overview of everything, try to make the presentation with NotebookLM
 
-
+/

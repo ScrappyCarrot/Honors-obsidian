@@ -11,10 +11,14 @@
             "id": "391c0a66a904b9d0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Personal meeting notes/15-12-25 Presentation GMM.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "15-12-25 Presentation GMM"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Personal meeting notes/15-12-25 Presentation GMM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 15-12-25 Presentation GMM"
             }
           },
           {
@@ -168,8 +173,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -191,8 +195,10 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "c89686570795ced7",
+  "active": "391c0a66a904b9d0",
   "lastOpenFiles": [
+    "Notion",
+    "Notion/Export-5f56dad0-627c-4c59-9b8e-e10e101eba41/Private & Shared/People.md",
     "Notion/Export-5f56dad0-627c-4c59-9b8e-e10e101eba41/Private & Shared/People/Maria Barbu.md",
     "Notion/Export-5f56dad0-627c-4c59-9b8e-e10e101eba41/Private & Shared/People/Aylin I.md",
     "Notion/2c74d57434b881b592e20042c6fd9b7f/Build a bridge w- secondary function.md",
@@ -217,14 +223,11 @@
     "Notion/2c74d57434b881b592e20042c6fd9b7f/Manufacturing.md",
     "Notion/2c74d57434b881b592e20042c6fd9b7f/Team Meeting 3.md",
     "Notion/2c74d57434b881b592e20042c6fd9b7f/Untitled.md",
-    "Notion/2c74d57434b881b592e20042c6fd9b7f/Wesley Team Meeting 2.md",
-    "Notion/2c74d57434b881b592e20042c6fd9b7f/We love Floor meeting 2.md",
     "books_library_shelves_120472_2560x1024.jpg",
     "Notion/Export-5f56dad0-627c-4c59-9b8e-e10e101eba41/Private & Shared/People",
     "Notion/2c74d57434b881b592e20042c6fd9b7f",
     "Notion/Export-5f56dad0-627c-4c59-9b8e-e10e101eba41/Private & Shared",
     "Notion/Export-5f56dad0-627c-4c59-9b8e-e10e101eba41",
-    "Notion",
     "Personal meeting notes",
     "Research",
     "CANVAS OF IDEAS.canvas",
