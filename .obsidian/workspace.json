@@ -116,7 +116,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/Foundation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +125,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Foundation"
+              "title": "Backlinks"
             }
           },
           {
@@ -223,10 +222,11 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "7a64d64b7816f9eb",
+  "active": "c89686570795ced7",
   "lastOpenFiles": [
-    "MEDIA/EUROCODE/EUCODE-7-Geotechnical.pdf",
     "Research/Foundation.md",
+    "Research/Untitled.md",
+    "MEDIA/EUROCODE/EUCODE-7-Geotechnical.pdf",
     "Research/Gem-Stage tower (floor).md",
     "MEDIA/PDF/GEM-STAGE-Factsheet-2021.pdf",
     "Personal meeting notes/15-12-25 Presentation GMM.md",
@@ -238,7 +238,6 @@
     "MEDIA/PDF/Circulaire_Gebiedsontwikkeling_Internationale_Knoop_XL_27052019_compressed_EN.pdf",
     "CANVAS OF IDEAS.canvas",
     "2025-12-14.md",
-    "Untitled.md",
     "MEDIA/IMAGES/books_library_shelves_120472_2560x1024.jpg",
     "MEDIA/PDF/Temporary and Tactical Urbanism (Re)Assembling Urban Space (Quentin Stevens, Kim Dovey) (Z-Library).pdf",
     "MEDIA/IMAGES/Pasted image 20251214023712.png",
