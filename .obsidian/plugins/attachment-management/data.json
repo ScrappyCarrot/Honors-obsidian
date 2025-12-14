@@ -3,7 +3,7 @@
   "attachPath": {
     "attachmentRoot": "",
     "saveAttE": "inFolderBelow",
-    "attachmentPath": "${notepath}/${notename}",
+    "attachmentPath": "",
     "attachFormat": "IMG-${date}",
     "type": "GLOBAL",
     "extensionOverride": [
@@ -15,10 +15,38 @@
         "attachFormat": "IMG-${date}"
       },
       {
-        "extension": "png\\jpeg\\jpg",
+        "extension": "png|",
         "attachmentRoot": "",
         "saveAttE": "obsFolder",
-        "attachmentPath": "${notepath}/${notename}",
+        "attachmentPath": "MEDIA/IMAGES",
+        "attachFormat": "IMG-${date}"
+      },
+      {
+        "extension": "jpg",
+        "attachmentRoot": "",
+        "saveAttE": "nextToNote",
+        "attachmentPath": "MEDIA/IMAGES",
+        "attachFormat": "IMG-${date}"
+      },
+      {
+        "extension": "jpeg",
+        "attachmentRoot": "MEDIA/IMAGES",
+        "saveAttE": "inFolderBelow",
+        "attachmentPath": "",
+        "attachFormat": "IMG-${date}"
+      },
+      {
+        "extension": "tiff",
+        "attachmentRoot": "MEDIA/IMAGES",
+        "saveAttE": "inFolderBelow",
+        "attachmentPath": "",
+        "attachFormat": "IMG-${date}"
+      },
+      {
+        "extension": "html",
+        "attachmentRoot": "MEDIA/IMAGES",
+        "saveAttE": "inFolderBelow",
+        "attachmentPath": "",
         "attachFormat": "IMG-${date}"
       }
     ]
