@@ -33,14 +33,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "MEDIA/PDF/GEM-STAGE-Factsheet-2021.pdf",
+                "file": "MEDIA/EUROCODE/EUCODE-7-Geotechnical.pdf",
                 "page": 1,
-                "left": -33,
-                "top": 1698,
-                "zoom": 0.448015122873346
+                "left": -11,
+                "top": 729,
+                "zoom": 0.896218487394958
               },
               "icon": "lucide-file-text",
-              "title": "GEM-STAGE-Factsheet-2021"
+              "title": "EUCODE-7-Geotechnical"
             }
           }
         ]
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/Gem-Stage tower (floor).md",
+                "file": "MEDIA/EUROCODE/EUCODE-7-Geotechnical.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Gem-Stage tower (floor)"
+              "title": "Backlinks for EUCODE-7-Geotechnical"
             }
           },
           {
@@ -223,10 +223,10 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "7a64d64b7816f9eb",
+  "active": "c89686570795ced7",
   "lastOpenFiles": [
-    "Research/Gem-Stage tower (floor).md",
     "MEDIA/PDF/GEM-STAGE-Factsheet-2021.pdf",
+    "Research/Gem-Stage tower (floor).md",
     "Personal meeting notes/15-12-25 Presentation GMM.md",
     "Notion/Meet 12dec.md",
     "MEDIA/PDF/nko-mmk-bijlage-4 - -ontwerpverantwoording-korte-lijst-oplossingsricht - -10-dec-2024+(1)_EN.pdf",
