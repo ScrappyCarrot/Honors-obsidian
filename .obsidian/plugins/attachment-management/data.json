@@ -58,6 +58,58 @@
   "excludePathsArray": [],
   "excludeSubpaths": false,
   "originalNameStorage": [],
-  "overridePath": {},
+  "overridePath": {
+    "MEDIA/IMAGES": {
+      "attachmentRoot": "",
+      "saveAttE": "inFolderBelow",
+      "attachmentPath": "",
+      "attachFormat": "IMG-${date}",
+      "type": "FOLDER",
+      "extensionOverride": [
+        {
+          "extension": "pdf",
+          "attachmentRoot": "MEDIA/PDF",
+          "saveAttE": "inFolderBelow",
+          "attachmentPath": "",
+          "attachFormat": "IMG-${date}"
+        },
+        {
+          "extension": "png|",
+          "attachmentRoot": "",
+          "saveAttE": "obsFolder",
+          "attachmentPath": "MEDIA/IMAGES",
+          "attachFormat": "IMG-${date}"
+        },
+        {
+          "extension": "jpg",
+          "attachmentRoot": "",
+          "saveAttE": "nextToNote",
+          "attachmentPath": "MEDIA/IMAGES",
+          "attachFormat": "IMG-${date}"
+        },
+        {
+          "extension": "jpeg",
+          "attachmentRoot": "MEDIA/IMAGES",
+          "saveAttE": "inFolderBelow",
+          "attachmentPath": "",
+          "attachFormat": "IMG-${date}"
+        },
+        {
+          "extension": "tiff",
+          "attachmentRoot": "MEDIA/IMAGES",
+          "saveAttE": "inFolderBelow",
+          "attachmentPath": "",
+          "attachFormat": "IMG-${date}"
+        },
+        {
+          "extension": "html",
+          "attachmentRoot": "MEDIA/IMAGES",
+          "saveAttE": "inFolderBelow",
+          "attachmentPath": "",
+          "attachFormat": "IMG-${date}"
+        }
+      ]
+    }
+  },
   "disableNotification": false
 }
