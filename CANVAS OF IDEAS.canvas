@@ -1,17 +1,6 @@
 {
 	"nodes":[
 		{
-			"id":"69fa834f18281f92",
-			"type":"text",
-			"text":"##### **Regulations**",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-1173,
-			"y":240,
-			"width":250,
-			"height":60,
-			"color":"3"
-		},
-		{
 			"id":"0a18e5d7148299a3",
 			"type":"text",
 			"text":"Have to check regulations on:",
@@ -139,7 +128,7 @@
 			"id":"08e9bae3e2d456a7",
 			"type":"text",
 			"text":"Foundartions",
-			"styleAttributes":{},
+			"styleAttributes":{"textAlign":"center"},
 			"x":-2037,
 			"y":839,
 			"width":260,
@@ -179,7 +168,6 @@
 			"height":380
 		},
 		{"id":"53366ec4b447d535","type":"file","file":"Research/Foundation/Helical anchors foundation.md","subpath":"#**Advantages **","x":-2107,"y":1409,"width":380,"height":320},
-		{"id":"8e4778eba9da87f3","type":"file","file":"MEDIA/IMAGES/Pasted image 20251214213326.png","x":-3400,"y":839,"width":300,"height":400},
 		{"id":"d5dbce099680efa2","type":"file","file":"Research/Gem-Stage tower (floor).md","x":-3060,"y":839,"width":400,"height":400},
 		{
 			"id":"14aa45128b6a0e60",
@@ -190,7 +178,30 @@
 			"y":1340,
 			"width":400,
 			"height":100
-		}
+		},
+		{
+			"id":"c26977429ee859ff",
+			"type":"text",
+			"text":"Core houses the electronics for the generation of solar energy. We could incorporate something similar if we have functions that require power. This way it doesn't impede the construction sites\n",
+			"styleAttributes":{},
+			"x":-3740,
+			"y":1310,
+			"width":260,
+			"height":160
+		},
+		{
+			"id":"69fa834f18281f92",
+			"type":"text",
+			"text":"# REGULATIONS",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-1204,
+			"y":200,
+			"width":313,
+			"height":100,
+			"color":"3"
+		},
+		{"id":"14c14346df1849c0","type":"file","file":"MEDIA/IMAGES/Pasted image 20251214214706.png","x":-3367,"y":1270,"width":267,"height":400},
+		{"id":"8e4778eba9da87f3","type":"file","file":"MEDIA/IMAGES/Pasted image 20251214213326.png","x":-3367,"y":861,"width":267,"height":356}
 	],
 	"edges":[
 		{"id":"f1153a809622ee9e","fromNode":"0a18e5d7148299a3","fromSide":"bottom","toNode":"67ebb59448249d05","toSide":"top"},
@@ -291,6 +302,16 @@
 			"fromSide":"bottom",
 			"toNode":"14aa45128b6a0e60",
 			"toSide":"top"
+		},
+		{
+			"id":"53594d0ddaebb901",
+			"styleAttributes":{"arrow":"blunt","pathfindingMethod":"square","path":"long-dashed"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"c26977429ee859ff",
+			"fromSide":"right",
+			"toNode":"14c14346df1849c0",
+			"toSide":"left"
 		}
 	],
 	"metadata":{
