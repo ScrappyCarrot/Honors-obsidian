@@ -91,17 +91,6 @@
 			"color":"6"
 		},
 		{
-			"id":"d1d64a71a2499869",
-			"type":"text",
-			"text":"- Rules for temporary structures are less strict as we can use the existing building protocols instead of the new construction ones\n- Foundations should be made with precast concrete slabs instead of pouring piles (See Floor project)\n- Load combinations along with 3D wind patterns have to be considered. ( less of an issue if we go for the small wildlife variant as the structures are much smaller)\n- Dynamics of users have to be taken into account> steel doesn't dampen vibrations well and it can cause resonance which weakens the structure",
-			"styleAttributes":{},
-			"x":-2660,
-			"y":170,
-			"width":417,
-			"height":440,
-			"color":"4"
-		},
-		{
 			"id":"8089bf47173964af",
 			"type":"text",
 			"text":"##### **Connections**",
@@ -166,36 +155,27 @@
 			"width":260,
 			"height":60
 		},
-		{"id":"e8b5c95629f57b61","type":"file","file":"Research/Foundation/Helical anchors foundation.md","subpath":"#**Conclusions **","x":-2177,"y":1420,"width":540,"height":140},
-		{"id":"53366ec4b447d535","type":"file","file":"Research/Foundation/Helical anchors foundation.md","subpath":"#**Conclusions **","x":-1907,"y":1660,"width":540,"height":140}
+		{"id":"e8b5c95629f57b61","type":"file","file":"Research/Foundation/Helical anchors foundation.md","subpath":"#**Conclusions **","x":-1880,"y":1340,"width":320,"height":220},
+		{"id":"53366ec4b447d535","type":"file","file":"Research/Foundation/Helical anchors foundation.md","subpath":"#**Advantages **","x":-2287,"y":1340,"width":380,"height":320},
+		{
+			"id":"d1d64a71a2499869",
+			"type":"text",
+			"text":"- Rules for temporary structures are less strict as we can use the existing building protocols instead of the new construction ones\n- Foundations should be made with precast concrete slabs instead of pouring piles (See Floor project)\n- Load combinations along with 3D wind patterns have to be considered. ( less of an issue if we go for the small wildlife variant as the structures are much smaller)\n- Dynamics of users have to be taken into account> steel doesn't dampen vibrations well and it can cause resonance which weakens the structure",
+			"styleAttributes":{},
+			"x":-2460,
+			"y":260,
+			"width":417,
+			"height":440,
+			"color":"4"
+		}
 	],
 	"edges":[
 		{"id":"f1153a809622ee9e","fromNode":"0a18e5d7148299a3","fromSide":"bottom","toNode":"67ebb59448249d05","toSide":"top"},
 		{"id":"5b1b579668b23886","fromNode":"0a18e5d7148299a3","fromSide":"bottom","toNode":"e4c9ac81a72e0601","toSide":"top"},
 		{"id":"57415a0b2f7573af","fromNode":"0a18e5d7148299a3","fromSide":"bottom","toNode":"d81450e0fa52803f","toSide":"top"},
-		{"id":"43ed357a726b380b","fromNode":"0a18e5d7148299a3","fromSide":"bottom","toNode":"fa618c0673ac65cb","toSide":"right"},
 		{"id":"a23c10e23bc4ad3e","fromNode":"67ebb59448249d05","fromSide":"bottom","toNode":"1bcdf2ae779c307b","toSide":"top"},
 		{"id":"7a83a5a8539f760d","fromNode":"e4c9ac81a72e0601","fromSide":"bottom","toNode":"8f6cfe3883edbeea","toSide":"top"},
 		{"id":"b901f2e2c92b4104","fromNode":"d81450e0fa52803f","fromSide":"bottom","toNode":"f173656001d9f945","toSide":"top"},
-		{
-			"id":"93477ba2c4c8dcef",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromFloating":false,
-			"fromNode":"cc052143674beb71",
-			"fromSide":"bottom",
-			"toNode":"d1d64a71a2499869",
-			"toSide":"right"
-		},
-		{
-			"id":"f80bc0bf11fbeda8",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"a46aa6c3804c0154",
-			"fromSide":"bottom",
-			"toNode":"d1d64a71a2499869",
-			"toSide":"right"
-		},
 		{
 			"id":"301ebb912a8d9f4d",
 			"styleAttributes":{},
@@ -230,6 +210,45 @@
 			"fromNode":"514dc48d63e46c40",
 			"fromSide":"bottom",
 			"toNode":"e8b5c95629f57b61",
+			"toSide":"top"
+		},
+		{
+			"id":"08fce5c09aea20c4",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"514dc48d63e46c40",
+			"fromSide":"bottom",
+			"toNode":"53366ec4b447d535",
+			"toSide":"top"
+		},
+		{
+			"id":"b7a73c1707cf7f63",
+			"styleAttributes":{
+				"pathfindingMethod":null
+			},
+			"toFloating":false,
+			"fromNode":"0a18e5d7148299a3",
+			"fromSide":"bottom",
+			"toNode":"fa618c0673ac65cb",
+			"toSide":"right"
+		},
+		{
+			"id":"9c5eb44f096c473a",
+			"styleAttributes":{"path":"long-dashed"},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"cc052143674beb71",
+			"fromSide":"bottom",
+			"toNode":"d1d64a71a2499869",
+			"toSide":"top"
+		},
+		{
+			"id":"09f6ef559c431c25",
+			"styleAttributes":{"path":"long-dashed"},
+			"toFloating":false,
+			"fromNode":"a46aa6c3804c0154",
+			"fromSide":"bottom",
+			"toNode":"d1d64a71a2499869",
 			"toSide":"top"
 		}
 	],

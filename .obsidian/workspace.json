@@ -15,9 +15,9 @@
               "state": {
                 "file": "CANVAS OF IDEAS.canvas",
                 "viewState": {
-                  "x": -1926.8579692341425,
-                  "y": 1620.4453985604755,
-                  "zoom": -0.5214513429808275
+                  "x": 625,
+                  "y": -890,
+                  "zoom": -3.1990419340590672
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CANVAS OF IDEAS.canvas",
+                "file": "Research/Foundation/Helical anchors foundation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for CANVAS OF IDEAS"
+              "title": "Backlinks for Helical anchors foundation"
             }
           },
           {
@@ -223,17 +223,18 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "873643a3ecf23f1b",
+  "active": "7a64d64b7816f9eb",
   "lastOpenFiles": [
-    "Research/Foundation/Helical anchors foundation.md",
-    "MEDIA/PDF/HAI-Engineering-Manual-min.pdf",
     "CANVAS OF IDEAS.canvas",
+    "MEDIA/IMAGES/books_library_shelves_120472_2560x1024.jpg",
+    "Research/Foundation/Helical anchors foundation.md",
+    "Research/Gem-Stage tower (floor).md",
+    "MEDIA/PDF/HAI-Engineering-Manual-min.pdf",
     "Research/Foundation/Modula temporar.md",
     "MEDIA/IMAGES/IMG-14-12-2025-190038353.png",
     "MEDIA/IMAGES/Pasted image 20251214190742.png",
     "MEDIA/IMAGES/IMG-14-12-2025-190038402.png",
     "Research/Foundation/Foundation.md",
-    "Research/Gem-Stage tower (floor).md",
     "MEDIA/IMAGES/IMG-14-12-2025-001219736.png",
     "MEDIA/EUROCODE/EUCODE-7-Geotechnical.pdf",
     "Personal meeting notes/15-12-25 Presentation GMM.md",
@@ -247,7 +248,6 @@
     "MEDIA/PDF/Temporary Structures in Construction, Third Edition (Robert Ratay) (Z-Library).pdf",
     "MEDIA/PDF/Circulaire_Gebiedsontwikkeling_Internationale_Knoop_XL_27052019_compressed_EN.pdf",
     "2025-12-14.md",
-    "MEDIA/IMAGES/books_library_shelves_120472_2560x1024.jpg",
     "MEDIA/PDF/Temporary and Tactical Urbanism (Re)Assembling Urban Space (Quentin Stevens, Kim Dovey) (Z-Library).pdf",
     "MEDIA/IMAGES/Pasted image 20251214023712.png",
     "MEDIA/IMAGES/Pasted image 20251214023701.png",
