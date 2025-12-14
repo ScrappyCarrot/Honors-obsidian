@@ -11,14 +11,10 @@
             "id": "391c0a66a904b9d0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Research/Glow tower.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Glow tower"
+              "title": "New tab"
             }
           }
         ]
@@ -197,9 +193,38 @@
   },
   "active": "c89686570795ced7",
   "lastOpenFiles": [
-    "Notion",
-    "Personal meeting notes/15-12-25 Presentation GMM.md",
+    "Notion/Export-5f56dad0-627c-4c59-9b8e-e10e101eba41/Private & Shared/People/Maria Barbu.md",
+    "Notion/Export-5f56dad0-627c-4c59-9b8e-e10e101eba41/Private & Shared/People/Aylin I.md",
+    "Notion/2c74d57434b881b592e20042c6fd9b7f/Build a bridge w- secondary function.md",
+    "Notion/2c74d57434b881b592e20042c6fd9b7f/Evacuation of bats-birds etc.md",
+    "Notion/2c74d57434b881b592e20042c6fd9b7f/Elevated expressway.md",
     "Research/Glow tower.md",
+    "Notion/2c74d57434b881b592e20042c6fd9b7f/Bridge.md",
+    "Notion/2c74d57434b881b592e20042c6fd9b7f/Make complex site.md",
+    "Notion/2c74d57434b881b592e20042c6fd9b7f/Secondary sctructures (materials for people moving in+ wildlife shelter).md",
+    "Notion/2c74d57434b881b592e20042c6fd9b7f/Elevated walkway-Pavilion.md",
+    "Notion/2c74d57434b881b592e20042c6fd9b7f/What kind of wildlife we will attract.md",
+    "Notion/2c74d57434b881b592e20042c6fd9b7f/Untitled 3.md",
+    "Notion/2c74d57434b881b592e20042c6fd9b7f/Rerouting for cars.md",
+    "Notion/2c74d57434b881b592e20042c6fd9b7f/We can check to see if elevators or ramps are the better sollution.md",
+    "Notion/2c74d57434b881b592e20042c6fd9b7f/CANVAS OF IDEAS (Victor).md",
+    "Notion/2c74d57434b881b592e20042c6fd9b7f/Presentation for GMM2.md",
+    "Notion/2c74d57434b881b592e20042c6fd9b7f/City flow research cases.md",
+    "Notion/2c74d57434b881b592e20042c6fd9b7f/Untitled 2.md",
+    "Notion/2c74d57434b881b592e20042c6fd9b7f/EUROCODE LETS GOOOOOOOOO.md",
+    "Notion/2c74d57434b881b592e20042c6fd9b7f/Create questions for survey.md",
+    "Notion/2c74d57434b881b592e20042c6fd9b7f/Biological integration.md",
+    "Notion/2c74d57434b881b592e20042c6fd9b7f/Manufacturing.md",
+    "Notion/2c74d57434b881b592e20042c6fd9b7f/Team Meeting 3.md",
+    "Notion/2c74d57434b881b592e20042c6fd9b7f/Untitled.md",
+    "Notion/2c74d57434b881b592e20042c6fd9b7f/Wesley Team Meeting 2.md",
+    "Notion/2c74d57434b881b592e20042c6fd9b7f/We love Floor meeting 2.md",
+    "books_library_shelves_120472_2560x1024.jpg",
+    "Notion/Export-5f56dad0-627c-4c59-9b8e-e10e101eba41/Private & Shared/People",
+    "Notion/2c74d57434b881b592e20042c6fd9b7f",
+    "Notion/Export-5f56dad0-627c-4c59-9b8e-e10e101eba41/Private & Shared",
+    "Notion/Export-5f56dad0-627c-4c59-9b8e-e10e101eba41",
+    "Notion",
     "Personal meeting notes",
     "Research",
     "CANVAS OF IDEAS.canvas",
@@ -211,20 +236,11 @@
     "Canvas export/site-lib/search-index.json",
     "Canvas export/site-lib/metadata.json",
     "Canvas export/media/images/img-14-12-2025-001219736.png",
-    "Canvas export/media/images",
-    "Canvas export/media",
-    "Canvas export/site-lib/fonts/72505e6a122c6acd5471.woff2",
-    "Canvas export/site-lib/fonts/cbe0ae49c52c920fd563.woff2",
-    "Canvas export/site-lib/fonts/cb10ffd7684cd9836a05.woff2",
     "Canvas export/site-lib/media/favicon.png",
     "Canvas export/site-lib/media/6155340132a851f6089e.svg",
     "Canvas export/site-lib/media/2308ab1944a6bfa5c5b8.svg",
-    "45tyh4.md",
     "MEDIA/IMAGES/IMG-14-12-2025-001219736.png",
     "GIT export/site-lib/media/favicon.png",
-    "GIT export/site-lib/media/6155340132a851f6089e.svg",
-    "GIT export/README.md",
-    "Untitled.canvas",
-    "Welcome.md"
+    "Untitled.canvas"
   ]
 }
