@@ -15,9 +15,9 @@
               "state": {
                 "file": "CANVAS OF IDEAS.canvas",
                 "viewState": {
-                  "x": -1586.5619746414525,
-                  "y": 1504.331274899431,
-                  "zoom": -0.5656484784723993
+                  "x": -1834.4601271443203,
+                  "y": 989.7695815673894,
+                  "zoom": -1.67759059107824
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -50,9 +50,9 @@
               "type": "pdf",
               "state": {
                 "file": "MEDIA/PDF/HAI-Engineering-Manual-min.pdf",
-                "page": 9,
+                "page": 18,
                 "left": -18,
-                "top": 144,
+                "top": 184,
                 "zoom": 0.8713235294117647
               },
               "icon": "lucide-file-text",
@@ -254,8 +254,11 @@
   },
   "active": "daf5698f6421be0f",
   "lastOpenFiles": [
-    "MEDIA/PDF/HAI-Engineering-Manual-min.pdf",
+    "MEDIA/IMAGES/Pasted image 20251214213326.png",
+    "Research/Gem-Stage tower (floor).md",
     "CANVAS OF IDEAS.canvas",
+    "Research/Foundation/Helical anchors foundation.md",
+    "MEDIA/PDF/HAI-Engineering-Manual-min.pdf",
     "MEDIA/PDF/PDF.base",
     "MEDIA/IMAGES/IMAGES.base",
     "Untitled/Untitled.md",
@@ -265,8 +268,6 @@
     "Visual Notess.base",
     "Don't Think Outside.md",
     "MEDIA/IMAGES/Pasted image 20251214023739.png",
-    "Research/Gem-Stage tower (floor).md",
-    "Research/Foundation/Helical anchors foundation.md",
     "Untitled",
     "MEDIA/IMAGES/IMG-14-12-2025-190038353.png",
     "MEDIA/IMAGES/Pasted image 20251214190742.png",

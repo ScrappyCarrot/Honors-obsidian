@@ -146,18 +146,6 @@
 			"height":60
 		},
 		{
-			"id":"514dc48d63e46c40",
-			"type":"text",
-			"text":"Helical pile anchors",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-2037,
-			"y":1140,
-			"width":260,
-			"height":60
-		},
-		{"id":"e8b5c95629f57b61","type":"file","file":"Research/Foundation/Helical anchors foundation.md","subpath":"#**Conclusions **","x":-1880,"y":1340,"width":320,"height":220},
-		{"id":"53366ec4b447d535","type":"file","file":"Research/Foundation/Helical anchors foundation.md","subpath":"#**Advantages **","x":-2287,"y":1340,"width":380,"height":320},
-		{
 			"id":"d1d64a71a2499869",
 			"type":"text",
 			"text":"- Rules for temporary structures are less strict as we can use the existing building protocols instead of the new construction ones\n- Foundations should be made with precast concrete slabs instead of pouring piles (See Floor project)\n- Load combinations along with 3D wind patterns have to be considered. ( less of an issue if we go for the small wildlife variant as the structures are much smaller)\n- Dynamics of users have to be taken into account> steel doesn't dampen vibrations well and it can cause resonance which weakens the structure",
@@ -168,16 +156,40 @@
 			"height":440,
 			"color":"4"
 		},
-		{"id":"12c06e41bf809658","type":"file","file":"MEDIA/IMAGES/Pasted image 20251214190742.png","x":-1880,"y":1600,"width":400,"height":225},
+		{
+			"id":"514dc48d63e46c40",
+			"type":"text",
+			"text":"Helical pile anchors",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-1857,
+			"y":1209,
+			"width":260,
+			"height":60
+		},
+		{"id":"e8b5c95629f57b61","type":"file","file":"Research/Foundation/Helical anchors foundation.md","subpath":"#**Conclusions **","x":-1700,"y":1409,"width":320,"height":220},
+		{"id":"12c06e41bf809658","type":"file","file":"MEDIA/IMAGES/Pasted image 20251214190742.png","x":-1700,"y":1669,"width":400,"height":225},
 		{
 			"id":"973af364e6f2f12e",
 			"type":"text",
 			"text":"![[MEDIA/PDF/HAI-Engineering-Manual-min.pdf#page=10&rect=88,314,307,725]]",
 			"styleAttributes":{},
-			"x":-1500,
-			"y":1180,
+			"x":-1320,
+			"y":1249,
 			"width":240,
 			"height":380
+		},
+		{"id":"53366ec4b447d535","type":"file","file":"Research/Foundation/Helical anchors foundation.md","subpath":"#**Advantages **","x":-2107,"y":1409,"width":380,"height":320},
+		{"id":"8e4778eba9da87f3","type":"file","file":"MEDIA/IMAGES/Pasted image 20251214213326.png","x":-3400,"y":839,"width":300,"height":400},
+		{"id":"d5dbce099680efa2","type":"file","file":"Research/Gem-Stage tower (floor).md","x":-3060,"y":839,"width":400,"height":400},
+		{
+			"id":"14aa45128b6a0e60",
+			"type":"text",
+			"text":"Structure uses a very heavy core along with cables that anchor in submerged concrete pads to take horizontal loading",
+			"styleAttributes":{},
+			"x":-3060,
+			"y":1340,
+			"width":400,
+			"height":100
 		}
 	],
 	"edges":[
@@ -260,6 +272,24 @@
 			"fromNode":"a46aa6c3804c0154",
 			"fromSide":"bottom",
 			"toNode":"d1d64a71a2499869",
+			"toSide":"top"
+		},
+		{
+			"id":"f70c88d35a5cba98",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"08e9bae3e2d456a7",
+			"fromSide":"bottom",
+			"toNode":"d5dbce099680efa2",
+			"toSide":"right"
+		},
+		{
+			"id":"3832f58d92bc7a5d",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"d5dbce099680efa2",
+			"fromSide":"bottom",
+			"toNode":"14aa45128b6a0e60",
 			"toSide":"top"
 		}
 	],
