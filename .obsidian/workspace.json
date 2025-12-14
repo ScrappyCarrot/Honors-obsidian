@@ -11,13 +11,17 @@
             "id": "7a64d64b7816f9eb",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "canvas",
               "state": {
-                "file": "MEDIA/IMAGES/IMAGES.base",
-                "viewName": "Table"
+                "file": "CANVAS OF IDEAS.canvas",
+                "viewState": {
+                  "x": -1372.5085330670504,
+                  "y": 1041.8005423023023,
+                  "zoom": -1.0727989261326751
+                }
               },
-              "icon": "lucide-table",
-              "title": "IMAGES"
+              "icon": "lucide-layout-dashboard",
+              "title": "CANVAS OF IDEAS"
             }
           }
         ]
@@ -93,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MEDIA/IMAGES/IMAGES.base",
+                "file": "CANVAS OF IDEAS.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +107,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for IMAGES"
+              "title": "Backlinks for CANVAS OF IDEAS"
             }
           },
           {
@@ -201,13 +205,13 @@
   },
   "active": "7a64d64b7816f9eb",
   "lastOpenFiles": [
-    "MEDIA/IMAGES/IMG-14-12-2025-001219736.png",
     "MEDIA/IMAGES/IMAGES.base",
+    "CANVAS OF IDEAS.canvas",
+    "Untitled.md",
+    "MEDIA/IMAGES/IMG-14-12-2025-001219736.png",
     "MEDIA/IMAGES/IMAGES.md",
     "Visual Notess.base",
     "Don't Think Outside.md",
-    "Untitled.md",
-    "CANVAS OF IDEAS.canvas",
     "MEDIA/IMAGES/Pasted image 20251214023739.png",
     "Research/Gem-Stage tower (floor).md",
     "Research/Foundation/Helical anchors foundation.md",
