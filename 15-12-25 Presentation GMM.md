@@ -1,2 +1,3 @@
 
-- Make presentation on what we have untill now 
+- Make presentation on what we have until now
+-3
