@@ -15,9 +15,9 @@
               "state": {
                 "file": "CANVAS OF IDEAS.canvas",
                 "viewState": {
-                  "x": -1793.3792134626203,
-                  "y": 1291.0354101421049,
-                  "zoom": -1.0286017906411034
+                  "x": -1420.9298018195686,
+                  "y": 678.8502353264886,
+                  "zoom": -1.535752238301379
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -25,55 +25,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "4bf94d94f89b3ee5",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7a64d64b7816f9eb",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "MEDIA/IMAGES/IMAGES.base",
-                "viewName": "Table"
-              },
-              "icon": "lucide-layout-grid",
-              "title": "IMAGES"
-            }
-          },
-          {
-            "id": "10383a80bcb05599",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "MEDIA/PDF/HAI-Engineering-Manual-min.pdf",
-                "page": 18,
-                "left": -18,
-                "top": 184,
-                "zoom": 0.8713235294117647
-              },
-              "icon": "lucide-file-text",
-              "title": "HAI-Engineering-Manual-min"
-            }
-          },
-          {
-            "id": "916faeea725ab4d6",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "MEDIA/PDF/PDF.base",
-                "viewName": "Table"
-              },
-              "icon": "lucide-layout-grid",
-              "title": "PDF"
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -254,15 +205,24 @@
   },
   "active": "daf5698f6421be0f",
   "lastOpenFiles": [
-    "MEDIA/IMAGES/IMAGES.base",
+    "Canvas export/media/images/pasted-image-20251214215500.png",
+    "Canvas export/media/images/pasted-image-20251214213326.png",
+    "Canvas export/site-lib/styles/theme.css",
+    "Canvas export/media/images/pasted-image-20251214214706.png",
+    "Canvas export/media/images/pasted-image-20251214190742.png",
     "CANVAS OF IDEAS.canvas",
-    "MEDIA/IMAGES/Pasted image 20251214214706.png",
+    "MEDIA/IMAGES/Pasted image 20251214215500.png",
+    "MEDIA/PDF/PDF.base",
+    "MEDIA/PDF/HAI-Engineering-Manual-min.pdf",
+    "MEDIA/PDF/GEM-STAGE-Factsheet-2021.pdf",
+    "MEDIA/PDF/Circulaire_Gebiedsontwikkeling_Internationale_Knoop_XL_27052019_compressed_EN.pdf",
+    "MEDIA/PDF/nko-mmk-bijlage-4 - -ontwerpverantwoording-korte-lijst-oplossingsricht - -10-dec-2024+(1)_EN.pdf",
     "MEDIA/PDF/besluit-bouwwerken-leefomgeving-tekst-bij-inwerkingtreding-1 (1).pdf",
+    "MEDIA/IMAGES/IMAGES.base",
+    "MEDIA/IMAGES/Pasted image 20251214214706.png",
     "MEDIA/IMAGES/Pasted image 20251214213326.png",
     "Research/Gem-Stage tower (floor).md",
     "Research/Foundation/Helical anchors foundation.md",
-    "MEDIA/PDF/HAI-Engineering-Manual-min.pdf",
-    "MEDIA/PDF/PDF.base",
     "Untitled/Untitled.md",
     "Untitled.md",
     "MEDIA/IMAGES/IMG-14-12-2025-001219736.png",
@@ -273,15 +233,7 @@
     "Untitled",
     "MEDIA/IMAGES/IMG-14-12-2025-190038353.png",
     "MEDIA/IMAGES/Pasted image 20251214190742.png",
-    "MEDIA/IMAGES/IMG-14-12-2025-190038402.png",
-    "MEDIA/IMAGES/books_library_shelves_120472_2560x1024.jpg",
-    "MEDIA/PDF/Temporary and Tactical Urbanism (Re)Assembling Urban Space (Quentin Stevens, Kim Dovey) (Z-Library).pdf",
-    "Canvas export/media/pdf/hai-engineering-manual-min.pdf",
-    "Canvas export/media/pdf",
-    "Canvas export/site-lib/styles/snippets.css",
     "MEDIA/IMAGES/IMAGES.canvas",
-    "MEDIA/IMAGES/Pasted image 20251214023717.png",
-    "MEDIA/IMAGES/Pasted image 20251214023744.png",
     "Research/Foundation/Modula temporar.md",
     "Research/Foundation/Foundation.md",
     "Personal meeting notes/15-12-25 Presentation GMM.md",
