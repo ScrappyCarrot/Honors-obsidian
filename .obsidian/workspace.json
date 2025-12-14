@@ -11,12 +11,17 @@
             "id": "7a64d64b7816f9eb",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "canvas",
               "state": {
-                "file": "MEDIA/IMAGES/IMG-14-12-2025-001219736.png"
+                "file": "CANVAS OF IDEAS.canvas",
+                "viewState": {
+                  "x": -1177.0955383336257,
+                  "y": 328.38839224794293,
+                  "zoom": -1.0727989261326751
+                }
               },
-              "icon": "lucide-image",
-              "title": "IMG-14-12-2025-001219736"
+              "icon": "lucide-layout-dashboard",
+              "title": "CANVAS OF IDEAS"
             }
           }
         ]
@@ -92,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MEDIA/IMAGES/IMG-14-12-2025-001219736.png",
+                "file": "CANVAS OF IDEAS.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +107,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for IMG-14-12-2025-001219736"
+              "title": "Backlinks for CANVAS OF IDEAS"
             }
           },
           {
@@ -200,32 +205,34 @@
   },
   "active": "7a64d64b7816f9eb",
   "lastOpenFiles": [
-    "MEDIA/IMAGES/IMAGES.md",
+    "Canvas export/media/pdf/hai-engineering-manual-min.pdf",
+    "Canvas export/media/pdf",
+    "Canvas export/site-lib/styles/snippets.css",
+    "Canvas export/site-lib/fonts/mathjax_vector-regular.woff",
+    "Canvas export/site-lib/fonts/mathjax_vector-bold.woff",
+    "Canvas export/site-lib/fonts/mathjax_sansserif-italic.woff",
+    "Canvas export/site-lib/fonts/mathjax_typewriter-regular.woff",
+    "Canvas export/site-lib/fonts/mathjax_script-regular.woff",
+    "Canvas export/site-lib/fonts/mathjax_sansserif-bold.woff",
+    "Canvas export/site-lib/fonts/mathjax_sansserif-regular.woff",
+    "Canvas export/site-lib/fonts/mathjax_ams-regular.woff",
+    "CANVAS OF IDEAS.canvas",
+    "MEDIA/IMAGES/IMAGES.canvas",
     "MEDIA/IMAGES/IMG-14-12-2025-001219736.png",
     "MEDIA/IMAGES/books_library_shelves_120472_2560x1024.jpg",
     "MEDIA/IMAGES/Pasted image 20251214023717.png",
+    "MEDIA/IMAGES/IMAGES.md",
     "MEDIA/IMAGES/Pasted image 20251214023744.png",
     "MEDIA/IMAGES/IMG-14-12-2025-190038353.png",
     "MEDIA/IMAGES/IMG-14-12-2025-190038402.png",
     "MEDIA/IMAGES/Pasted image 20251214190742.png",
     "Research/Foundation/Helical anchors foundation.md",
-    "CANVAS OF IDEAS.canvas",
-    "MEDIA/PDF/HAI-Engineering-Manual-min.pdf",
-    "Untitled.base",
-    "Untitled 1.base",
     "Research/Gem-Stage tower (floor).md",
     "Research/Foundation/Modula temporar.md",
     "Research/Foundation/Foundation.md",
-    "MEDIA/EUROCODE/EUCODE-7-Geotechnical.pdf",
     "Personal meeting notes/15-12-25 Presentation GMM.md",
-    "Research/Foundation",
     "Research/Untitled.md",
-    "MEDIA/PDF/GEM-STAGE-Factsheet-2021.pdf",
     "Notion/Meet 12dec.md",
-    "MEDIA/PDF/nko-mmk-bijlage-4 - -ontwerpverantwoording-korte-lijst-oplossingsricht - -10-dec-2024+(1)_EN.pdf",
-    "MEDIA/PDF/Temporary Demountable Structures (Institution of Structural Engineers) (Z-Library).pdf",
-    "MEDIA/PDF/besluit-bouwwerken-leefomgeving-tekst-bij-inwerkingtreding-1 (1).pdf",
-    "MEDIA/PDF/Temporary Structures in Construction, Third Edition (Robert Ratay) (Z-Library).pdf",
     "2025-12-14.md",
     "MEDIA/IMAGES/Pasted image 20251214023712.png",
     "MEDIA/IMAGES/Pasted image 20251214023701.png",
