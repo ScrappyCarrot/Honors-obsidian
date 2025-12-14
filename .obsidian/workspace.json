@@ -13,14 +13,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "MEDIA/PDF/Circulaire_Gebiedsontwikkeling_Internationale_Knoop_XL_27052019_compressed_EN.pdf",
-                "page": 1,
-                "left": -25,
-                "top": 377,
-                "zoom": 0.6210691823899371
+                "file": "MEDIA/PDF/nko-mmk-bijlage-4 - -ontwerpverantwoording-korte-lijst-oplossingsricht - -10-dec-2024+(1)_EN.pdf",
+                "page": 2,
+                "left": 10,
+                "top": 831,
+                "zoom": 0.8962787414279952
               },
               "icon": "lucide-file-text",
-              "title": "Circulaire_Gebiedsontwikkeling_Internationale_Knoop_XL_27052019_compressed_EN"
+              "title": "nko-mmk-bijlage-4 - -ontwerpverantwoording-korte-lijst-oplossingsricht - -10-dec-2024+(1)_EN"
             }
           }
         ]
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MEDIA/PDF/Circulaire_Gebiedsontwikkeling_Internationale_Knoop_XL_27052019_compressed_EN.pdf",
+                "file": "MEDIA/PDF/nko-mmk-bijlage-4 - -ontwerpverantwoording-korte-lijst-oplossingsricht - -10-dec-2024+(1)_EN.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Circulaire_Gebiedsontwikkeling_Internationale_Knoop_XL_27052019_compressed_EN"
+              "title": "Backlinks for nko-mmk-bijlage-4 - -ontwerpverantwoording-korte-lijst-oplossingsricht - -10-dec-2024+(1)_EN"
             }
           },
           {
@@ -225,19 +225,20 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "7a64d64b7816f9eb",
+  "active": "c89686570795ced7",
   "lastOpenFiles": [
+    "MEDIA/PDF/Temporary Demountable Structures (Institution of Structural Engineers) (Z-Library).pdf",
+    "MEDIA/PDF/nko-mmk-bijlage-4 - -ontwerpverantwoording-korte-lijst-oplossingsricht - -10-dec-2024+(1)_EN.pdf",
+    "MEDIA/PDF/besluit-bouwwerken-leefomgeving-tekst-bij-inwerkingtreding-1 (1).pdf",
+    "MEDIA/PDF/Temporary Structures in Construction, Third Edition (Robert Ratay) (Z-Library).pdf",
+    "MEDIA/PDF/Circulaire_Gebiedsontwikkeling_Internationale_Knoop_XL_27052019_compressed_EN.pdf",
     "CANVAS OF IDEAS.canvas",
     "2025-12-14.md",
     "Untitled.md",
     "MEDIA/IMAGES/books_library_shelves_120472_2560x1024.jpg",
-    "MEDIA/PDF/Circulaire_Gebiedsontwikkeling_Internationale_Knoop_XL_27052019_compressed_EN.pdf",
-    "MEDIA/PDF/Temporary Demountable Structures (Institution of Structural Engineers) (Z-Library).pdf",
     "MEDIA/PDF/Temporary and Tactical Urbanism (Re)Assembling Urban Space (Quentin Stevens, Kim Dovey) (Z-Library).pdf",
-    "MEDIA/PDF/Temporary Structures in Construction, Third Edition (Robert Ratay) (Z-Library).pdf",
     "Personal meeting notes/15-12-25 Presentation GMM.md",
     "Notion/Meet 12dec.md",
-    "MEDIA/PDF/besluit-bouwwerken-leefomgeving-tekst-bij-inwerkingtreding-1 (1).pdf",
     "MEDIA/IMAGES/Pasted image 20251214023712.png",
     "MEDIA/IMAGES/Pasted image 20251214023701.png",
     "MEDIA/IMAGES/Pasted image 20251214023717.png",
