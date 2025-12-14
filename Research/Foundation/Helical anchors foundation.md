@@ -7,14 +7,14 @@ Helical anchors are basically a big screw. Main advantage is that they can be re
 
 ```folder-overview
 id: 3c0b4cfa-6974-47a9-a4ea-b61a74a3ddeb
-folderPath: ""
+folderPath: Research/Foundation
 title: "{{folderName}} overview"
 showTitle: false
 depth: 3
+style: list
 includeTypes:
   - folder
   - markdown
-style: list
 disableFileTag: false
 sortBy: name
 sortByAsc: true

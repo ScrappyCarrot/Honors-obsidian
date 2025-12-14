@@ -145,7 +145,28 @@
 			"height":80,
 			"color":"2"
 		},
-		{"id":"1144d0c7627a3630","type":"file","file":"MEDIA/IMAGES/IMG-14-12-2025-001219736.png","x":-530,"y":-590,"width":586,"height":410}
+		{"id":"1144d0c7627a3630","type":"file","file":"MEDIA/IMAGES/IMG-14-12-2025-001219736.png","x":-530,"y":-590,"width":586,"height":410},
+		{
+			"id":"08e9bae3e2d456a7",
+			"type":"text",
+			"text":"Foundartions",
+			"styleAttributes":{},
+			"x":-2037,
+			"y":839,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"514dc48d63e46c40",
+			"type":"text",
+			"text":"Helical pile anchors",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-2037,
+			"y":1140,
+			"width":260,
+			"height":60
+		},
+		{"id":"e8b5c95629f57b61","type":"file","file":"Research/Foundation/Helical anchors foundation.md","x":-2177,"y":1420,"width":540,"height":620}
 	],
 	"edges":[
 		{"id":"f1153a809622ee9e","fromNode":"0a18e5d7148299a3","fromSide":"bottom","toNode":"67ebb59448249d05","toSide":"top"},
@@ -182,10 +203,38 @@
 			"fromSide":"left",
 			"toNode":"d1d64a71a2499869",
 			"toSide":"right"
+		},
+		{
+			"id":"80af8a6e78462526",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"fa618c0673ac65cb",
+			"fromSide":"bottom",
+			"toNode":"08e9bae3e2d456a7",
+			"toSide":"top"
+		},
+		{
+			"id":"0686b228ffd7b243",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"08e9bae3e2d456a7",
+			"fromSide":"bottom",
+			"toNode":"514dc48d63e46c40",
+			"toSide":"top"
+		},
+		{
+			"id":"64a612a25eef19ff",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"514dc48d63e46c40",
+			"fromSide":"bottom",
+			"toNode":"e8b5c95629f57b61",
+			"toSide":"top"
 		}
 	],
 	"metadata":{
 		"version":"1.0-1.0",
-		"frontmatter":{}
+		"frontmatter":{},
+		"startNode":"9387ab0c5f9ded80"
 	}
 }

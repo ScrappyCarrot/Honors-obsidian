@@ -11,14 +11,17 @@
             "id": "873643a3ecf23f1b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Research/Foundation/Helical anchors foundation.md",
-                "mode": "source",
-                "source": false
+                "file": "CANVAS OF IDEAS.canvas",
+                "viewState": {
+                  "x": -1975.261176044778,
+                  "y": 1642.8981330913714,
+                  "zoom": -0.5214513429808275
+                }
               },
-              "icon": "lucide-file",
-              "title": "Helical anchors foundation"
+              "icon": "lucide-layout-dashboard",
+              "title": "CANVAS OF IDEAS"
             }
           }
         ]
@@ -34,9 +37,9 @@
               "type": "pdf",
               "state": {
                 "file": "MEDIA/PDF/HAI-Engineering-Manual-min.pdf",
-                "page": 17,
+                "page": 42,
                 "left": 12,
-                "top": 537,
+                "top": 84,
                 "zoom": 1
               },
               "icon": "lucide-file-text",
@@ -116,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/Foundation/Helical anchors foundation.md",
+                "file": "CANVAS OF IDEAS.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +129,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Helical anchors foundation"
+              "title": "Backlinks for CANVAS OF IDEAS"
             }
           },
           {
@@ -224,9 +227,9 @@
   },
   "active": "873643a3ecf23f1b",
   "lastOpenFiles": [
-    "MEDIA/PDF/HAI-Engineering-Manual-min.pdf",
-    "Research/Foundation/Helical anchors foundation.md",
     "CANVAS OF IDEAS.canvas",
+    "Research/Foundation/Helical anchors foundation.md",
+    "MEDIA/PDF/HAI-Engineering-Manual-min.pdf",
     "Research/Foundation/Modula temporar.md",
     "MEDIA/IMAGES/IMG-14-12-2025-190038353.png",
     "MEDIA/IMAGES/Pasted image 20251214190742.png",
