@@ -6,6 +6,8 @@
     "emojiStyle": "native",
     "iconColor": "#ffffff",
     "recentlyUsedIcons": [
+      "CoBook",
+      "CoLinkHorizontal",
       "LiDiamondPercent",
       "LiAlbum",
       "LiAperture"
@@ -40,5 +42,13 @@
     "iconName": "LiAlbum",
     "iconColor": "#bababa"
   },
-  "Notion": "LiDiamondPercent"
+  "Notion": "LiDiamondPercent",
+  "MEDIA": {
+    "iconName": "CoLinkHorizontal",
+    "iconColor": "#42ffd0"
+  },
+  "Research": {
+    "iconName": "CoBook",
+    "iconColor": "#ff5900"
+  }
 }
