@@ -1,5 +1,0 @@
----
-type: Visual Note
-Cover:
----
-![[]]

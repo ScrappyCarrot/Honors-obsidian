@@ -1,0 +1,8 @@
+formulas:
+  Image: image()
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - formula.Image

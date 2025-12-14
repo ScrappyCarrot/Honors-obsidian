@@ -1,4 +1,0 @@
----
-type: Visual Note
-Cover:
----
