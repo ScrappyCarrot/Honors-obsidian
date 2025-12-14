@@ -14,5 +14,7 @@
   "obsidian-hover-editor",
   "obsidian-importer",
   "slash-complete",
-  "obsidian42-text-transporter"
+  "obsidian42-text-transporter",
+  "text-extractor",
+  "obsidian-annotator"
 ]
