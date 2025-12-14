@@ -191,11 +191,13 @@
       "obsidian-git:Open Git source control": false,
       "webpage-html-export:Export as HTML": false,
       "obsidian42-brat:BRAT": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "obsidian-importer:Open Importer": false
     }
   },
-  "active": "391c0a66a904b9d0",
+  "active": "c89686570795ced7",
   "lastOpenFiles": [
+    "Notion",
     "Personal meeting notes/15-12-25 Presentation GMM.md",
     "Research/Glow tower.md",
     "Personal meeting notes",
