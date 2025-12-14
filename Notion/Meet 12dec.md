@@ -37,13 +37,13 @@
 - Reusable components
 - Main vs secondary structures with different functions
 
-**Research & Presentation for Monday**
+**Research & Presentation for Monday** ^vpkr9b
 
-- Research outcomes + open questions
-- 5-minute presentation
+- Research outcomes + open questions ^epn8er
+- 5-minute presentation ^b8eqz1
 - Analytical, not final ^299f31
-- Exploration phase
-- Rough numbers acceptable
+- Exploration phase ^5awsdv
+- Rough numbers acceptable ^jdat24
 
 **Housing / Living- examples of temporary structures, anchor types**
 

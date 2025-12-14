@@ -2,7 +2,7 @@
   "language": "en",
   "attachPath": {
     "attachmentRoot": "",
-    "saveAttE": "obsFolder",
+    "saveAttE": "inFolderBelow",
     "attachmentPath": "${notepath}/${notename}",
     "attachFormat": "IMG-${date}",
     "type": "GLOBAL",
@@ -15,10 +15,10 @@
         "attachFormat": "IMG-${date}"
       },
       {
-        "extension": "png|jpg",
-        "attachmentRoot": "MEDIA/IMAGES",
-        "saveAttE": "inFolderBelow",
-        "attachmentPath": "",
+        "extension": "png\\jpeg\\jpg",
+        "attachmentRoot": "",
+        "saveAttE": "obsFolder",
+        "attachmentPath": "${notepath}/${notename}",
         "attachFormat": "IMG-${date}"
       }
     ]

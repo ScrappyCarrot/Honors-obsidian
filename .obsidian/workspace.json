@@ -11,14 +11,17 @@
             "id": "391c0a66a904b9d0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Personal meeting notes/15-12-25 Presentation GMM.md",
-                "mode": "source",
-                "source": false
+                "file": "CANVAS OF IDEAS.canvas",
+                "viewState": {
+                  "x": -442.0592233289172,
+                  "y": -309.92775606235546,
+                  "zoom": -0.7838732835579193
+                }
               },
-              "icon": "lucide-file",
-              "title": "15-12-25 Presentation GMM"
+              "icon": "lucide-layout-dashboard",
+              "title": "CANVAS OF IDEAS"
             }
           }
         ]
@@ -94,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal meeting notes/15-12-25 Presentation GMM.md",
+                "file": "CANVAS OF IDEAS.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +107,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 15-12-25 Presentation GMM"
+              "title": "Backlinks for CANVAS OF IDEAS"
             }
           },
           {
@@ -198,8 +201,17 @@
   },
   "active": "391c0a66a904b9d0",
   "lastOpenFiles": [
+    "Screenshot 2025-12-14 020559.png",
+    "CANVAS OF IDEAS.canvas",
+    "Screenshot 2025-12-14 021405.png",
     "Notion/Meet 12dec.md",
+    "MEDIA/PDF/besluit-bouwwerken-leefomgeving-tekst-bij-inwerkingtreding-1 (1).pdf",
+    "MEDIA/IMAGES/Pasted image 20251214023744.png",
     "Personal meeting notes/15-12-25 Presentation GMM.md",
+    "MEDIA/IMAGES/Pasted image 20251214023739.png",
+    "MEDIA/IMAGES/Pasted image 20251214023717.png",
+    "MEDIA/IMAGES/Pasted image 20251214023712.png",
+    "MEDIA/IMAGES/Pasted image 20251214023701.png",
     "Untitled.base",
     "Meeting Notes 2c04d57434b8802d8e02cf55e60d64b6_all 1.csv",
     "Meeting Notes 2c04d57434b8802d8e02cf55e60d64b6_all.csv",
@@ -228,24 +240,14 @@
     "Notion/2c74d57434b881b592e20042c6fd9b7f/Create questions for survey.md",
     "Notion/2c74d57434b881b592e20042c6fd9b7f/Biological integration.md",
     "Notion/2c74d57434b881b592e20042c6fd9b7f/Manufacturing.md",
-    "Notion/2c74d57434b881b592e20042c6fd9b7f/Team Meeting 3.md",
     "books_library_shelves_120472_2560x1024.jpg",
     "Notion/Export-5f56dad0-627c-4c59-9b8e-e10e101eba41/Private & Shared/People",
     "Notion/2c74d57434b881b592e20042c6fd9b7f",
     "Notion/Export-5f56dad0-627c-4c59-9b8e-e10e101eba41/Private & Shared",
     "Notion/Export-5f56dad0-627c-4c59-9b8e-e10e101eba41",
-    "Personal meeting notes",
-    "CANVAS OF IDEAS.canvas",
     "MEDIA/IMAGES/Screenshot 2025-12-11 220647.png",
     "MEDIA/IMAGES/IMG-14-12-2025-013107845.jpg",
-    "Canvas export/media/images/screenshot-2025-12-11-220647.png",
     "Canvas export/CANVAS OF IDEAS.canvas",
-    "Canvas export/media/images/img-14-12-2025-001219736.png",
-    "Canvas export/site-lib/media/favicon.png",
-    "Canvas export/site-lib/media/6155340132a851f6089e.svg",
-    "Canvas export/site-lib/media/2308ab1944a6bfa5c5b8.svg",
-    "MEDIA/IMAGES/IMG-14-12-2025-001219736.png",
-    "GIT export/site-lib/media/favicon.png",
     "Untitled.canvas"
   ]
 }
