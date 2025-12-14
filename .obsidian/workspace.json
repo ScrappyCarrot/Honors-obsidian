@@ -11,10 +11,17 @@
             "id": "7a64d64b7816f9eb",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "canvas",
+              "state": {
+                "file": "CANVAS OF IDEAS.canvas",
+                "viewState": {
+                  "x": 234.18299508105304,
+                  "y": -810.9873626265559,
+                  "zoom": -1.7000629308144473
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "CANVAS OF IDEAS"
             }
           }
         ]
@@ -112,6 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CANVAS OF IDEAS.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for CANVAS OF IDEAS"
             }
           },
           {
@@ -220,6 +228,8 @@
   },
   "active": "7a64d64b7816f9eb",
   "lastOpenFiles": [
+    "CANVAS OF IDEAS.canvas",
+    "MEDIA/IMAGES/IMG-14-12-2025-001219736.png",
     "Research/Gem-Stage tower (floor).md",
     "Research/Foundation/Foundation.md",
     "MEDIA/EUROCODE/EUCODE-7-Geotechnical.pdf",
@@ -234,7 +244,6 @@
     "MEDIA/PDF/besluit-bouwwerken-leefomgeving-tekst-bij-inwerkingtreding-1 (1).pdf",
     "MEDIA/PDF/Temporary Structures in Construction, Third Edition (Robert Ratay) (Z-Library).pdf",
     "MEDIA/PDF/Circulaire_Gebiedsontwikkeling_Internationale_Knoop_XL_27052019_compressed_EN.pdf",
-    "CANVAS OF IDEAS.canvas",
     "2025-12-14.md",
     "MEDIA/IMAGES/books_library_shelves_120472_2560x1024.jpg",
     "MEDIA/PDF/Temporary and Tactical Urbanism (Re)Assembling Urban Space (Quentin Stevens, Kim Dovey) (Z-Library).pdf",
@@ -243,7 +252,6 @@
     "MEDIA/IMAGES/Pasted image 20251214023717.png",
     "MEDIA/IMAGES/Pasted image 20251214023739.png",
     "MEDIA/IMAGES/Pasted image 20251214023744.png",
-    "MEDIA/IMAGES/IMG-14-12-2025-001219736.png",
     "Screenshot 2025-12-13 004653.png",
     "Screenshot 2025-12-13 020057.png",
     "Screenshot 2025-12-14 020559.png",
