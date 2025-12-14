@@ -4,24 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a3420b0b4f0d4346",
+        "id": "eb963b510bff93ee",
         "type": "tabs",
         "children": [
           {
-            "id": "b798237767d494b4",
+            "id": "391c0a66a904b9d0",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "CANVAS OF IDEAS.canvas",
-                "viewState": {
-                  "x": -665.4079509066481,
-                  "y": 329.5294397928948,
-                  "zoom": -1.342762118193336
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "CANVAS OF IDEAS"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -97,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CANVAS OF IDEAS.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for CANVAS OF IDEAS"
+              "title": "Backlinks"
             }
           },
           {
@@ -116,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CANVAS OF IDEAS.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from CANVAS OF IDEAS"
+              "title": "Outgoing links"
             }
           },
           {
@@ -159,13 +150,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CANVAS OF IDEAS.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of CANVAS OF IDEAS"
+              "title": "Outline"
             }
           },
           {
@@ -198,10 +188,10 @@
       "webpage-html-export:Export as HTML": false
     }
   },
-  "active": "b798237767d494b4",
+  "active": "391c0a66a904b9d0",
   "lastOpenFiles": [
-    "Canvas export/media/images/screenshot-2025-12-11-220647.png",
     "CANVAS OF IDEAS.canvas",
+    "Canvas export/media/images/screenshot-2025-12-11-220647.png",
     "MEDIA/IMAGES/Screenshot 2025-12-11 220647.png",
     "Canvas export/CANVAS OF IDEAS.canvas",
     "Canvas export/site-lib/search-index.json",
@@ -223,7 +213,6 @@
     "GIT export/site-lib/media/favicon.png",
     "GIT export/site-lib/media/6155340132a851f6089e.svg",
     "GIT export/site-lib/media/2308ab1944a6bfa5c5b8.svg",
-    "GIT export/media/images/img-14-12-2025-001219736.png",
     "GIT export/README.md",
     "Untitled.canvas",
     "Welcome.md"
