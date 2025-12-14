@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/Foundation.md",
+                "file": "Research/Foundation/Foundation.md",
                 "mode": "source",
                 "source": false
               },
@@ -116,6 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Research/Foundation/Foundation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +126,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Foundation"
             }
           },
           {
@@ -222,14 +223,16 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "c89686570795ced7",
+  "active": "7a64d64b7816f9eb",
   "lastOpenFiles": [
-    "Research/Foundation.md",
-    "Research/Untitled.md",
     "MEDIA/EUROCODE/EUCODE-7-Geotechnical.pdf",
+    "Research/Foundation/Foundation.md",
+    "Research/Foundation/Untitled.md",
+    "Personal meeting notes/15-12-25 Presentation GMM.md",
+    "Research/Foundation",
+    "Research/Untitled.md",
     "Research/Gem-Stage tower (floor).md",
     "MEDIA/PDF/GEM-STAGE-Factsheet-2021.pdf",
-    "Personal meeting notes/15-12-25 Presentation GMM.md",
     "Notion/Meet 12dec.md",
     "MEDIA/PDF/nko-mmk-bijlage-4 - -ontwerpverantwoording-korte-lijst-oplossingsricht - -10-dec-2024+(1)_EN.pdf",
     "MEDIA/PDF/Temporary Demountable Structures (Institution of Structural Engineers) (Z-Library).pdf",
@@ -250,7 +253,6 @@
     "Screenshot 2025-12-13 020057.png",
     "Screenshot 2025-12-14 020559.png",
     "Untitled.base",
-    "Meeting Notes 2c04d57434b8802d8e02cf55e60d64b6_all 1.csv",
     "Notion/Export-5f56dad0-627c-4c59-9b8e-e10e101eba41/Private & Shared/People.md",
     "Notion/Export-5f56dad0-627c-4c59-9b8e-e10e101eba41/Private & Shared/People/Maria Barbu.md",
     "Notion/Export-5f56dad0-627c-4c59-9b8e-e10e101eba41/Private & Shared/People/Aylin I.md",
@@ -269,7 +271,6 @@
     "Notion/2c74d57434b881b592e20042c6fd9b7f/Presentation for GMM2.md",
     "Notion/2c74d57434b881b592e20042c6fd9b7f/City flow research cases.md",
     "Notion/2c74d57434b881b592e20042c6fd9b7f/Untitled 2.md",
-    "Notion/2c74d57434b881b592e20042c6fd9b7f/EUROCODE LETS GOOOOOOOOO.md",
     "Canvas export/CANVAS OF IDEAS.canvas",
     "Untitled.canvas"
   ]
