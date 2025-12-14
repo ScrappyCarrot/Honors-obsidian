@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiAlbum",
       "LiAperture"
     ],
     "recentlyUsedIconsSize": 5,
@@ -30,5 +31,12 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "CANVAS OF IDEAS.canvas": "LiAperture"
+  "CANVAS OF IDEAS.canvas": {
+    "iconName": "LiAperture",
+    "iconColor": "#ffd500"
+  },
+  "MEDIA/PDF": {
+    "iconName": "LiAlbum",
+    "iconColor": "#bababa"
+  }
 }

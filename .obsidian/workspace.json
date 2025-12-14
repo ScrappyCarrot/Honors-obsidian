@@ -11,10 +11,14 @@
             "id": "391c0a66a904b9d0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "15-12-25 Presentation GMM.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "15-12-25 Presentation GMM"
             }
           }
         ]
@@ -193,8 +197,11 @@
   "active": "391c0a66a904b9d0",
   "lastOpenFiles": [
     "CANVAS OF IDEAS.canvas",
-    "Canvas export/media/images/screenshot-2025-12-11-220647.png",
+    "15-12-25 Presentation GMM.md",
     "MEDIA/IMAGES/Screenshot 2025-12-11 220647.png",
+    "MEDIA/IMAGES/IMG-14-12-2025-013107845.jpg",
+    "MEDIA/PDF/besluit-bouwwerken-leefomgeving-tekst-bij-inwerkingtreding-1 (1).pdf",
+    "Canvas export/media/images/screenshot-2025-12-11-220647.png",
     "Canvas export/CANVAS OF IDEAS.canvas",
     "Canvas export/site-lib/search-index.json",
     "Canvas export/site-lib/metadata.json",
@@ -206,7 +213,6 @@
     "Canvas export/site-lib/fonts/cb10ffd7684cd9836a05.woff2",
     "Canvas export/site-lib/fonts/c8ba52b05a9ef10f4758.woff2",
     "Canvas export/site-lib/fonts/70cc7ff27245e82ad414.ttf",
-    "Canvas export/site-lib/fonts/b5f0f109bc88052d4000.woff2",
     "Canvas export/site-lib/media/favicon.png",
     "Canvas export/site-lib/media/6155340132a851f6089e.svg",
     "Canvas export/site-lib/media/2308ab1944a6bfa5c5b8.svg",
@@ -214,7 +220,6 @@
     "MEDIA/IMAGES/IMG-14-12-2025-001219736.png",
     "GIT export/site-lib/media/favicon.png",
     "GIT export/site-lib/media/6155340132a851f6089e.svg",
-    "GIT export/site-lib/media/2308ab1944a6bfa5c5b8.svg",
     "GIT export/README.md",
     "Untitled.canvas",
     "Welcome.md"
