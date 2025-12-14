@@ -15,9 +15,9 @@
               "state": {
                 "file": "CANVAS OF IDEAS.canvas",
                 "viewState": {
-                  "x": -904.8437876599861,
-                  "y": -641.9936363060797,
-                  "zoom": -1.3394287848600026
+                  "x": -296.4374280648738,
+                  "y": 211.75633133863033,
+                  "zoom": -1.342762118193336
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -200,6 +200,7 @@
   },
   "active": "b798237767d494b4",
   "lastOpenFiles": [
+    "Screenshot 2025-12-11 220647.png",
     "CANVAS OF IDEAS.canvas",
     "Canvas export/CANVAS OF IDEAS.canvas",
     "Canvas export/site-lib/search-index.json",
