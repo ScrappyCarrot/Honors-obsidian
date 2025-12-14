@@ -16,7 +16,7 @@
                 "file": "MEDIA/PDF/Circulaire_Gebiedsontwikkeling_Internationale_Knoop_XL_27052019_compressed_EN.pdf",
                 "page": 1,
                 "left": -25,
-                "top": 621,
+                "top": 377,
                 "zoom": 0.6210691823899371
               },
               "icon": "lucide-file-text",
@@ -64,7 +64,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byCreatedTimeReverse",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -227,15 +227,16 @@
   },
   "active": "7a64d64b7816f9eb",
   "lastOpenFiles": [
+    "CANVAS OF IDEAS.canvas",
+    "2025-12-14.md",
     "Untitled.md",
+    "MEDIA/IMAGES/books_library_shelves_120472_2560x1024.jpg",
     "MEDIA/PDF/Circulaire_Gebiedsontwikkeling_Internationale_Knoop_XL_27052019_compressed_EN.pdf",
     "MEDIA/PDF/Temporary Demountable Structures (Institution of Structural Engineers) (Z-Library).pdf",
     "MEDIA/PDF/Temporary and Tactical Urbanism (Re)Assembling Urban Space (Quentin Stevens, Kim Dovey) (Z-Library).pdf",
-    "2025-12-14.md",
     "MEDIA/PDF/Temporary Structures in Construction, Third Edition (Robert Ratay) (Z-Library).pdf",
     "Personal meeting notes/15-12-25 Presentation GMM.md",
     "Notion/Meet 12dec.md",
-    "CANVAS OF IDEAS.canvas",
     "MEDIA/PDF/besluit-bouwwerken-leefomgeving-tekst-bij-inwerkingtreding-1 (1).pdf",
     "MEDIA/IMAGES/Pasted image 20251214023712.png",
     "MEDIA/IMAGES/Pasted image 20251214023701.png",
@@ -246,7 +247,6 @@
     "Screenshot 2025-12-13 004653.png",
     "Screenshot 2025-12-13 020057.png",
     "Screenshot 2025-12-14 020559.png",
-    "Screenshot 2025-12-14 021405.png",
     "Untitled.base",
     "Meeting Notes 2c04d57434b8802d8e02cf55e60d64b6_all 1.csv",
     "Meeting Notes 2c04d57434b8802d8e02cf55e60d64b6_all.csv",
