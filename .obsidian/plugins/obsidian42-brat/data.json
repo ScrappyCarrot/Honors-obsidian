@@ -1,0 +1,23 @@
+{
+  "pluginList": [
+    "Mara-Li/obsidian-canvas-css-class"
+  ],
+  "pluginSubListFrozenVersion": [
+    {
+      "repo": "Mara-Li/obsidian-canvas-css-class",
+      "version": "2.5.0"
+    }
+  ],
+  "themesList": [],
+  "updateAtStartup": true,
+  "updateThemesAtStartup": true,
+  "enableAfterInstall": true,
+  "loggingEnabled": false,
+  "loggingPath": "BRAT-log",
+  "loggingVerboseEnabled": false,
+  "debuggingMode": false,
+  "notificationsEnabled": true,
+  "personalAccessToken": "",
+  "selectLatestPluginVersionByDefault": false,
+  "allowIncompatiblePlugins": false
+}

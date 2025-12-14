@@ -1,0 +1,6 @@
+/* 1. FORCE ALL CARDS TO BE HUGE (TEST) */
+.canvas-node .canvas-node-content,
+.canvas-node .markdown-preview-view p {
+    font-size: 16px !important;
+    line-height: 1.4 !important;
+}

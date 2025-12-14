@@ -1,0 +1,35 @@
+{
+  "language": "en",
+  "attachPath": {
+    "attachmentRoot": "",
+    "saveAttE": "obsFolder",
+    "attachmentPath": "${notepath}/${notename}",
+    "attachFormat": "IMG-${date}",
+    "type": "GLOBAL",
+    "extensionOverride": [
+      {
+        "extension": "pdf",
+        "attachmentRoot": "MEDIA/PDF",
+        "saveAttE": "inFolderBelow",
+        "attachmentPath": "",
+        "attachFormat": "IMG-${date}"
+      },
+      {
+        "extension": "png|jpg",
+        "attachmentRoot": "MEDIA/IMAGES",
+        "saveAttE": "inFolderBelow",
+        "attachmentPath": "",
+        "attachFormat": "IMG-${date}"
+      }
+    ]
+  },
+  "dateFormat": "DD-MM-YYYY-HHmmssSSS",
+  "excludeExtensionPattern": "",
+  "autoRenameAttachment": true,
+  "excludedPaths": "",
+  "excludePathsArray": [],
+  "excludeSubpaths": false,
+  "originalNameStorage": [],
+  "overridePath": {},
+  "disableNotification": false
+}

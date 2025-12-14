@@ -1,0 +1,15 @@
+{
+  "canvasAdded": [
+    {
+      "canvasPath": "CANVAS OF IDEAS.canvas",
+      "canvasClass": [
+        "small"
+      ],
+      "appendMode": "body"
+    }
+  ],
+  "logLevel": "none",
+  "defaultAppendMode": "workspace-leaf-content",
+  "addButtonSetting": true,
+  "addButtonSwitchView": true
+}

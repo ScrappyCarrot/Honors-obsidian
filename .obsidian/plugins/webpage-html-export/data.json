@@ -10,7 +10,7 @@
     "postProcess": true,
     "displayProgress": true,
     "inlineHTML": false,
-    "exportPath": "",
+    "exportPath": "D:\\Honors Research\\Canvas export",
     "filesToExport": [],
     "useFallbackRenderer": false,
     "addBodyClasses": true,
