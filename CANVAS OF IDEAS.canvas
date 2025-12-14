@@ -1,0 +1,191 @@
+{
+	"nodes":[
+		{
+			"id":"69fa834f18281f92",
+			"type":"text",
+			"text":"##### **Regulations**",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-1173,
+			"y":240,
+			"width":250,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"0a18e5d7148299a3",
+			"type":"text",
+			"text":"Have to check regulations on:",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-1173,
+			"y":340,
+			"width":250,
+			"height":60
+		},
+		{
+			"id":"e4c9ac81a72e0601",
+			"type":"text",
+			"text":"Neighborhood scale",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-1173,
+			"y":560,
+			"width":250,
+			"height":50
+		},
+		{"id":"8f6cfe3883edbeea","type":"text","text":"How does the phasing impact the flora and fauna around the plots. \nHow are the neighboring residents affected?\nHow can we limit the inconveniences they face?","x":-1173,"y":660,"width":250,"height":239},
+		{
+			"id":"67ebb59448249d05",
+			"type":"text",
+			"text":"Urban scale",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-1500,
+			"y":560,
+			"width":250,
+			"height":60
+		},
+		{
+			"id":"d81450e0fa52803f",
+			"type":"text",
+			"text":"Plot scale",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-780,
+			"y":560,
+			"width":250,
+			"height":50
+		},
+		{
+			"id":"fa618c0673ac65cb",
+			"type":"text",
+			"text":"Structural & Architectural imposed limits",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-1700,
+			"y":340,
+			"width":250,
+			"height":50
+		},
+		{"id":"f173656001d9f945","type":"text","text":"- Reusability of the materials we have. \n- Crane positioning and how we work around that.\n- Leaving paths for construction vehicles ( we can't impede the construction works)\n- What are the regulations on going above a construction site","x":-823,"y":660,"width":337,"height":239},
+		{"id":"1bcdf2ae779c307b","type":"text","text":"How does the phasing impact the traffic flow around the area (Maria has more insight on this)","x":-1500,"y":660,"width":250,"height":239},
+		{
+			"id":"a46aa6c3804c0154",
+			"type":"text",
+			"text":"2. Structural and Geotechnical Requirements\n\nThe structure's design must comply with the general design principles found in the Eurocodes, which inform the Bbl regulations.\n\nA. Structural Safety and Load Combinations\n\nAll structures must be designed to withstand all forces during use and execution, and to prevent **progressive collapse** (disproportionate damage in the event of an accident),,.\n\n• **Verification Basis:** Verification of the ultimate limit state (ULS) is based on **Eurocode (EN 1990)**,,,,.\n\n• **Load Combinations:** Structural non-failure verification involves using **fundamental load combinations** (normal use conditions),, and **exceptional load combinations** (e.g., resulting from fire, impact, or explosion),,.\n\nB. Optimal Foundations (Geotechnical Requirements)\n\nWhile the sources do not specify the single \"optimal\" foundation type (which depends on local soil conditions and logistics), they mandate the methodology for selecting suitable foundations and verifying their performance.\n\n• **Geotechnical Design:** Design must account for geotechnical aspects (soil, rock, groundwater) in accordance with **Eurocode 7 (EN 1997)**,. Geotechnical investigations are required to establish the ground profile and strength/deformation properties.\n\n• **Investigation Depth:** The investigation depth must extend to all strata that will affect the project. For piles, this depth is typically down to a level **below the lowest point of the pile base**,.\n\n• **Bearing Resistance and Settlement:** The bearing resistance and settlement of spread foundations may be derived using:\n\n    ◦ **Semi-empirical or analytical methods** from Cone Penetration Test (CPT) results.\n\n    ◦ **Standard Penetration Test (SPT)** or **Dynamic Probing (DP)** results in coarse soil, provided local experience or reliable correlations are used,",
+			"styleAttributes":{"border":"dashed"},
+			"x":-1740,
+			"y":-700,
+			"width":783,
+			"height":780,
+			"color":"6"
+		},
+		{
+			"id":"cc052143674beb71",
+			"type":"text",
+			"text":"1. Regulatory Context and Classification\n\nThe structure's operation within the area covered by the Eindhoven Internationale **Knoop XL** project requires adherence to the **Environment Buildings Decree (Bbl)**, particularly concerning temporary status and relocation.\n\nA. Temporary Structure Classification\n\nA \"temporary structure\" is defined as a structure with a maintenance period of **no more than 15 years** at the same location, making your 3-year plan compliant with this definition.\n\n• **General Rules:** The rules of **Chapter 3 (Existing Structures)** generally apply to the construction of a temporary structure, unless otherwise specified in Sections 4.2 to 4.7 (New Constructions),. The underlying assumption for structural and health requirements is that satisfying the rules for existing structures (Sections 3.2 to 3.7) is sufficient.\n\n• **Specific Requirements (Chapter 4):** Key rules from Chapter 4 that specifically apply to temporary structures include provisions related to:\n\n    ◦ **Escape Routes and Fire Assistance:** Articles 4.65 to 4.71 (course of escape routes) and Articles 4.84 and 4.85 (fire brigade lift/aid post) apply.\n\n    ◦ **Ventilation and Flue Gas:** The requirements for ventilation/flushing facility capacity (Articles 4.131 and 4.132) and rules regarding flue gas discharge/combustion air supply (Articles 4.135 to 4.141) apply.\n\n    ◦ **Sustainability (Thermal):** Articles 4.152 (thermal resistance), 4.153 (heat transfer coefficient), and 4.154 (air volume flow) apply, generally setting the minimum requirements at values specified in Table 4.148B,.\n\nB. Relocation Regulations\n\nThe relocation of a temporary structure is considered the displacement of an existing structure,.\n\n• **Rules for Displacement:** When relocating an existing structure in an **unchanged composition**, the structure must comply with the rules of **Chapter 3 (Existing Structures)**,. For a temporary structure, this rule remains applicable after relocation,.",
+			"styleAttributes":{
+				"shape":null,
+				"border":"dashed",
+				"textAlign":null
+			},
+			"x":-2560,
+			"y":-700,
+			"width":783,
+			"height":780,
+			"color":"6"
+		},
+		{
+			"id":"d1d64a71a2499869",
+			"type":"text",
+			"text":"- Rules for temporary structures are less strict as we can use the existing building protocols instead of the new construction ones\n- Foundations should be made with precast concrete slabs instead of pouring piles (See Floor project)\n- Load combinations along with 3D wind patterns have to be considered. ( less of an issue if we go for the small wildlife variant as the structures are much smaller)\n- Dynamics of users have to be taken into account> steel doesn't dampen vibrations well and it can cause resonance which weakens the structure",
+			"styleAttributes":{},
+			"x":-2660,
+			"y":170,
+			"width":417,
+			"height":440,
+			"color":"4"
+		},
+		{
+			"id":"8089bf47173964af",
+			"type":"text",
+			"text":"##### **Connections**",
+			"styleAttributes":{"textAlign":"center"},
+			"x":1720,
+			"y":839,
+			"width":250,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"a1594b16cd8ecaa9",
+			"type":"text",
+			"text":"##### **Wildlife detailing & impact**",
+			"styleAttributes":{"textAlign":"center"},
+			"x":3560,
+			"y":200,
+			"width":250,
+			"height":60,
+			"color":"3"
+		},
+		{
+			"id":"7ed789742c99ea32",
+			"type":"text",
+			"text":"##### **Manufacturing, Supply and transportation**",
+			"styleAttributes":{"textAlign":"center"},
+			"x":2160,
+			"y":-1520,
+			"width":300,
+			"height":80,
+			"color":"3"
+		},
+		{
+			"id":"3fb818b3388d9640",
+			"type":"text",
+			"text":"##### **IDEAS**",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-2000,
+			"y":-3440,
+			"width":300,
+			"height":80,
+			"color":"2"
+		},
+		{"id":"1144d0c7627a3630","type":"file","file":"MEDIA/IMAGES/IMG-14-12-2025-001219736.png","x":-530,"y":-590,"width":586,"height":410}
+	],
+	"edges":[
+		{"id":"f1153a809622ee9e","fromNode":"0a18e5d7148299a3","fromSide":"bottom","toNode":"67ebb59448249d05","toSide":"top"},
+		{"id":"5b1b579668b23886","fromNode":"0a18e5d7148299a3","fromSide":"bottom","toNode":"e4c9ac81a72e0601","toSide":"top"},
+		{"id":"57415a0b2f7573af","fromNode":"0a18e5d7148299a3","fromSide":"bottom","toNode":"d81450e0fa52803f","toSide":"top"},
+		{"id":"43ed357a726b380b","fromNode":"0a18e5d7148299a3","fromSide":"bottom","toNode":"fa618c0673ac65cb","toSide":"right"},
+		{"id":"a23c10e23bc4ad3e","fromNode":"67ebb59448249d05","fromSide":"bottom","toNode":"1bcdf2ae779c307b","toSide":"top"},
+		{"id":"7a83a5a8539f760d","fromNode":"e4c9ac81a72e0601","fromSide":"bottom","toNode":"8f6cfe3883edbeea","toSide":"top"},
+		{"id":"b901f2e2c92b4104","fromNode":"d81450e0fa52803f","fromSide":"bottom","toNode":"f173656001d9f945","toSide":"top"},
+		{
+			"id":"93477ba2c4c8dcef",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"cc052143674beb71",
+			"fromSide":"bottom",
+			"toNode":"d1d64a71a2499869",
+			"toSide":"right"
+		},
+		{
+			"id":"f80bc0bf11fbeda8",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"a46aa6c3804c0154",
+			"fromSide":"bottom",
+			"toNode":"d1d64a71a2499869",
+			"toSide":"right"
+		},
+		{
+			"id":"301ebb912a8d9f4d",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"fa618c0673ac65cb",
+			"fromSide":"left",
+			"toNode":"d1d64a71a2499869",
+			"toSide":"right"
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}
