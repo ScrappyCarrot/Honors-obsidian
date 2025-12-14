@@ -4,6 +4,28 @@
     "type": "split",
     "children": [
       {
+        "id": "28575f166ce5bc28",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10a0faa06044459f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "MEDIA/PDF/Temporary Demountable Structures (Institution of Structural Engineers) (Z-Library).pdf",
+                "page": 21,
+                "left": -17,
+                "top": 421,
+                "zoom": 0.8958029552678086
+              },
+              "icon": "lucide-file-text",
+              "title": "Temporary Demountable Structures (Institution of Structural Engineers) (Z-Library)"
+            }
+          }
+        ]
+      },
+      {
         "id": "eb963b510bff93ee",
         "type": "tabs",
         "children": [
@@ -13,12 +35,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal meeting notes/15-12-25 Presentation GMM.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "15-12-25 Presentation GMM"
+              "title": "Untitled"
             }
           }
         ]
@@ -94,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal meeting notes/15-12-25 Presentation GMM.md",
+                "file": "MEDIA/PDF/Temporary Demountable Structures (Institution of Structural Engineers) (Z-Library).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +126,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 15-12-25 Presentation GMM"
+              "title": "Backlinks for Temporary Demountable Structures (Institution of Structural Engineers) (Z-Library)"
             }
           },
           {
@@ -173,11 +195,13 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 402.5
+    "width": 402.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,16 +217,21 @@
       "obsidian42-brat:BRAT": false,
       "omnisearch:Omnisearch": false,
       "obsidian-importer:Open Importer": false,
-      "obsidian42-text-transporter:Text Transporter": false
+      "obsidian42-text-transporter:Text Transporter": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "391c0a66a904b9d0",
+  "active": "10a0faa06044459f",
   "lastOpenFiles": [
-    "Temporary Structures in Construction, Third Edition (Robert Ratay) (Z-Library).pdf",
-    "Temporary and Tactical Urbanism (Re)Assembling Urban Space (Quentin Stevens, Kim Dovey) (Z-Library).pdf",
-    "Temporary Demountable Structures (Institution of Structural Engineers) (Z-Library).pdf",
-    "Notion/Meet 12dec.md",
+    "Untitled.md",
+    "MEDIA/PDF/Temporary Demountable Structures (Institution of Structural Engineers) (Z-Library).pdf",
+    "MEDIA/PDF/Temporary and Tactical Urbanism (Re)Assembling Urban Space (Quentin Stevens, Kim Dovey) (Z-Library).pdf",
+    "2025-12-14.md",
+    "MEDIA/PDF/Temporary Structures in Construction, Third Edition (Robert Ratay) (Z-Library).pdf",
     "Personal meeting notes/15-12-25 Presentation GMM.md",
+    "Notion/Meet 12dec.md",
     "CANVAS OF IDEAS.canvas",
     "MEDIA/PDF/besluit-bouwwerken-leefomgeving-tekst-bij-inwerkingtreding-1 (1).pdf",
     "MEDIA/IMAGES/Pasted image 20251214023712.png",
@@ -241,10 +270,7 @@
     "Notion/2c74d57434b881b592e20042c6fd9b7f/Untitled 2.md",
     "Notion/2c74d57434b881b592e20042c6fd9b7f/EUROCODE LETS GOOOOOOOOO.md",
     "Notion/2c74d57434b881b592e20042c6fd9b7f/Create questions for survey.md",
-    "Notion/2c74d57434b881b592e20042c6fd9b7f/Biological integration.md",
-    "Notion/2c74d57434b881b592e20042c6fd9b7f/Manufacturing.md",
     "Notion/Export-5f56dad0-627c-4c59-9b8e-e10e101eba41/Private & Shared/People",
-    "Notion/2c74d57434b881b592e20042c6fd9b7f",
     "Canvas export/CANVAS OF IDEAS.canvas",
     "Untitled.canvas"
   ]
