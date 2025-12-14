@@ -34,10 +34,10 @@
               "type": "pdf",
               "state": {
                 "file": "MEDIA/PDF/HAI-Engineering-Manual-min.pdf",
-                "page": 6,
-                "left": -17,
-                "top": 51,
-                "zoom": 0.8713235294117647
+                "page": 8,
+                "left": 81,
+                "top": 179,
+                "zoom": 1.1652481394479575
               },
               "icon": "lucide-file-text",
               "title": "HAI-Engineering-Manual-min"
@@ -224,9 +224,9 @@
   },
   "active": "873643a3ecf23f1b",
   "lastOpenFiles": [
-    "CANVAS OF IDEAS.canvas",
-    "Research/Foundation/Helical anchors foundation.md",
     "MEDIA/PDF/HAI-Engineering-Manual-min.pdf",
+    "Research/Foundation/Helical anchors foundation.md",
+    "CANVAS OF IDEAS.canvas",
     "Research/Foundation/Modula temporar.md",
     "MEDIA/IMAGES/IMG-14-12-2025-190038353.png",
     "MEDIA/IMAGES/Pasted image 20251214190742.png",
