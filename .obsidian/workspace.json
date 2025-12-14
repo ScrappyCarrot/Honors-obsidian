@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/Gem-Stage tower (floor).md",
+                "file": "Research/Foundation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gem-Stage tower (floor)"
+              "title": "Foundation"
             }
           }
         ]
@@ -34,10 +34,10 @@
               "type": "pdf",
               "state": {
                 "file": "MEDIA/EUROCODE/EUCODE-7-Geotechnical.pdf",
-                "page": 1,
-                "left": -11,
-                "top": 729,
-                "zoom": 0.896218487394958
+                "page": 7,
+                "left": -4,
+                "top": 225,
+                "zoom": 1
               },
               "icon": "lucide-file-text",
               "title": "EUCODE-7-Geotechnical"
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MEDIA/EUROCODE/EUCODE-7-Geotechnical.pdf",
+                "file": "Research/Foundation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for EUCODE-7-Geotechnical"
+              "title": "Backlinks for Foundation"
             }
           },
           {
@@ -223,10 +223,12 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "c89686570795ced7",
+  "active": "7a64d64b7816f9eb",
   "lastOpenFiles": [
-    "MEDIA/PDF/GEM-STAGE-Factsheet-2021.pdf",
+    "MEDIA/EUROCODE/EUCODE-7-Geotechnical.pdf",
+    "Research/Foundation.md",
     "Research/Gem-Stage tower (floor).md",
+    "MEDIA/PDF/GEM-STAGE-Factsheet-2021.pdf",
     "Personal meeting notes/15-12-25 Presentation GMM.md",
     "Notion/Meet 12dec.md",
     "MEDIA/PDF/nko-mmk-bijlage-4 - -ontwerpverantwoording-korte-lijst-oplossingsricht - -10-dec-2024+(1)_EN.pdf",
@@ -250,7 +252,6 @@
     "Screenshot 2025-12-14 020559.png",
     "Untitled.base",
     "Meeting Notes 2c04d57434b8802d8e02cf55e60d64b6_all 1.csv",
-    "Meeting Notes 2c04d57434b8802d8e02cf55e60d64b6_all.csv",
     "Notion/Export-5f56dad0-627c-4c59-9b8e-e10e101eba41/Private & Shared/People.md",
     "Notion/Export-5f56dad0-627c-4c59-9b8e-e10e101eba41/Private & Shared/People/Maria Barbu.md",
     "Notion/Export-5f56dad0-627c-4c59-9b8e-e10e101eba41/Private & Shared/People/Aylin I.md",
@@ -270,7 +271,6 @@
     "Notion/2c74d57434b881b592e20042c6fd9b7f/City flow research cases.md",
     "Notion/2c74d57434b881b592e20042c6fd9b7f/Untitled 2.md",
     "Notion/2c74d57434b881b592e20042c6fd9b7f/EUROCODE LETS GOOOOOOOOO.md",
-    "Notion/2c74d57434b881b592e20042c6fd9b7f/Create questions for survey.md",
     "Canvas export/CANVAS OF IDEAS.canvas",
     "Untitled.canvas"
   ]
