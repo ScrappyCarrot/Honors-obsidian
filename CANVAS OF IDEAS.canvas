@@ -168,7 +168,17 @@
 			"height":440,
 			"color":"4"
 		},
-		{"id":"12c06e41bf809658","type":"file","file":"MEDIA/IMAGES/Pasted image 20251214190742.png","x":-1880,"y":1600,"width":400,"height":225}
+		{"id":"12c06e41bf809658","type":"file","file":"MEDIA/IMAGES/Pasted image 20251214190742.png","x":-1880,"y":1600,"width":400,"height":225},
+		{
+			"id":"973af364e6f2f12e",
+			"type":"text",
+			"text":"![[MEDIA/PDF/HAI-Engineering-Manual-min.pdf#page=10&rect=88,314,307,725]]",
+			"styleAttributes":{},
+			"x":-1500,
+			"y":1180,
+			"width":240,
+			"height":380
+		}
 	],
 	"edges":[
 		{"id":"f1153a809622ee9e","fromNode":"0a18e5d7148299a3","fromSide":"bottom","toNode":"67ebb59448249d05","toSide":"top"},
