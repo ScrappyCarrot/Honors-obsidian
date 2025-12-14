@@ -11,14 +11,17 @@
             "id": "7a64d64b7816f9eb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "MEDIA/IMAGES/IMAGES.md",
-                "mode": "source",
-                "source": false
+                "file": "CANVAS OF IDEAS.canvas",
+                "viewState": {
+                  "x": -1383.1781144680315,
+                  "y": 1182.2765233588334,
+                  "zoom": -0.5656484784723993
+                }
               },
-              "icon": "lucide-file",
-              "title": "IMAGES"
+              "icon": "lucide-layout-dashboard",
+              "title": "CANVAS OF IDEAS"
             }
           }
         ]
@@ -94,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MEDIA/IMAGES/IMAGES.md",
+                "file": "CANVAS OF IDEAS.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +107,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for IMAGES"
+              "title": "Backlinks for CANVAS OF IDEAS"
             }
           },
           {
@@ -200,7 +203,7 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "c89686570795ced7",
+  "active": "7a64d64b7816f9eb",
   "lastOpenFiles": [
     "MEDIA/IMAGES/IMAGES.md",
     "MEDIA/IMAGES/Pasted image 20251214023739.png",
