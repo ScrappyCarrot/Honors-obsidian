@@ -11,17 +11,14 @@
             "id": "7a64d64b7816f9eb",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "CANVAS OF IDEAS.canvas",
-                "viewState": {
-                  "x": -1177.0955383336257,
-                  "y": 328.38839224794293,
-                  "zoom": -1.0727989261326751
-                }
+                "file": "Research/Foundation/Helical anchors foundation.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "CANVAS OF IDEAS"
+              "icon": "lucide-file",
+              "title": "Helical anchors foundation"
             }
           }
         ]
@@ -97,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CANVAS OF IDEAS.canvas",
+                "file": "Research/Foundation/Helical anchors foundation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for CANVAS OF IDEAS"
+              "title": "Backlinks for Helical anchors foundation"
             }
           },
           {
@@ -205,6 +202,15 @@
   },
   "active": "7a64d64b7816f9eb",
   "lastOpenFiles": [
+    "MEDIA/IMAGES/IMG-14-12-2025-190038353.png",
+    "MEDIA/IMAGES/Pasted image 20251214190742.png",
+    "Research/Foundation/Helical anchors foundation.md",
+    "MEDIA/IMAGES/IMG-14-12-2025-190038402.png",
+    "MEDIA/IMAGES/Pasted image 20251214023739.png",
+    "MEDIA/IMAGES/books_library_shelves_120472_2560x1024.jpg",
+    "MEDIA/IMAGES/IMG-14-12-2025-001219736.png",
+    "MEDIA/PDF/Temporary and Tactical Urbanism (Re)Assembling Urban Space (Quentin Stevens, Kim Dovey) (Z-Library).pdf",
+    "CANVAS OF IDEAS.canvas",
     "Canvas export/media/pdf/hai-engineering-manual-min.pdf",
     "Canvas export/media/pdf",
     "Canvas export/site-lib/styles/snippets.css",
@@ -214,19 +220,10 @@
     "Canvas export/site-lib/fonts/mathjax_typewriter-regular.woff",
     "Canvas export/site-lib/fonts/mathjax_script-regular.woff",
     "Canvas export/site-lib/fonts/mathjax_sansserif-bold.woff",
-    "Canvas export/site-lib/fonts/mathjax_sansserif-regular.woff",
-    "Canvas export/site-lib/fonts/mathjax_ams-regular.woff",
-    "CANVAS OF IDEAS.canvas",
     "MEDIA/IMAGES/IMAGES.canvas",
-    "MEDIA/IMAGES/IMG-14-12-2025-001219736.png",
-    "MEDIA/IMAGES/books_library_shelves_120472_2560x1024.jpg",
     "MEDIA/IMAGES/Pasted image 20251214023717.png",
     "MEDIA/IMAGES/IMAGES.md",
     "MEDIA/IMAGES/Pasted image 20251214023744.png",
-    "MEDIA/IMAGES/IMG-14-12-2025-190038353.png",
-    "MEDIA/IMAGES/IMG-14-12-2025-190038402.png",
-    "MEDIA/IMAGES/Pasted image 20251214190742.png",
-    "Research/Foundation/Helical anchors foundation.md",
     "Research/Gem-Stage tower (floor).md",
     "Research/Foundation/Modula temporar.md",
     "Research/Foundation/Foundation.md",
@@ -236,7 +233,6 @@
     "2025-12-14.md",
     "MEDIA/IMAGES/Pasted image 20251214023712.png",
     "MEDIA/IMAGES/Pasted image 20251214023701.png",
-    "MEDIA/IMAGES/Pasted image 20251214023739.png",
     "Notion/Export-5f56dad0-627c-4c59-9b8e-e10e101eba41/Private & Shared/People.md",
     "Notion/Export-5f56dad0-627c-4c59-9b8e-e10e101eba41/Private & Shared/People/Maria Barbu.md",
     "Notion/Export-5f56dad0-627c-4c59-9b8e-e10e101eba41/Private & Shared/People/Aylin I.md",
