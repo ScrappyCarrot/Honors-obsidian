@@ -15,8 +15,8 @@
               "state": {
                 "file": "CANVAS OF IDEAS.canvas",
                 "viewState": {
-                  "x": -1975.261176044778,
-                  "y": 1642.8981330913714,
+                  "x": -1926.8579692341425,
+                  "y": 1620.4453985604755,
                   "zoom": -0.5214513429808275
                 }
               },
@@ -34,16 +34,14 @@
             "id": "7a64d64b7816f9eb",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "MEDIA/PDF/HAI-Engineering-Manual-min.pdf",
-                "page": 42,
-                "left": 12,
-                "top": 84,
-                "zoom": 1
+                "file": "Research/Foundation/Helical anchors foundation.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "HAI-Engineering-Manual-min"
+              "icon": "lucide-file",
+              "title": "Helical anchors foundation"
             }
           }
         ]
@@ -227,9 +225,9 @@
   },
   "active": "873643a3ecf23f1b",
   "lastOpenFiles": [
-    "CANVAS OF IDEAS.canvas",
     "Research/Foundation/Helical anchors foundation.md",
     "MEDIA/PDF/HAI-Engineering-Manual-min.pdf",
+    "CANVAS OF IDEAS.canvas",
     "Research/Foundation/Modula temporar.md",
     "MEDIA/IMAGES/IMG-14-12-2025-190038353.png",
     "MEDIA/IMAGES/Pasted image 20251214190742.png",
