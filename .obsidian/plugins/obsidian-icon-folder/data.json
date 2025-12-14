@@ -4,8 +4,9 @@
     "iconPacksPath": ".obsidian/icons",
     "fontSize": 16,
     "emojiStyle": "native",
-    "iconColor": null,
+    "iconColor": "#ffffff",
     "recentlyUsedIcons": [
+      "LiDiamondPercent",
       "LiAlbum",
       "LiAperture"
     ],
@@ -38,5 +39,6 @@
   "MEDIA/PDF": {
     "iconName": "LiAlbum",
     "iconColor": "#bababa"
-  }
+  },
+  "Notion": "LiDiamondPercent"
 }
