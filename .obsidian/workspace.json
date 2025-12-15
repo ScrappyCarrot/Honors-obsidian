@@ -11,17 +11,14 @@
             "id": "daf5698f6421be0f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "CANVAS OF IDEAS.canvas",
-                "viewState": {
-                  "x": -1469.92294899666,
-                  "y": 1086.8793591071249,
-                  "zoom": -1.0286018649307271
-                }
+                "file": "Notion/Meet 12dec.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "CANVAS OF IDEAS"
+              "icon": "lucide-file",
+              "title": "Meet 12dec"
             }
           }
         ]
@@ -205,6 +202,8 @@
   },
   "active": "daf5698f6421be0f",
   "lastOpenFiles": [
+    "MEDIA/IMAGES/IMAGES.base",
+    "CANVAS OF IDEAS.canvas",
     "MEDIA/EUROCODE/EUCODE-5-Timber.pdf",
     "MEDIA/EUROCODE/EUCODE-3-Steel.pdf",
     "MEDIA/EUROCODE/EUCODE-1-Loads.pdf",
@@ -212,7 +211,6 @@
     "MEDIA/IMAGES/Pasted image 20251214214706.png",
     "MEDIA/IMAGES/Pasted image 20251214023717.png",
     "MEDIA/IMAGES/IMG-14-12-2025-190038402.png",
-    "CANVAS OF IDEAS.canvas",
     "Canvas export/media/images/img-15-12-2025-120629098.png",
     "Canvas export/media/images/img-15-12-2025-120548680.png",
     "Canvas export/media/images/img-15-12-2025-120418416.png",
@@ -227,12 +225,10 @@
     "Research/Gem-Stage tower (floor).md",
     "Research/Foundation/Foundation.md",
     "Research/Foundation/_TOC_.md",
-    "MEDIA/IMAGES/IMAGES.base",
     "Canvas export/site-lib/styles/theme.css",
     "MEDIA/PDF/PDF.base",
     "MEDIA/PDF/HAI-Engineering-Manual-min.pdf",
     "MEDIA/PDF/GEM-STAGE-Factsheet-2021.pdf",
-    "MEDIA/PDF/Circulaire_Gebiedsontwikkeling_Internationale_Knoop_XL_27052019_compressed_EN.pdf",
     "Untitled/Untitled.md",
     "Untitled.md",
     "MEDIA/IMAGES/IMAGES.md",
