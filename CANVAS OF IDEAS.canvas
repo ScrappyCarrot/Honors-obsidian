@@ -235,8 +235,7 @@
 		},
 		{"id":"053192fc1e3127a2","type":"file","file":"MEDIA/IMAGES/IMG-15-12-2025-120629098.png","x":-3703,"y":2366,"width":300,"height":400},
 		{"id":"760916fcfdd801e2","type":"file","file":"MEDIA/IMAGES/IMG-15-12-2025-120548680.png","x":-2723,"y":2250,"width":400,"height":396},
-		{"id":"84cad1b31c97de60","type":"file","file":"MEDIA/IMAGES/IMG-15-12-2025-120418416.png","x":-2723,"y":1866,"width":399,"height":321},
-		{"id":"1144d0c7627a3630","type":"file","file":"MEDIA/IMAGES/IMG-14-12-2025-001219736.png","x":-400,"y":-1280,"width":1287,"height":900}
+		{"id":"84cad1b31c97de60","type":"file","file":"MEDIA/IMAGES/IMG-15-12-2025-120418416.png","x":-2723,"y":1866,"width":399,"height":321}
 	],
 	"edges":[
 		{"id":"f1153a809622ee9e","toFloating":false,"fromNode":"0a18e5d7148299a3","fromSide":"bottom","toNode":"67ebb59448249d05","toSide":"top"},

@@ -11,12 +11,17 @@
             "id": "daf5698f6421be0f",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "canvas",
               "state": {
-                "file": "MEDIA/IMAGES/IMG-14-12-2025-001219736.png"
+                "file": "CANVAS OF IDEAS.canvas",
+                "viewState": {
+                  "x": 480.0509208137455,
+                  "y": -399.65954043077375,
+                  "zoom": -1.0200993312147477
+                }
               },
-              "icon": "lucide-image",
-              "title": "IMG-14-12-2025-001219736"
+              "icon": "lucide-layout-dashboard",
+              "title": "CANVAS OF IDEAS"
             }
           }
         ]
@@ -200,6 +205,7 @@
   },
   "active": "daf5698f6421be0f",
   "lastOpenFiles": [
+    "MEDIA/IMAGES/IMG-14-12-2025-001219736.png",
     "MEDIA/IMAGES/IMAGES.base",
     "MEDIA/IMAGES/Pasted image 20251214023717.png",
     "MEDIA/IMAGES/Pasted image 20251214023739.png",
