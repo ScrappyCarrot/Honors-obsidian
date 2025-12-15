@@ -11,17 +11,14 @@
             "id": "daf5698f6421be0f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "CANVAS OF IDEAS.canvas",
-                "viewState": {
-                  "x": -1979.1910334326876,
-                  "y": 1638.4378318804747,
-                  "zoom": -0.014300895320551676
-                }
+                "file": "Research/Gem-Stage tower (floor).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "CANVAS OF IDEAS"
+              "icon": "lucide-file",
+              "title": "Gem-Stage tower (floor)"
             }
           }
         ]
@@ -97,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CANVAS OF IDEAS.canvas",
+                "file": "Research/Gem-Stage tower (floor).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for CANVAS OF IDEAS"
+              "title": "Backlinks for Gem-Stage tower (floor)"
             }
           },
           {
@@ -205,34 +202,33 @@
   },
   "active": "daf5698f6421be0f",
   "lastOpenFiles": [
+    "MEDIA/IMAGES/Pasted image 20251214215500.png",
+    "MEDIA/IMAGES/Pasted image 20251214214706.png",
+    "MEDIA/IMAGES/IMG-14-12-2025-190038353.png",
+    "MEDIA/IMAGES/IMG-14-12-2025-001219736.png",
+    "Research/Gem-Stage tower (floor).md",
+    "MEDIA/IMAGES/IMAGES.base",
+    "MEDIA/IMAGES/Pasted image 20251214213326.png",
+    "Research/Foundation/Helical anchors foundation.md",
+    "CANVAS OF IDEAS.canvas",
     "Canvas export/media/images/pasted-image-20251214215500.png",
     "Canvas export/media/images/pasted-image-20251214213326.png",
     "Canvas export/site-lib/styles/theme.css",
     "Canvas export/media/images/pasted-image-20251214214706.png",
     "Canvas export/media/images/pasted-image-20251214190742.png",
-    "CANVAS OF IDEAS.canvas",
-    "MEDIA/IMAGES/Pasted image 20251214215500.png",
     "MEDIA/PDF/PDF.base",
     "MEDIA/PDF/HAI-Engineering-Manual-min.pdf",
     "MEDIA/PDF/GEM-STAGE-Factsheet-2021.pdf",
     "MEDIA/PDF/Circulaire_Gebiedsontwikkeling_Internationale_Knoop_XL_27052019_compressed_EN.pdf",
     "MEDIA/PDF/nko-mmk-bijlage-4 - -ontwerpverantwoording-korte-lijst-oplossingsricht - -10-dec-2024+(1)_EN.pdf",
     "MEDIA/PDF/besluit-bouwwerken-leefomgeving-tekst-bij-inwerkingtreding-1 (1).pdf",
-    "MEDIA/IMAGES/IMAGES.base",
-    "MEDIA/IMAGES/Pasted image 20251214214706.png",
-    "MEDIA/IMAGES/Pasted image 20251214213326.png",
-    "Research/Gem-Stage tower (floor).md",
-    "Research/Foundation/Helical anchors foundation.md",
     "Untitled/Untitled.md",
     "Untitled.md",
-    "MEDIA/IMAGES/IMG-14-12-2025-001219736.png",
     "MEDIA/IMAGES/IMAGES.md",
     "Visual Notess.base",
     "Don't Think Outside.md",
     "MEDIA/IMAGES/Pasted image 20251214023739.png",
     "Untitled",
-    "MEDIA/IMAGES/IMG-14-12-2025-190038353.png",
-    "MEDIA/IMAGES/Pasted image 20251214190742.png",
     "MEDIA/IMAGES/IMAGES.canvas",
     "Research/Foundation/Modula temporar.md",
     "Research/Foundation/Foundation.md",
