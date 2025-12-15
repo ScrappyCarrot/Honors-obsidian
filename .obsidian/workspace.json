@@ -11,17 +11,14 @@
             "id": "daf5698f6421be0f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "CANVAS OF IDEAS.canvas",
-                "viewState": {
-                  "x": -1693.5472137508102,
-                  "y": 1631.0035934162077,
-                  "zoom": -0.6729202194043772
-                }
+                "file": "Research/Foundation/Ballast Supported Foundations.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "CANVAS OF IDEAS"
+              "icon": "lucide-file",
+              "title": "Ballast Supported Foundations"
             }
           }
         ]
@@ -205,6 +202,7 @@
   },
   "active": "daf5698f6421be0f",
   "lastOpenFiles": [
+    "CANVAS OF IDEAS.canvas",
     "MEDIA/PDF/Determination of Safe Ballasts for Anchoring Event Tents by Finit.pdf",
     "Research/Foundation/Ballast Supported Foundations.md",
     "Research/Foundation/Helical anchors foundation.md",
@@ -218,7 +216,6 @@
     "MEDIA/Site Clippings",
     "MEDIA/IMAGES/IMG-15-12-2025-105551697.png",
     "Research/Gem-Stage tower (floor).md",
-    "CANVAS OF IDEAS.canvas",
     "Research/Foundation/Foundation.md",
     "Research/Foundation/_TOC_.md",
     "MEDIA/IMAGES/IMG-14-12-2025-190038353.png",
