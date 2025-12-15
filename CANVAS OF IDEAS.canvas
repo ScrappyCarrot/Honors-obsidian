@@ -122,40 +122,6 @@
 		{"id":"1144d0c7627a3630","type":"file","file":"MEDIA/IMAGES/IMG-14-12-2025-001219736.png","x":-400,"y":-1320,"width":1287,"height":900},
 		{"id":"2bb13b50fd23feb1","type":"file","file":"MEDIA/IMAGES/Pasted image 20251214215500.png","x":-400,"y":-2280,"width":1287,"height":858},
 		{
-			"id":"6d4480ec957eed46",
-			"type":"text",
-			"text":"Ballasted supported foundation",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-2820,
-			"y":1900,
-			"width":320,
-			"height":60
-		},
-		{"id":"5d394b60821dfe4f","type":"file","file":"Research/Foundation/Ballast Supported Foundations.md","x":-2900,"y":2020,"width":480,"height":780},
-		{"id":"84cad1b31c97de60","type":"file","file":"MEDIA/IMAGES/IMG-15-12-2025-120418416.png","x":-2380,"y":2020,"width":399,"height":321},
-		{"id":"760916fcfdd801e2","type":"file","file":"MEDIA/IMAGES/IMG-15-12-2025-120548680.png","x":-2380,"y":2404,"width":400,"height":396},
-		{
-			"id":"ff230932966466f6",
-			"type":"text",
-			"text":"Possible limitation of non penetrating systems is that I have mainly found them to be implemented in solar pannel arrays",
-			"styleAttributes":{},
-			"x":-3233,
-			"y":2120,
-			"width":260,
-			"height":150
-		},
-		{"id":"053192fc1e3127a2","type":"file","file":"MEDIA/IMAGES/IMG-15-12-2025-120629098.png","x":-3360,"y":2520,"width":300,"height":400},
-		{
-			"id":"07dbd45a660f8ebd",
-			"type":"text",
-			"text":"Look into starwin and their developed method (still this might need submerging by -0.500mm",
-			"styleAttributes":{},
-			"x":-3580,
-			"y":2341,
-			"width":287,
-			"height":120
-		},
-		{
 			"id":"08e9bae3e2d456a7",
 			"type":"text",
 			"text":"Foundartions",
@@ -236,7 +202,41 @@
 			"width":783,
 			"height":920,
 			"color":"6"
-		}
+		},
+		{
+			"id":"6d4480ec957eed46",
+			"type":"text",
+			"text":"Ballasted supported foundation",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-3163,
+			"y":1746,
+			"width":320,
+			"height":60
+		},
+		{"id":"5d394b60821dfe4f","type":"file","file":"Research/Foundation/Ballast Supported Foundations.md","x":-3243,"y":1866,"width":480,"height":780},
+		{
+			"id":"ff230932966466f6",
+			"type":"text",
+			"text":"Possible limitation of non penetrating systems is that I have mainly found them to be implemented in solar pannel arrays",
+			"styleAttributes":{},
+			"x":-3576,
+			"y":1966,
+			"width":260,
+			"height":150
+		},
+		{
+			"id":"07dbd45a660f8ebd",
+			"type":"text",
+			"text":"Look into starwin and their developed method (still this might need submerging by -0.500mm",
+			"styleAttributes":{},
+			"x":-3923,
+			"y":2187,
+			"width":287,
+			"height":120
+		},
+		{"id":"053192fc1e3127a2","type":"file","file":"MEDIA/IMAGES/IMG-15-12-2025-120629098.png","x":-3703,"y":2366,"width":300,"height":400},
+		{"id":"760916fcfdd801e2","type":"file","file":"MEDIA/IMAGES/IMG-15-12-2025-120548680.png","x":-2723,"y":2250,"width":400,"height":396},
+		{"id":"84cad1b31c97de60","type":"file","file":"MEDIA/IMAGES/IMG-15-12-2025-120418416.png","x":-2723,"y":1866,"width":399,"height":321}
 	],
 	"edges":[
 		{"id":"f1153a809622ee9e","toFloating":false,"fromNode":"0a18e5d7148299a3","fromSide":"bottom","toNode":"67ebb59448249d05","toSide":"top"},
@@ -263,16 +263,6 @@
 			"fromSide":"bottom",
 			"toNode":"08e9bae3e2d456a7",
 			"toSide":"top"
-		},
-		{
-			"id":"0686b228ffd7b243",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromFloating":false,
-			"fromNode":"08e9bae3e2d456a7",
-			"fromSide":"bottom",
-			"toNode":"514dc48d63e46c40",
-			"toSide":"left"
 		},
 		{
 			"id":"64a612a25eef19ff",
@@ -328,7 +318,7 @@
 			"toFloating":false,
 			"fromFloating":false,
 			"fromNode":"08e9bae3e2d456a7",
-			"fromSide":"bottom",
+			"fromSide":"left",
 			"toNode":"d5dbce099680efa2",
 			"toSide":"right"
 		},
@@ -398,6 +388,15 @@
 			"fromNode":"07dbd45a660f8ebd",
 			"fromSide":"right",
 			"toNode":"053192fc1e3127a2",
+			"toSide":"top"
+		},
+		{
+			"id":"610613bee56a9189",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"08e9bae3e2d456a7",
+			"fromSide":"bottom",
+			"toNode":"514dc48d63e46c40",
 			"toSide":"top"
 		}
 	],
