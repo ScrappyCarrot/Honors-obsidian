@@ -11,16 +11,10 @@
             "id": "daf5698f6421be0f",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "MEDIA/PDF/nko-mmk-bijlage-4 - -ontwerpverantwoording-korte-lijst-oplossingsricht - -10-dec-2024+(1)_EN.pdf",
-                "page": 169,
-                "left": -21,
-                "top": 80,
-                "zoom": 0.7330324727712787
-              },
-              "icon": "lucide-file-text",
-              "title": "nko-mmk-bijlage-4 - -ontwerpverantwoording-korte-lijst-oplossingsricht - -10-dec-2024+(1)_EN"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -204,12 +198,14 @@
   },
   "active": "daf5698f6421be0f",
   "lastOpenFiles": [
+    "CANVAS OF IDEAS.canvas",
+    "Research/Foundation/Ballast Supported Foundations.md",
+    "Research/Foundation/Helical anchors foundation.md",
+    "MEDIA/PDF/nko-mmk-bijlage-4 - -ontwerpverantwoording-korte-lijst-oplossingsricht - -10-dec-2024+(1)_EN.pdf",
     "MEDIA/PDF/Circulaire_Gebiedsontwikkeling_Internationale_Knoop_XL_27052019_compressed_EN.pdf",
     "MEDIA/PDF/Temporary Structures in Construction, Third Edition (Robert Ratay) (Z-Library).pdf",
     "MEDIA/PDF/Temporary Demountable Structures (Institution of Structural Engineers) (Z-Library).pdf",
     "Notion/Meet 12dec.md",
-    "CANVAS OF IDEAS.canvas",
-    "Research/Foundation/Helical anchors foundation.md",
     "Research/Foundation/Foundation.md",
     "MEDIA/IMAGES/IMAGES.base",
     "MEDIA/EUROCODE/EUCODE-5-Timber.pdf",
@@ -223,7 +219,6 @@
     "Canvas export/media/images/img-15-12-2025-120418416.png",
     "MEDIA/IMAGES/IMG-15-12-2025-120629098.png",
     "MEDIA/IMAGES/IMG-15-12-2025-120548680.png",
-    "Research/Foundation/Ballast Supported Foundations.md",
     "MEDIA/IMAGES/IMG-15-12-2025-120418416.png",
     "MEDIA/PDF/Determination of Safe Ballasts for Anchoring Event Tents by Finit.pdf",
     "MEDIA/IMAGES/Pasted image 20251214023744.png",
@@ -231,8 +226,6 @@
     "MEDIA/Site Clippings",
     "Research/Gem-Stage tower (floor).md",
     "Research/Foundation/_TOC_.md",
-    "Canvas export/site-lib/styles/theme.css",
-    "MEDIA/PDF/PDF.base",
     "Untitled/Untitled.md",
     "Untitled.md",
     "MEDIA/IMAGES/IMAGES.md",
