@@ -11,14 +11,16 @@
             "id": "daf5698f6421be0f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Research/Foundation/Helical anchors foundation.md",
-                "mode": "source",
-                "source": false
+                "file": "MEDIA/PDF/nko-mmk-bijlage-4 - -ontwerpverantwoording-korte-lijst-oplossingsricht - -10-dec-2024+(1)_EN.pdf",
+                "page": 169,
+                "left": -21,
+                "top": 80,
+                "zoom": 0.7330324727712787
               },
-              "icon": "lucide-file",
-              "title": "Helical anchors foundation"
+              "icon": "lucide-file-text",
+              "title": "nko-mmk-bijlage-4 - -ontwerpverantwoording-korte-lijst-oplossingsricht - -10-dec-2024+(1)_EN"
             }
           }
         ]
@@ -202,14 +204,17 @@
   },
   "active": "daf5698f6421be0f",
   "lastOpenFiles": [
-    "Research/Foundation/Foundation.md",
+    "MEDIA/PDF/Circulaire_Gebiedsontwikkeling_Internationale_Knoop_XL_27052019_compressed_EN.pdf",
+    "MEDIA/PDF/Temporary Structures in Construction, Third Edition (Robert Ratay) (Z-Library).pdf",
+    "MEDIA/PDF/Temporary Demountable Structures (Institution of Structural Engineers) (Z-Library).pdf",
     "Notion/Meet 12dec.md",
-    "MEDIA/IMAGES/IMAGES.base",
     "CANVAS OF IDEAS.canvas",
+    "Research/Foundation/Helical anchors foundation.md",
+    "Research/Foundation/Foundation.md",
+    "MEDIA/IMAGES/IMAGES.base",
     "MEDIA/EUROCODE/EUCODE-5-Timber.pdf",
     "MEDIA/EUROCODE/EUCODE-3-Steel.pdf",
     "MEDIA/EUROCODE/EUCODE-1-Loads.pdf",
-    "Research/Foundation/Helical anchors foundation.md",
     "MEDIA/IMAGES/Pasted image 20251214214706.png",
     "MEDIA/IMAGES/Pasted image 20251214023717.png",
     "MEDIA/IMAGES/IMG-14-12-2025-190038402.png",
@@ -228,8 +233,6 @@
     "Research/Foundation/_TOC_.md",
     "Canvas export/site-lib/styles/theme.css",
     "MEDIA/PDF/PDF.base",
-    "MEDIA/PDF/HAI-Engineering-Manual-min.pdf",
-    "MEDIA/PDF/GEM-STAGE-Factsheet-2021.pdf",
     "Untitled/Untitled.md",
     "Untitled.md",
     "MEDIA/IMAGES/IMAGES.md",
