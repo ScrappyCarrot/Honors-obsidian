@@ -11,16 +11,13 @@
             "id": "daf5698f6421be0f",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "bases",
               "state": {
-                "file": "MEDIA/PDF/nko-mmk-bijlage-4 - -ontwerpverantwoording-korte-lijst-oplossingsricht - -10-dec-2024+(1)_EN.pdf",
-                "page": 119,
-                "left": -9,
-                "top": 574,
-                "zoom": 0.7178303377444204
+                "file": "MEDIA/IMAGES/IMAGES.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file-text",
-              "title": "nko-mmk-bijlage-4 - -ontwerpverantwoording-korte-lijst-oplossingsricht - -10-dec-2024+(1)_EN"
+              "icon": "lucide-layout-grid",
+              "title": "IMAGES"
             }
           }
         ]
@@ -204,6 +201,10 @@
   },
   "active": "daf5698f6421be0f",
   "lastOpenFiles": [
+    "MEDIA/IMAGES/Pasted image 20251214023717.png",
+    "MEDIA/IMAGES/IMAGES.base",
+    "MEDIA/IMAGES/Pasted image 20251214023739.png",
+    "MEDIA/PDF/nko-mmk-bijlage-4 - -ontwerpverantwoording-korte-lijst-oplossingsricht - -10-dec-2024+(1)_EN.pdf",
     "CANVAS OF IDEAS.canvas",
     "Notion/Meet 12dec.md",
     "MEDIA/Site Clippings/Ballasted Foundations - No Concrete Required.md",
@@ -212,15 +213,12 @@
     "MEDIA/EUROCODE/EUCODE-3-Steel.pdf",
     "Research/Foundation/Ballast Supported Foundations.md",
     "Research/Foundation/Helical anchors foundation.md",
-    "MEDIA/PDF/nko-mmk-bijlage-4 - -ontwerpverantwoording-korte-lijst-oplossingsricht - -10-dec-2024+(1)_EN.pdf",
     "MEDIA/PDF/Circulaire_Gebiedsontwikkeling_Internationale_Knoop_XL_27052019_compressed_EN.pdf",
     "MEDIA/PDF/Temporary Structures in Construction, Third Edition (Robert Ratay) (Z-Library).pdf",
     "MEDIA/PDF/Temporary Demountable Structures (Institution of Structural Engineers) (Z-Library).pdf",
     "Research/Foundation/Foundation.md",
-    "MEDIA/IMAGES/IMAGES.base",
     "MEDIA/EUROCODE/EUCODE-1-Loads.pdf",
     "MEDIA/IMAGES/Pasted image 20251214214706.png",
-    "MEDIA/IMAGES/Pasted image 20251214023717.png",
     "MEDIA/IMAGES/IMG-14-12-2025-190038402.png",
     "Canvas export/media/images/img-15-12-2025-120629098.png",
     "Canvas export/media/images/img-15-12-2025-120548680.png",
@@ -229,7 +227,6 @@
     "MEDIA/IMAGES/IMG-15-12-2025-120548680.png",
     "MEDIA/IMAGES/IMG-15-12-2025-120418416.png",
     "MEDIA/PDF/Determination of Safe Ballasts for Anchoring Event Tents by Finit.pdf",
-    "MEDIA/IMAGES/Pasted image 20251214023744.png",
     "Research/Gem-Stage tower (floor).md",
     "Research/Foundation/_TOC_.md",
     "Untitled/Untitled.md",
