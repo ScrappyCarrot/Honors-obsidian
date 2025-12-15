@@ -288,8 +288,9 @@
 				"pathfindingMethod":null
 			},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"0a18e5d7148299a3",
-			"fromSide":"bottom",
+			"fromSide":"left",
 			"toNode":"fa618c0673ac65cb",
 			"toSide":"right"
 		},
