@@ -11,13 +11,12 @@
             "id": "daf5698f6421be0f",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "image",
               "state": {
-                "file": "MEDIA/IMAGES/IMAGES.base",
-                "viewName": "Table"
+                "file": "MEDIA/IMAGES/IMG-14-12-2025-001219736.png"
               },
-              "icon": "lucide-layout-grid",
-              "title": "IMAGES"
+              "icon": "lucide-image",
+              "title": "IMG-14-12-2025-001219736"
             }
           }
         ]
@@ -201,8 +200,8 @@
   },
   "active": "daf5698f6421be0f",
   "lastOpenFiles": [
-    "MEDIA/IMAGES/Pasted image 20251214023717.png",
     "MEDIA/IMAGES/IMAGES.base",
+    "MEDIA/IMAGES/Pasted image 20251214023717.png",
     "MEDIA/IMAGES/Pasted image 20251214023739.png",
     "MEDIA/PDF/nko-mmk-bijlage-4 - -ontwerpverantwoording-korte-lijst-oplossingsricht - -10-dec-2024+(1)_EN.pdf",
     "CANVAS OF IDEAS.canvas",
