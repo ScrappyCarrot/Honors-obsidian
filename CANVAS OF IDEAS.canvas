@@ -54,32 +54,6 @@
 		{"id":"f173656001d9f945","type":"text","text":"- Reusability of the materials we have. \n- Crane positioning and how we work around that.\n- Leaving paths for construction vehicles ( we can't impede the construction works)\n- What are the regulations on going above a construction site","x":-823,"y":660,"width":337,"height":239},
 		{"id":"1bcdf2ae779c307b","type":"text","text":"How does the phasing impact the traffic flow around the area (Maria has more insight on this)","x":-1500,"y":660,"width":250,"height":239},
 		{
-			"id":"a46aa6c3804c0154",
-			"type":"text",
-			"text":"2. Structural and Geotechnical Requirements\n\nThe structure's design must comply with the general design principles found in the Eurocodes, which inform the Bbl regulations.\n\nA. Structural Safety and Load Combinations\n\nAll structures must be designed to withstand all forces during use and execution, and to prevent **progressive collapse** (disproportionate damage in the event of an accident),,.\n\n• **Verification Basis:** Verification of the ultimate limit state (ULS) is based on **Eurocode (EN 1990)**,,,,.\n\n• **Load Combinations:** Structural non-failure verification involves using **fundamental load combinations** (normal use conditions),, and **exceptional load combinations** (e.g., resulting from fire, impact, or explosion),,.\n\nB. Optimal Foundations (Geotechnical Requirements)\n\nWhile the sources do not specify the single \"optimal\" foundation type (which depends on local soil conditions and logistics), they mandate the methodology for selecting suitable foundations and verifying their performance.\n\n• **Geotechnical Design:** Design must account for geotechnical aspects (soil, rock, groundwater) in accordance with **Eurocode 7 (EN 1997)**,. Geotechnical investigations are required to establish the ground profile and strength/deformation properties.\n\n• **Investigation Depth:** The investigation depth must extend to all strata that will affect the project. For piles, this depth is typically down to a level **below the lowest point of the pile base**,.\n\n• **Bearing Resistance and Settlement:** The bearing resistance and settlement of spread foundations may be derived using:\n\n    ◦ **Semi-empirical or analytical methods** from Cone Penetration Test (CPT) results.\n\n    ◦ **Standard Penetration Test (SPT)** or **Dynamic Probing (DP)** results in coarse soil, provided local experience or reliable correlations are used,",
-			"styleAttributes":{"border":"dashed"},
-			"x":-1740,
-			"y":-700,
-			"width":783,
-			"height":780,
-			"color":"6"
-		},
-		{
-			"id":"cc052143674beb71",
-			"type":"text",
-			"text":"1. Regulatory Context and Classification\n\nThe structure's operation within the area covered by the Eindhoven Internationale **Knoop XL** project requires adherence to the **Environment Buildings Decree (Bbl)**, particularly concerning temporary status and relocation.\n\nA. Temporary Structure Classification\n\nA \"temporary structure\" is defined as a structure with a maintenance period of **no more than 15 years** at the same location, making your 3-year plan compliant with this definition.\n\n• **General Rules:** The rules of **Chapter 3 (Existing Structures)** generally apply to the construction of a temporary structure, unless otherwise specified in Sections 4.2 to 4.7 (New Constructions),. The underlying assumption for structural and health requirements is that satisfying the rules for existing structures (Sections 3.2 to 3.7) is sufficient.\n\n• **Specific Requirements (Chapter 4):** Key rules from Chapter 4 that specifically apply to temporary structures include provisions related to:\n\n    ◦ **Escape Routes and Fire Assistance:** Articles 4.65 to 4.71 (course of escape routes) and Articles 4.84 and 4.85 (fire brigade lift/aid post) apply.\n\n    ◦ **Ventilation and Flue Gas:** The requirements for ventilation/flushing facility capacity (Articles 4.131 and 4.132) and rules regarding flue gas discharge/combustion air supply (Articles 4.135 to 4.141) apply.\n\n    ◦ **Sustainability (Thermal):** Articles 4.152 (thermal resistance), 4.153 (heat transfer coefficient), and 4.154 (air volume flow) apply, generally setting the minimum requirements at values specified in Table 4.148B,.\n\nB. Relocation Regulations\n\nThe relocation of a temporary structure is considered the displacement of an existing structure,.\n\n• **Rules for Displacement:** When relocating an existing structure in an **unchanged composition**, the structure must comply with the rules of **Chapter 3 (Existing Structures)**,. For a temporary structure, this rule remains applicable after relocation,.",
-			"styleAttributes":{
-				"shape":null,
-				"border":"dashed",
-				"textAlign":null
-			},
-			"x":-2560,
-			"y":-700,
-			"width":783,
-			"height":780,
-			"color":"6"
-		},
-		{
 			"id":"8089bf47173964af",
 			"type":"text",
 			"text":"##### **Connections**",
@@ -124,16 +98,6 @@
 			"color":"2"
 		},
 		{
-			"id":"08e9bae3e2d456a7",
-			"type":"text",
-			"text":"Foundartions",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-2037,
-			"y":839,
-			"width":260,
-			"height":60
-		},
-		{
 			"id":"d1d64a71a2499869",
 			"type":"text",
 			"text":"- Rules for temporary structures are less strict as we can use the existing building protocols instead of the new construction ones\n- Foundations should be made with precast concrete slabs instead of pouring piles (See Floor project)\n- Load combinations along with 3D wind patterns have to be considered. ( less of an issue if we go for the small wildlife variant as the structures are much smaller)\n- Dynamics of users have to be taken into account> steel doesn't dampen vibrations well and it can cause resonance which weakens the structure",
@@ -143,50 +107,6 @@
 			"width":417,
 			"height":440,
 			"color":"4"
-		},
-		{
-			"id":"514dc48d63e46c40",
-			"type":"text",
-			"text":"Helical pile anchors",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-1857,
-			"y":1209,
-			"width":260,
-			"height":60
-		},
-		{"id":"e8b5c95629f57b61","type":"file","file":"Research/Foundation/Helical anchors foundation.md","subpath":"#**Conclusions **","x":-1700,"y":1409,"width":320,"height":220},
-		{"id":"12c06e41bf809658","type":"file","file":"MEDIA/IMAGES/Pasted image 20251214190742.png","x":-1700,"y":1669,"width":400,"height":225},
-		{
-			"id":"973af364e6f2f12e",
-			"type":"text",
-			"text":"![[MEDIA/PDF/HAI-Engineering-Manual-min.pdf#page=10&rect=88,314,307,725]]",
-			"styleAttributes":{},
-			"x":-1320,
-			"y":1249,
-			"width":240,
-			"height":380
-		},
-		{"id":"53366ec4b447d535","type":"file","file":"Research/Foundation/Helical anchors foundation.md","subpath":"#**Advantages **","x":-2107,"y":1409,"width":380,"height":320},
-		{"id":"d5dbce099680efa2","type":"file","file":"Research/Gem-Stage tower (floor).md","x":-3060,"y":839,"width":400,"height":400},
-		{
-			"id":"14aa45128b6a0e60",
-			"type":"text",
-			"text":"Structure uses a very heavy core along with cables that anchor in submerged concrete pads to take horizontal loading",
-			"styleAttributes":{},
-			"x":-3060,
-			"y":1340,
-			"width":400,
-			"height":100
-		},
-		{
-			"id":"c26977429ee859ff",
-			"type":"text",
-			"text":"Core houses the electronics for the generation of solar energy. We could incorporate something similar if we have functions that require power. This way it doesn't impede the construction sites\n",
-			"styleAttributes":{},
-			"x":-3740,
-			"y":1310,
-			"width":260,
-			"height":160
 		},
 		{
 			"id":"69fa834f18281f92",
@@ -199,8 +119,6 @@
 			"height":100,
 			"color":"3"
 		},
-		{"id":"14c14346df1849c0","type":"file","file":"MEDIA/IMAGES/Pasted image 20251214214706.png","x":-3367,"y":1270,"width":267,"height":400},
-		{"id":"8e4778eba9da87f3","type":"file","file":"MEDIA/IMAGES/Pasted image 20251214213326.png","x":-3367,"y":861,"width":267,"height":356},
 		{"id":"1144d0c7627a3630","type":"file","file":"MEDIA/IMAGES/IMG-14-12-2025-001219736.png","x":-400,"y":-1320,"width":1287,"height":900},
 		{"id":"2bb13b50fd23feb1","type":"file","file":"MEDIA/IMAGES/Pasted image 20251214215500.png","x":-400,"y":-2280,"width":1287,"height":858},
 		{
@@ -236,6 +154,88 @@
 			"y":2341,
 			"width":287,
 			"height":120
+		},
+		{
+			"id":"08e9bae3e2d456a7",
+			"type":"text",
+			"text":"Foundartions",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-2460,
+			"y":1080,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"514dc48d63e46c40",
+			"type":"text",
+			"text":"Helical pile anchors",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-1607,
+			"y":1496,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"973af364e6f2f12e",
+			"type":"text",
+			"text":"![[MEDIA/PDF/HAI-Engineering-Manual-min.pdf#page=10&rect=88,314,307,725]]",
+			"styleAttributes":{},
+			"x":-1070,
+			"y":1536,
+			"width":240,
+			"height":380
+		},
+		{"id":"e8b5c95629f57b61","type":"file","file":"Research/Foundation/Helical anchors foundation.md","subpath":"#**Conclusions **","x":-1450,"y":1696,"width":320,"height":220},
+		{"id":"53366ec4b447d535","type":"file","file":"Research/Foundation/Helical anchors foundation.md","subpath":"#**Advantages **","x":-1857,"y":1696,"width":380,"height":320},
+		{"id":"12c06e41bf809658","type":"file","file":"MEDIA/IMAGES/Pasted image 20251214190742.png","x":-1450,"y":1956,"width":400,"height":225},
+		{"id":"d5dbce099680efa2","type":"file","file":"Research/Gem-Stage tower (floor).md","x":-3836,"y":449,"width":400,"height":400},
+		{"id":"8e4778eba9da87f3","type":"file","file":"MEDIA/IMAGES/Pasted image 20251214213326.png","x":-4143,"y":471,"width":267,"height":356},
+		{
+			"id":"c26977429ee859ff",
+			"type":"text",
+			"text":"Core houses the electronics for the generation of solar energy. We could incorporate something similar if we have functions that require power. This way it doesn't impede the construction sites\n",
+			"styleAttributes":{},
+			"x":-4516,
+			"y":920,
+			"width":260,
+			"height":160
+		},
+		{
+			"id":"14aa45128b6a0e60",
+			"type":"text",
+			"text":"Structure uses a very heavy core along with cables that anchor in submerged concrete pads to take horizontal loading",
+			"styleAttributes":{},
+			"x":-3836,
+			"y":950,
+			"width":400,
+			"height":100
+		},
+		{"id":"14c14346df1849c0","type":"file","file":"MEDIA/IMAGES/Pasted image 20251214214706.png","x":-4143,"y":880,"width":267,"height":400},
+		{
+			"id":"cc052143674beb71",
+			"type":"text",
+			"text":"1. Regulatory Context and Classification\n\nThe structure's operation within the area covered by the Eindhoven Internationale **Knoop XL** project requires adherence to the **Environment Buildings Decree (Bbl)**, particularly concerning temporary status and relocation.\n\nA. Temporary Structure Classification\n\nA \"temporary structure\" is defined as a structure with a maintenance period of **no more than 15 years** at the same location, making your 3-year plan compliant with this definition.\n\n• **General Rules:** The rules of **Chapter 3 (Existing Structures)** generally apply to the construction of a temporary structure, unless otherwise specified in Sections 4.2 to 4.7 (New Constructions),. The underlying assumption for structural and health requirements is that satisfying the rules for existing structures (Sections 3.2 to 3.7) is sufficient.\n\n• **Specific Requirements (Chapter 4):** Key rules from Chapter 4 that specifically apply to temporary structures include provisions related to:\n\n    ◦ **Escape Routes and Fire Assistance:** Articles 4.65 to 4.71 (course of escape routes) and Articles 4.84 and 4.85 (fire brigade lift/aid post) apply.\n\n    ◦ **Ventilation and Flue Gas:** The requirements for ventilation/flushing facility capacity (Articles 4.131 and 4.132) and rules regarding flue gas discharge/combustion air supply (Articles 4.135 to 4.141) apply.\n\n    ◦ **Sustainability (Thermal):** Articles 4.152 (thermal resistance), 4.153 (heat transfer coefficient), and 4.154 (air volume flow) apply, generally setting the minimum requirements at values specified in Table 4.148B,.\n\nB. Relocation Regulations\n\nThe relocation of a temporary structure is considered the displacement of an existing structure,.\n\n• **Rules for Displacement:** When relocating an existing structure in an **unchanged composition**, the structure must comply with the rules of **Chapter 3 (Existing Structures)**,. For a temporary structure, this rule remains applicable after relocation,.",
+			"styleAttributes":{
+				"shape":null,
+				"border":"dashed",
+				"textAlign":null
+			},
+			"x":-2600,
+			"y":-980,
+			"width":783,
+			"height":920,
+			"color":"6"
+		},
+		{
+			"id":"a46aa6c3804c0154",
+			"type":"text",
+			"text":"2. Structural and Geotechnical Requirements\n\nThe structure's design must comply with the general design principles found in the Eurocodes, which inform the Bbl regulations.\n\nA. Structural Safety and Load Combinations\n\nAll structures must be designed to withstand all forces during use and execution, and to prevent **progressive collapse** (disproportionate damage in the event of an accident),,.\n\n• **Verification Basis:** Verification of the ultimate limit state (ULS) is based on **Eurocode (EN 1990)**,,,,.\n\n• **Load Combinations:** Structural non-failure verification involves using **fundamental load combinations** (normal use conditions),, and **exceptional load combinations** (e.g., resulting from fire, impact, or explosion),,.\n\nB. Optimal Foundations (Geotechnical Requirements)\n\nWhile the sources do not specify the single \"optimal\" foundation type (which depends on local soil conditions and logistics), they mandate the methodology for selecting suitable foundations and verifying their performance.\n\n• **Geotechnical Design:** Design must account for geotechnical aspects (soil, rock, groundwater) in accordance with **Eurocode 7 (EN 1997)**,. Geotechnical investigations are required to establish the ground profile and strength/deformation properties.\n\n• **Investigation Depth:** The investigation depth must extend to all strata that will affect the project. For piles, this depth is typically down to a level **below the lowest point of the pile base**,.\n\n• **Bearing Resistance and Settlement:** The bearing resistance and settlement of spread foundations may be derived using:\n\n    ◦ **Semi-empirical or analytical methods** from Cone Penetration Test (CPT) results.\n\n    ◦ **Standard Penetration Test (SPT)** or **Dynamic Probing (DP)** results in coarse soil, provided local experience or reliable correlations are used,",
+			"styleAttributes":{"border":"dashed"},
+			"x":-1740,
+			"y":-980,
+			"width":783,
+			"height":920,
+			"color":"6"
 		}
 	],
 	"edges":[
@@ -268,10 +268,11 @@
 			"id":"0686b228ffd7b243",
 			"styleAttributes":{},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"08e9bae3e2d456a7",
 			"fromSide":"bottom",
 			"toNode":"514dc48d63e46c40",
-			"toSide":"top"
+			"toSide":"left"
 		},
 		{
 			"id":"64a612a25eef19ff",
@@ -323,8 +324,9 @@
 		},
 		{
 			"id":"f70c88d35a5cba98",
-			"styleAttributes":{},
+			"styleAttributes":{"pathfindingMethod":"square"},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"08e9bae3e2d456a7",
 			"fromSide":"bottom",
 			"toNode":"d5dbce099680efa2",
