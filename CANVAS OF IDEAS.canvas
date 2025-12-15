@@ -212,10 +212,12 @@
 			"y":1900,
 			"width":320,
 			"height":60
-		}
+		},
+		{"id":"5d394b60821dfe4f","type":"file","file":"Research/Foundation/Ballast Supported Foundations.md","x":-2900,"y":2020,"width":480,"height":780},
+		{"id":"84cad1b31c97de60","type":"file","file":"MEDIA/IMAGES/IMG-15-12-2025-120418416.png","x":-2380,"y":2020,"width":400,"height":321}
 	],
 	"edges":[
-		{"id":"f1153a809622ee9e","fromNode":"0a18e5d7148299a3","fromSide":"bottom","toNode":"67ebb59448249d05","toSide":"top"},
+		{"id":"f1153a809622ee9e","toFloating":false,"fromNode":"0a18e5d7148299a3","fromSide":"bottom","toNode":"67ebb59448249d05","toSide":"top"},
 		{"id":"5b1b579668b23886","fromNode":"0a18e5d7148299a3","fromSide":"bottom","toNode":"e4c9ac81a72e0601","toSide":"top"},
 		{"id":"57415a0b2f7573af","fromNode":"0a18e5d7148299a3","fromSide":"bottom","toNode":"d81450e0fa52803f","toSide":"top"},
 		{"id":"a23c10e23bc4ad3e","fromNode":"67ebb59448249d05","fromSide":"bottom","toNode":"1bcdf2ae779c307b","toSide":"top"},
@@ -335,6 +337,15 @@
 			"fromNode":"08e9bae3e2d456a7",
 			"fromSide":"bottom",
 			"toNode":"6d4480ec957eed46",
+			"toSide":"top"
+		},
+		{
+			"id":"a5f77dcf9525a956",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"6d4480ec957eed46",
+			"fromSide":"bottom",
+			"toNode":"5d394b60821dfe4f",
 			"toSide":"top"
 		}
 	],

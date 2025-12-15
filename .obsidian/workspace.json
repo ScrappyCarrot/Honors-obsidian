@@ -11,14 +11,17 @@
             "id": "daf5698f6421be0f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Research/Foundation/Ballast Supported Foundations.md",
-                "mode": "source",
-                "source": false
+                "file": "CANVAS OF IDEAS.canvas",
+                "viewState": {
+                  "x": -2503.9047729051154,
+                  "y": 2077.8174404088927,
+                  "zoom": -0.18351135413136865
+                }
               },
-              "icon": "lucide-file",
-              "title": "Ballast Supported Foundations"
+              "icon": "lucide-layout-dashboard",
+              "title": "CANVAS OF IDEAS"
             }
           }
         ]
@@ -200,11 +203,12 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "daf5698f6421be0f",
+  "active": "c89686570795ced7",
   "lastOpenFiles": [
+    "Research/Foundation/Ballast Supported Foundations.md",
+    "MEDIA/IMAGES/IMG-15-12-2025-120418416.png",
     "CANVAS OF IDEAS.canvas",
     "MEDIA/PDF/Determination of Safe Ballasts for Anchoring Event Tents by Finit.pdf",
-    "Research/Foundation/Ballast Supported Foundations.md",
     "Research/Foundation/Helical anchors foundation.md",
     "MEDIA/IMAGES/Pasted image 20251214023744.png",
     "MEDIA/IMAGES/IMG-14-12-2025-190038402.png",
@@ -221,7 +225,6 @@
     "MEDIA/IMAGES/IMG-14-12-2025-190038353.png",
     "MEDIA/IMAGES/IMG-14-12-2025-001219736.png",
     "MEDIA/IMAGES/IMAGES.base",
-    "Canvas export/media/images/pasted-image-20251214215500.png",
     "Canvas export/site-lib/styles/theme.css",
     "MEDIA/PDF/PDF.base",
     "MEDIA/PDF/HAI-Engineering-Manual-min.pdf",
