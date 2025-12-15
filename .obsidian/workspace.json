@@ -11,17 +11,13 @@
             "id": "daf5698f6421be0f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "bases",
               "state": {
-                "file": "CANVAS OF IDEAS.canvas",
-                "viewState": {
-                  "x": -1805.0881199301764,
-                  "y": 1638.5094177675016,
-                  "zoom": -0.5214513986980449
-                }
+                "file": "MEDIA/PDF/PDF.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "CANVAS OF IDEAS"
+              "icon": "lucide-table",
+              "title": "PDF"
             }
           }
         ]
@@ -205,8 +201,9 @@
   },
   "active": "daf5698f6421be0f",
   "lastOpenFiles": [
-    "MEDIA/IMAGES/Gemini_Generated_Image_hbccjnhbccjnhbcc.png",
     "CANVAS OF IDEAS.canvas",
+    "MEDIA/PDF/comparative essay final.pdf",
+    "MEDIA/IMAGES/Gemini_Generated_Image_hbccjnhbccjnhbcc.png",
     "MEDIA/IMAGES/Pasted image 20251214023739.png",
     "Research/Foundation/Foundation.md",
     "Research/Foundation/Helical anchors foundation.md",
@@ -231,7 +228,6 @@
     "Canvas export/media/images/img-15-12-2025-120548680.png",
     "Canvas export/media/images/img-15-12-2025-120418416.png",
     "MEDIA/IMAGES/IMG-15-12-2025-120629098.png",
-    "MEDIA/PDF/Determination of Safe Ballasts for Anchoring Event Tents by Finit.pdf",
     "Research/Foundation/_TOC_.md",
     "Untitled/Untitled.md",
     "Untitled.md",
