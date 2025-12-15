@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/Foundation/Balast.md",
+                "file": "Research/Foundation/Ballast Supported Foundations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Balast"
+              "title": "Ballast Supported Foundations"
             }
           }
         ]
@@ -202,10 +202,10 @@
   },
   "active": "daf5698f6421be0f",
   "lastOpenFiles": [
-    "Research/Foundation/Foundation.md",
-    "Research/Foundation/Balast.md",
-    "Research/Foundation/_TOC_.md",
     "Research/Foundation/Helical anchors foundation.md",
+    "Research/Foundation/Ballast Supported Foundations.md",
+    "Research/Foundation/Foundation.md",
+    "Research/Foundation/_TOC_.md",
     "Research/Gem-Stage tower (floor).md",
     "MEDIA/IMAGES/Pasted image 20251214215500.png",
     "MEDIA/IMAGES/Pasted image 20251214214706.png",
