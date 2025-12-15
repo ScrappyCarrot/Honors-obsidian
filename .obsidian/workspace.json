@@ -11,14 +11,12 @@
             "id": "daf5698f6421be0f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "MEDIA/Site Clippings/Ballasted Foundations - No Concrete Required.md",
-                "mode": "source",
-                "source": false
+                "file": "MEDIA/IMAGES/Pasted image 20251214023744.png"
               },
-              "icon": "lucide-file",
-              "title": "Ballasted Foundations - No Concrete Required"
+              "icon": "lucide-image",
+              "title": "Pasted image 20251214023744"
             }
           }
         ]
@@ -202,8 +200,14 @@
   },
   "active": "daf5698f6421be0f",
   "lastOpenFiles": [
-    "Research/Foundation/Ballast Supported Foundations.md",
+    "MEDIA/IMAGES/IMG-14-12-2025-190038402.png",
+    "MEDIA/IMAGES/Pasted image 20251214215500.png",
+    "MEDIA/IMAGES/Pasted image 20251214213326.png",
+    "MEDIA/IMAGES/Pasted image 20251214190742.png",
+    "MEDIA/IMAGES/Pasted image 20251214214706.png",
+    "MEDIA/PDF/Determination of Safe Ballasts for Anchoring Event Tents by Finit.pdf",
     "MEDIA/Site Clippings/Ballasted Foundations - No Concrete Required.md",
+    "Research/Foundation/Ballast Supported Foundations.md",
     "MEDIA/Site Clippings",
     "MEDIA/IMAGES/IMG-15-12-2025-105551697.png",
     "Research/Foundation/Helical anchors foundation.md",
@@ -211,17 +215,13 @@
     "CANVAS OF IDEAS.canvas",
     "Research/Foundation/Foundation.md",
     "Research/Foundation/_TOC_.md",
-    "MEDIA/IMAGES/Pasted image 20251214215500.png",
-    "MEDIA/IMAGES/Pasted image 20251214214706.png",
     "MEDIA/IMAGES/IMG-14-12-2025-190038353.png",
     "MEDIA/IMAGES/IMG-14-12-2025-001219736.png",
     "MEDIA/IMAGES/IMAGES.base",
-    "MEDIA/IMAGES/Pasted image 20251214213326.png",
     "Canvas export/media/images/pasted-image-20251214215500.png",
     "Canvas export/media/images/pasted-image-20251214213326.png",
     "Canvas export/site-lib/styles/theme.css",
     "Canvas export/media/images/pasted-image-20251214214706.png",
-    "Canvas export/media/images/pasted-image-20251214190742.png",
     "MEDIA/PDF/PDF.base",
     "MEDIA/PDF/HAI-Engineering-Manual-min.pdf",
     "MEDIA/PDF/GEM-STAGE-Factsheet-2021.pdf",
@@ -231,7 +231,6 @@
     "Untitled/Untitled.md",
     "Untitled.md",
     "MEDIA/IMAGES/IMAGES.md",
-    "Visual Notess.base",
     "Don't Think Outside.md",
     "MEDIA/IMAGES/IMAGES.canvas",
     "Research/Foundation/Modula temporar.md",
@@ -249,7 +248,6 @@
     "Notion/2c74d57434b881b592e20042c6fd9b7f/Make complex site.md",
     "Notion/2c74d57434b881b592e20042c6fd9b7f/Secondary sctructures (materials for people moving in+ wildlife shelter).md",
     "Notion/2c74d57434b881b592e20042c6fd9b7f/Elevated walkway-Pavilion.md",
-    "Notion/2c74d57434b881b592e20042c6fd9b7f/What kind of wildlife we will attract.md",
     "Canvas export/CANVAS OF IDEAS.canvas",
     "Untitled.canvas"
   ]
