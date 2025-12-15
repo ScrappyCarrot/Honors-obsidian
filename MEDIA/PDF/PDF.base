@@ -11,6 +11,9 @@ views:
       - formula.Untitled
       - file.ext
       - file.name
+    sort:
+      - property: file.ctime
+        direction: DESC
     cardSize: 280
     imageAspectRatio: 1.05
     imageFit: contain
