@@ -11,17 +11,16 @@
             "id": "daf5698f6421be0f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "pdf",
               "state": {
-                "file": "CANVAS OF IDEAS.canvas",
-                "viewState": {
-                  "x": 30.826914971411384,
-                  "y": -1068.578212233216,
-                  "zoom": 1
-                }
+                "file": "MEDIA/EUROCODE/EUCODE-7-Geotechnical.pdf",
+                "page": 51,
+                "left": -9,
+                "top": 735,
+                "zoom": 1.8579831932773112
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "CANVAS OF IDEAS"
+              "icon": "lucide-file-text",
+              "title": "EUCODE-7-Geotechnical"
             }
           }
         ]
@@ -205,16 +204,20 @@
   },
   "active": "daf5698f6421be0f",
   "lastOpenFiles": [
+    "MEDIA/EUROCODE/EUCODE-3-Steel.pdf",
+    "MEDIA/EUROCODE/EUCODE-1-Loads.pdf",
+    "MEDIA/EUROCODE/EUCODE-4-Composite.pdf",
+    "MEDIA/IMAGES/Pasted image 20251214213326.png",
+    "MEDIA/IMAGES/IMAGES.base",
+    "Research/Gem-Stage tower (floor).md",
     "Research/Foundation/Helical anchors foundation.md",
     "CANVAS OF IDEAS.canvas",
-    "Research/Gem-Stage tower (floor).md",
     "Research/Foundation/Ballast Supported Foundations.md",
     "Research/Foundation/Foundation.md",
     "MEDIA/PDF/PDF.base",
     "MEDIA/PDF/comparative essay final.pdf",
     "MEDIA/IMAGES/Gemini_Generated_Image_hbccjnhbccjnhbcc.png",
     "MEDIA/IMAGES/Pasted image 20251214023739.png",
-    "MEDIA/IMAGES/IMAGES.base",
     "MEDIA/IMAGES/IMG-14-12-2025-001219736.png",
     "MEDIA/IMAGES/Pasted image 20251214023717.png",
     "MEDIA/PDF/nko-mmk-bijlage-4 - -ontwerpverantwoording-korte-lijst-oplossingsricht - -10-dec-2024+(1)_EN.pdf",
@@ -222,16 +225,13 @@
     "MEDIA/Site Clippings/Ballasted Foundations - No Concrete Required.md",
     "MEDIA/EUROCODE/EUCODE-7-Geotechnical.pdf",
     "MEDIA/EUROCODE/EUCODE-5-Timber.pdf",
-    "MEDIA/EUROCODE/EUCODE-3-Steel.pdf",
     "MEDIA/PDF/Circulaire_Gebiedsontwikkeling_Internationale_Knoop_XL_27052019_compressed_EN.pdf",
     "MEDIA/PDF/Temporary Structures in Construction, Third Edition (Robert Ratay) (Z-Library).pdf",
-    "MEDIA/PDF/Temporary Demountable Structures (Institution of Structural Engineers) (Z-Library).pdf",
     "MEDIA/IMAGES/Pasted image 20251214214706.png",
     "MEDIA/IMAGES/IMG-14-12-2025-190038402.png",
     "Canvas export/media/images/img-15-12-2025-120629098.png",
     "Canvas export/media/images/img-15-12-2025-120548680.png",
     "Canvas export/media/images/img-15-12-2025-120418416.png",
-    "MEDIA/IMAGES/IMG-15-12-2025-120629098.png",
     "Research/Foundation/_TOC_.md",
     "Untitled/Untitled.md",
     "Untitled.md",
