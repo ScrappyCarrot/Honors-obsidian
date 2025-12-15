@@ -98,17 +98,6 @@
 			"color":"2"
 		},
 		{
-			"id":"d1d64a71a2499869",
-			"type":"text",
-			"text":"- Rules for temporary structures are less strict as we can use the existing building protocols instead of the new construction ones\n- Foundations should be made with precast concrete slabs instead of pouring piles (See Floor project)\n- Load combinations along with 3D wind patterns have to be considered. ( less of an issue if we go for the small wildlife variant as the structures are much smaller)\n- Dynamics of users have to be taken into account> steel doesn't dampen vibrations well and it can cause resonance which weakens the structure",
-			"styleAttributes":{},
-			"x":-2460,
-			"y":260,
-			"width":417,
-			"height":440,
-			"color":"4"
-		},
-		{
 			"id":"69fa834f18281f92",
 			"type":"text",
 			"text":"# REGULATIONS",
@@ -139,18 +128,8 @@
 			"width":260,
 			"height":60
 		},
-		{
-			"id":"973af364e6f2f12e",
-			"type":"text",
-			"text":"![[MEDIA/PDF/HAI-Engineering-Manual-min.pdf#page=10&rect=88,314,307,725]]",
-			"styleAttributes":{},
-			"x":-1070,
-			"y":1536,
-			"width":240,
-			"height":380
-		},
 		{"id":"e8b5c95629f57b61","type":"file","file":"Research/Foundation/Helical anchors foundation.md","subpath":"#**Conclusions **","x":-1450,"y":1696,"width":320,"height":220},
-		{"id":"53366ec4b447d535","type":"file","file":"Research/Foundation/Helical anchors foundation.md","subpath":"#**Advantages **","x":-1857,"y":1696,"width":380,"height":320},
+		{"id":"53366ec4b447d535","type":"file","file":"Research/Foundation/Helical anchors foundation.md","subpath":"#**Advantages **","x":-1857,"y":1696,"width":377,"height":344},
 		{"id":"12c06e41bf809658","type":"file","file":"MEDIA/IMAGES/Pasted image 20251214190742.png","x":-1450,"y":1956,"width":400,"height":225},
 		{"id":"d5dbce099680efa2","type":"file","file":"Research/Gem-Stage tower (floor).md","x":-3836,"y":449,"width":400,"height":400},
 		{"id":"8e4778eba9da87f3","type":"file","file":"MEDIA/IMAGES/Pasted image 20251214213326.png","x":-4143,"y":471,"width":267,"height":356},
@@ -236,7 +215,28 @@
 		{"id":"760916fcfdd801e2","type":"file","file":"MEDIA/IMAGES/IMG-15-12-2025-120548680.png","x":-2723,"y":2250,"width":400,"height":396},
 		{"id":"84cad1b31c97de60","type":"file","file":"MEDIA/IMAGES/IMG-15-12-2025-120418416.png","x":-2723,"y":1866,"width":399,"height":321},
 		{"id":"2bb13b50fd23feb1","type":"file","file":"MEDIA/IMAGES/Pasted image 20251214215500.png","x":-430,"y":-1840,"width":780,"height":520},
-		{"id":"8fa2bd2732d12090","type":"file","file":"Gemini_Generated_Image_hbccjnhbccjnhbcc.png","x":-430,"y":-1280,"width":780,"height":582}
+		{"id":"8fa2bd2732d12090","type":"file","file":"MEDIA/IMAGES/Gemini_Generated_Image_hbccjnhbccjnhbcc.png","x":-430,"y":-1280,"width":779,"height":582},
+		{
+			"id":"d1d64a71a2499869",
+			"type":"text",
+			"text":"- Rules for temporary structures are less strict as we can use the existing building protocols instead of the new construction ones\n- Foundations should be made with precast concrete slabs instead of pouring piles (See Floor project)\n- Load combinations along with 3D wind patterns have to be considered. ( less of an issue if we go for the small wildlife variant as the structures are much smaller)\n- Dynamics of users have to be taken into account> steel doesn't dampen vibrations well and it can cause resonance which weakens the structure",
+			"styleAttributes":{},
+			"x":-2500,
+			"y":220,
+			"width":417,
+			"height":440,
+			"color":"4"
+		},
+		{
+			"id":"973af364e6f2f12e",
+			"type":"text",
+			"text":"![[MEDIA/PDF/HAI-Engineering-Manual-min.pdf#page=10&rect=88,314,307,725]]",
+			"styleAttributes":{},
+			"x":-1080,
+			"y":1536,
+			"width":240,
+			"height":380
+		}
 	],
 	"edges":[
 		{"id":"f1153a809622ee9e","toFloating":false,"fromNode":"0a18e5d7148299a3","fromSide":"bottom","toNode":"67ebb59448249d05","toSide":"top"},
@@ -259,6 +259,7 @@
 			"id":"80af8a6e78462526",
 			"styleAttributes":{},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"fa618c0673ac65cb",
 			"fromSide":"bottom",
 			"toNode":"08e9bae3e2d456a7",

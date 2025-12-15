@@ -11,12 +11,17 @@
             "id": "daf5698f6421be0f",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "canvas",
               "state": {
-                "file": "MEDIA/IMAGES/Pasted image 20251214023739.png"
+                "file": "CANVAS OF IDEAS.canvas",
+                "viewState": {
+                  "x": -1280.4158952437576,
+                  "y": 1746.812008092242,
+                  "zoom": -0.014300932465363125
+                }
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251214023739"
+              "icon": "lucide-layout-dashboard",
+              "title": "CANVAS OF IDEAS"
             }
           }
         ]
@@ -200,14 +205,14 @@
   },
   "active": "daf5698f6421be0f",
   "lastOpenFiles": [
+    "MEDIA/IMAGES/Gemini_Generated_Image_hbccjnhbccjnhbcc.png",
+    "CANVAS OF IDEAS.canvas",
+    "MEDIA/IMAGES/Pasted image 20251214023739.png",
     "Research/Foundation/Foundation.md",
     "Research/Foundation/Helical anchors foundation.md",
     "Research/Foundation/Ballast Supported Foundations.md",
     "Research/Gem-Stage tower (floor).md",
-    "MEDIA/IMAGES/Pasted image 20251214023739.png",
     "MEDIA/IMAGES/IMAGES.base",
-    "CANVAS OF IDEAS.canvas",
-    "Gemini_Generated_Image_hbccjnhbccjnhbcc.png",
     "MEDIA/IMAGES/IMG-14-12-2025-001219736.png",
     "MEDIA/IMAGES/Pasted image 20251214023717.png",
     "MEDIA/PDF/nko-mmk-bijlage-4 - -ontwerpverantwoording-korte-lijst-oplossingsricht - -10-dec-2024+(1)_EN.pdf",
