@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": "#ffffff",
     "recentlyUsedIcons": [
+      "IbWebsiteWithImage",
       "CoBook",
       "CoLinkHorizontal",
       "LiDiamondPercent",
-      "LiAlbum",
-      "LiAperture"
+      "LiAlbum"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -50,5 +50,9 @@
   "Research": {
     "iconName": "CoBook",
     "iconColor": "#ff5900"
+  },
+  "MEDIA/Site Clippings": {
+    "iconName": "IbWebsiteWithImage",
+    "iconColor": "#42ff45"
   }
 }
