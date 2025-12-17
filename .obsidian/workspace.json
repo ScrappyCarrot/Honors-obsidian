@@ -26,12 +26,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/Gem-Stage tower (floor).md",
+                "file": "Test PC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gem-Stage tower (floor)"
+              "title": "Test PC"
             }
           }
         ],
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/Gem-Stage tower (floor).md",
+                "file": "Test PC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Gem-Stage tower (floor)"
+              "title": "Backlinks for Test PC"
             }
           },
           {
@@ -169,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/Gem-Stage tower (floor).md",
+                "file": "Test PC.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Gem-Stage tower (floor)"
+              "title": "Outline of Test PC"
             }
           },
           {
@@ -218,11 +218,11 @@
   },
   "active": "79d44c120122002c",
   "lastOpenFiles": [
+    "Research/Gem-Stage tower (floor).md",
+    "Test PC.md",
     "CANVAS OF IDEAS.canvas",
     "Research/Foundation/Ballast Supported Foundations.md",
-    "Untitled.md",
     "MEDIA/IMAGES/IMAGES.base",
-    "Research/Gem-Stage tower (floor).md",
     "Research/Foundation/Helical anchors foundation.md",
     "Notion/Meet 12dec.md",
     "Personal meeting notes/15-12-25 Presentation GMM.md",
