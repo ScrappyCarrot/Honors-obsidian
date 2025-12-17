@@ -11,17 +11,35 @@
             "id": "7fba5d3f1c54582a",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "CANVAS OF IDEAS.canvas",
+                "viewState": {
+                  "x": -2656.5975830825314,
+                  "y": 664.0582787135643,
+                  "zoom": -2.272870102712326
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "CANVAS OF IDEAS"
+            }
+          },
+          {
+            "id": "b39fe0599f34fbc4",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Test PC.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Test PC"
+              "title": "Untitled"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +130,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Test PC.md",
+            "file": "Untitled.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -131,7 +149,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Test PC.md",
+            "file": "Untitled.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -145,7 +163,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Test PC.md",
+            "file": "Untitled.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -186,9 +204,11 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "7fba5d3f1c54582a",
+  "active": "b39fe0599f34fbc4",
   "lastOpenFiles": [
+    "Untitled.md",
     "CANVAS OF IDEAS.canvas",
+    "Untitled",
     "Test PC.md",
     "/Test PC.md",
     "Test note.md",
