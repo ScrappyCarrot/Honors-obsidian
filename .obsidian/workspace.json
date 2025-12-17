@@ -34,7 +34,8 @@
               "title": "Ballast Supported Foundations"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -213,8 +214,9 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "daf5698f6421be0f",
+  "active": "79d44c120122002c",
   "lastOpenFiles": [
+    "MEDIA/IMAGES/IMAGES.base",
     "CANVAS OF IDEAS.canvas",
     "Research/Foundation/Ballast Supported Foundations.md",
     "Research/Gem-Stage tower (floor).md",
@@ -229,7 +231,6 @@
     "MEDIA/EUROCODE/EUCODE-1-Loads.pdf",
     "MEDIA/EUROCODE/EUCODE-4-Composite.pdf",
     "MEDIA/IMAGES/Pasted image 20251214213326.png",
-    "MEDIA/IMAGES/IMAGES.base",
     "Research/Foundation/Foundation.md",
     "MEDIA/PDF/PDF.base",
     "MEDIA/PDF/comparative essay final.pdf",
