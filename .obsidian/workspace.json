@@ -11,13 +11,14 @@
             "id": "daf5698f6421be0f",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "MEDIA/IMAGES/IMAGES.base",
-                "viewName": "Table"
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-grid",
-              "title": "IMAGES"
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ]
@@ -200,10 +201,12 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "c89686570795ced7",
+  "active": "daf5698f6421be0f",
   "lastOpenFiles": [
-    "Test 2 phone.md",
     "test 2 PC.md",
+    "Untitled.md",
+    "Untitled",
+    "Test 2 phone.md",
     "Test note.md",
     "conflict-files-obsidian-git.md",
     "Test PC.md",
@@ -230,7 +233,6 @@
     "MEDIA/IMAGES/Pasted image 20251214023739.png",
     "MEDIA/IMAGES/IMG-14-12-2025-001219736.png",
     "MEDIA/IMAGES/Pasted image 20251214023717.png",
-    "MEDIA/PDF/nko-mmk-bijlage-4 - -ontwerpverantwoording-korte-lijst-oplossingsricht - -10-dec-2024+(1)_EN.pdf",
     "MEDIA/IMAGES/Pasted image 20251214214706.png",
     "MEDIA/IMAGES/IMG-14-12-2025-190038402.png",
     "Canvas export/media/images/img-15-12-2025-120629098.png",
@@ -249,7 +251,6 @@
     "Notion/Export-5f56dad0-627c-4c59-9b8e-e10e101eba41/Private & Shared/People/Aylin I.md",
     "Notion/2c74d57434b881b592e20042c6fd9b7f/Build a bridge w- secondary function.md",
     "Notion/2c74d57434b881b592e20042c6fd9b7f/Evacuation of bats-birds etc.md",
-    "Notion/2c74d57434b881b592e20042c6fd9b7f/Elevated expressway.md",
     "Canvas export/CANVAS OF IDEAS.canvas",
     "Untitled.canvas"
   ]
