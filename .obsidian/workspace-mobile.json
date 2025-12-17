@@ -11,23 +11,6 @@
             "id": "7fba5d3f1c54582a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "CANVAS OF IDEAS.canvas",
-                "viewState": {
-                  "x": -2656.5975830825314,
-                  "y": 664.0582787135643,
-                  "zoom": -2.272870102712326
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "CANVAS OF IDEAS"
-            }
-          },
-          {
-            "id": "b39fe0599f34fbc4",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "PHONE TEST.md",
@@ -38,8 +21,7 @@
               "title": "PHONE TEST"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -204,14 +186,14 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "b39fe0599f34fbc4",
+  "active": "7fba5d3f1c54582a",
   "lastOpenFiles": [
-    "PHONE TEST.md",
     "CANVAS OF IDEAS.canvas",
+    "Test note.md",
+    "PHONE TEST.md",
     "Untitled",
     "Test PC.md",
     "/Test PC.md",
-    "Test note.md",
     "/Test note.md"
   ]
 }
