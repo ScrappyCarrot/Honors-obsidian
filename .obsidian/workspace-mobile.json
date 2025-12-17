@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ee8ffa1dacf1e867",
+        "id": "b135faf5cadd5d4c",
         "type": "tabs",
         "children": [
           {
-            "id": "cec78da787380e5a",
+            "id": "7fba5d3f1c54582a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -165,7 +165,7 @@
         }
       }
     ],
-    "currentTab": 2
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,9 +186,9 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "8043c3a2b3a60798",
+  "active": "7fba5d3f1c54582a",
   "lastOpenFiles": [
-    "/Test note.md",
-    "Test note.md"
+    "Test note.md",
+    "/Test note.md"
   ]
 }
