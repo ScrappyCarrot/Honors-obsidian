@@ -153,9 +153,19 @@
           "icon": "lucide-list",
           "title": "Outline"
         }
+      },
+      {
+        "id": "8043c3a2b3a60798",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 2
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,8 +186,9 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "cec78da787380e5a",
+  "active": "8043c3a2b3a60798",
   "lastOpenFiles": [
+    "/Test note.md",
     "Test note.md"
   ]
 }
