@@ -11,16 +11,14 @@
             "id": "fb98d5da74abb2ac",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Notion/Other people material/comparative essay final/comparative essay final.pdf",
-                "page": 1,
-                "left": -9,
-                "top": 842,
-                "zoom": 1.8569844789356984
+                "file": "Research/Second Ground architectural works/4. The High line.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "comparative essay final"
+              "icon": "lucide-file",
+              "title": "4. The High line"
             }
           }
         ]
@@ -206,21 +204,23 @@
   },
   "active": "fb98d5da74abb2ac",
   "lastOpenFiles": [
-    "Notion/Other people material/comparative essay final",
-    "Notion/Meet 12dec.md",
-    "Notion/Other people material/comparative essay final/comparative essay final.pdf",
-    "MEDIA/PDF/nko-mmk-bijlage-4 - -ontwerpverantwoording-korte-lijst-oplossingsricht - -10-dec-2024+(1)_EN.pdf",
+    "Research/Second Ground architectural works/Second Ground architectural works.md",
+    "Research/Gem-Stage tower (floor).md",
     "Research/Research math papers (Black Maria)/Research math papers (Black Maria).md",
+    "Research ideas.md",
+    "Notion/Other people material/Comparrative essay.md",
+    "MEDIA/PDF/IMG-18-12-2025-235631148.pdf",
+    "Notion/Meet 12dec.md",
+    "Notion/Other people material/comparative essay final/comparative essay final.md",
+    "Notion/Other people material/comparative essay final/comparative essay final.pdf",
+    "Notion/Other people material/comparative essay final",
+    "MEDIA/PDF/nko-mmk-bijlage-4 - -ontwerpverantwoording-korte-lijst-oplossingsricht - -10-dec-2024+(1)_EN.pdf",
     "MEDIA/PDF/besluit-bouwwerken-leefomgeving-tekst-bij-inwerkingtreding-1 (1).pdf",
     "MEDIA/PDF/Books/Temporary Demountable Structures (Institution of Structural Engineers) (Z-Library).pdf",
     "MEDIA/PDF/Books/Temporary Structures in Construction, Third Edition (Robert Ratay) (Z-Library).pdf",
     "MEDIA/PDF/Circulaire_Gebiedsontwikkeling_Internationale_Knoop_XL_27052019_compressed_EN.pdf",
     "MEDIA/PDF/Determination of Safe Ballasts for Anchoring Event Tents by Finit.pdf",
     "MEDIA/PDF/HAI-Engineering-Manual-min.pdf",
-    "Notion/Other people material",
-    "MEDIA/PDF/Books/Tactical urbanism short-term action for long-term change (Garcia, AnthonyLydon, Mike) (Z-Library).pdf",
-    "Research ideas.md",
-    "Research/Second Ground architectural works/Second Ground architectural works.md",
     "Math papers for Black Maria.md",
     "Research/Second Ground architectural works/4. The High line.md",
     "MEDIA/IMAGES/IMG-18-12-2025-231041332.png",
@@ -235,7 +235,6 @@
     "conflict-files-obsidian-git.md",
     "Test PC.md",
     "PHONE TEST.md",
-    "Research/Gem-Stage tower (floor).md",
     "Research/Foundation/Ballast Supported Foundations.md",
     "MEDIA/Site Clippings/Ballasted Foundations - No Concrete Required.md",
     "MEDIA/IMAGES/Pasted image 20251214213326.png",
@@ -251,9 +250,7 @@
     "Research/Foundation/_TOC_.md",
     "Untitled/Untitled.md",
     "MEDIA/IMAGES/IMAGES.md",
-    "Don't Think Outside.md",
     "MEDIA/IMAGES/IMAGES.canvas",
-    "Research/Foundation/Modula temporar.md",
     "Canvas export/CANVAS OF IDEAS.canvas",
     "Untitled.canvas"
   ]
