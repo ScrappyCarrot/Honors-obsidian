@@ -25,5 +25,9 @@
   "oz-image-plugin",
   "obsidian-image-gallery",
   "dataview",
-  "obsidian-epub-plugin"
+  "obsidian-epub-plugin",
+  "obsidian-binary-file-manager-plugin",
+  "tag-wrangler",
+  "colored-tags",
+  "multi-tag"
 ]
