@@ -11,17 +11,14 @@
             "id": "7fba5d3f1c54582a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "CANVAS OF IDEAS.canvas",
-                "viewState": {
-                  "x": -1516.9573526729312,
-                  "y": -377.77304099874755,
-                  "zoom": -1.0555160553863183
-                }
+                "file": "Research ideas.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "CANVAS OF IDEAS"
+              "icon": "lucide-file",
+              "title": "Research ideas"
             }
           }
         ]
@@ -191,12 +188,18 @@
   },
   "active": "7fba5d3f1c54582a",
   "lastOpenFiles": [
+    "CANVAS OF IDEAS.canvas",
+    "Thoughts/Approach to make honors meaningfull.md",
+    "Research ideas.md",
+    "/Thoughts/Approach to make honors meaningfull.md",
+    "/Research ideas.md",
+    "Thoughts",
+    "/Thoughts",
     "Untitled.md",
     "/Untitled.md",
     "Test 2 phone.md",
     "test 2 PC.md",
     "/test 2 PC.md",
-    "CANVAS OF IDEAS.canvas",
     "PHONE TEST.md",
     "Untitled/Test note.md",
     "Untitled",
