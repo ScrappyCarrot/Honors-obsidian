@@ -1,0 +1,14 @@
+- [ ] Check with the KLIC-melding: this will show us where the cables/pipes and such are to know how we can position our structure (11EUR)
+- [ ] Pedestrian flow analysis (somehow get the data for this)
+- [ ] CROW 96b richtlijnen voor voetgangers- this is the bible of roadworks
+- [ ] Connecitons (parametric connections in grasshopper) 
+- [ ] Subsurface data+ geotechnical standards in Eurocode (understand the basics at least)
+- [ ] Look into permits and the A.P.V. scheme-Tijdelijk gebruik openbare ruimte Eindhoven(fee structures)
+- [ ] **CPTED (Crime Prevention Through Environmental Design)**
+- [ ] End-of-life for the structure
+- [ ] **Study:** **Kevin Lynch's "The Image of the City."** How do people navigate using "Landmarks, Paths, and Nodes"?
+- [ ] People's pavilion in Eindhoven- case study
+- [ ] Material passports (would be good to have something like this, thus we need to make an informed  assumption about the materials from the demolished buildings)
+- [ ] **Modular Scaffolding Systems:** Look at **Layher** or **Allround** scaffolding. These are the "Meccano" of the real world. Many architects (like _Assemble_ in the UK) use these industrial systems but "skin" them in beautiful materials to make them look like high-end architecture.
+- [ ] KCAP wants to make the station have a second ground. We can incorporate some elements that would hint to this as the future of the development
+- [ ] 

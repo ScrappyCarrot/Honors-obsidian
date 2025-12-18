@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": "#ffffff",
     "recentlyUsedIcons": [
+      "CoTag",
+      "✍",
+      "💭",
       "IbWebsiteWithImage",
-      "CoBook",
-      "CoLinkHorizontal",
-      "LiDiamondPercent",
-      "LiAlbum"
+      "CoBook"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -54,5 +54,11 @@
   "MEDIA/Site Clippings": {
     "iconName": "IbWebsiteWithImage",
     "iconColor": "#42ff45"
+  },
+  "Thoughts": "💭",
+  "Personal meeting notes": "✍",
+  "Research ideas.md": {
+    "iconName": "CoTag",
+    "iconColor": "#476cff"
   }
 }
