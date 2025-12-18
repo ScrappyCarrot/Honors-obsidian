@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "copilot/copilot-custom-prompts/Emojify.md",
+                "file": "Research/Second Ground architectural works/4. The High line.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Emojify"
+              "title": "4. The High line"
             }
           }
         ]
@@ -173,9 +173,19 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "6cb03073fe1f9467",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -205,19 +215,22 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "fb98d5da74abb2ac",
+  "active": "6cb03073fe1f9467",
   "lastOpenFiles": [
+    "copilot/copilot-conversations/Give_me_more_information_on_this_topic@20251219_000620.md",
+    "copilot/copilot-conversations/Give_me_more_resources_I_on_this_topic@20251219_000620.md",
+    "Research/Second Ground architectural works/4. The High line.md",
+    "copilot/copilot-conversations",
+    "copilot/copilot-custom-prompts/Emojify.md",
     "copilot/copilot-custom-prompts/Make shorter.md",
     "copilot/copilot-custom-prompts/Make longer.md",
     "copilot/copilot-custom-prompts/Translate to Chinese.md",
     "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
-    "Research/Second Ground architectural works/4. The High line.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet.md",
     "copilot/copilot-custom-prompts/Remove URLs.md",
     "copilot/copilot-custom-prompts/Generate glossary.md",
     "copilot/copilot-custom-prompts/Generate table of contents.md",
-    "copilot/copilot-custom-prompts/Emojify.md",
     "copilot/copilot-custom-prompts/Explain like I am 5.md",
     "copilot/copilot-custom-prompts/Simplify.md",
     "copilot/copilot-custom-prompts/Summarize.md",
@@ -237,13 +250,10 @@
     "MEDIA/PDF/besluit-bouwwerken-leefomgeving-tekst-bij-inwerkingtreding-1 (1).pdf",
     "MEDIA/PDF/Books/Temporary Demountable Structures (Institution of Structural Engineers) (Z-Library).pdf",
     "MEDIA/PDF/Books/Temporary Structures in Construction, Third Edition (Robert Ratay) (Z-Library).pdf",
-    "MEDIA/PDF/Circulaire_Gebiedsontwikkeling_Internationale_Knoop_XL_27052019_compressed_EN.pdf",
     "Math papers for Black Maria.md",
     "MEDIA/IMAGES/IMG-18-12-2025-231041332.png",
     "The high line.md",
     "Personal meeting notes/15-12-25 Presentation GMM.md",
-    "Research/Foundation/Helical anchors foundation.md",
-    "Thoughts/Approach to make honors meaningfull.md",
     "CANVAS OF IDEAS.canvas",
     "MEDIA/IMAGES/Pasted image 20251214213326.png",
     "MEDIA/IMAGES/Gemini_Generated_Image_hbccjnhbccjnhbcc.png",
