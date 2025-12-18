@@ -7,4 +7,4 @@ get in contact with the guy and get his presentation. Analyze all the documents 
 4. Check with all the regulations
 5. Make prototype
 6. Get in touch with municipality and try to implement
-7. Success???? (if this goes well a student team can be implemented to help the municipality long term and build off of our project)
+7. Success???? (if this goes well a student team can be created to help the municipality long term and build off of our project)
