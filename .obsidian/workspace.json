@@ -11,14 +11,10 @@
             "id": "fb98d5da74abb2ac",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Research/Second Ground architectural works/4. The High line.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "4. The High line"
+              "title": "New tab"
             }
           }
         ]
@@ -173,19 +169,9 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "6cb03073fe1f9467",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-chat-view",
-              "state": {},
-              "icon": "message-square",
-              "title": "Copilot"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -215,7 +201,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "6cb03073fe1f9467",
+  "active": "e3e1dc7f72473c9e",
   "lastOpenFiles": [
     "copilot/copilot-conversations/Give_me_more_information_on_this_topic@20251219_000620.md",
     "copilot/copilot-conversations/Give_me_more_resources_I_on_this_topic@20251219_000620.md",
