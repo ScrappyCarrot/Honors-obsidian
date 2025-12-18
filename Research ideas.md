@@ -11,4 +11,4 @@
 - [ ] Material passports (would be good to have something like this, thus we need to make an informed  assumption about the materials from the demolished buildings)
 - [ ] **Modular Scaffolding Systems:** Look at **Layher** or **Allround** scaffolding. These are the "Meccano" of the real world. Many architects (like _Assemble_ in the UK) use these industrial systems but "skin" them in beautiful materials to make them look like high-end architecture.
 - [ ] KCAP wants to make the station have a second ground. We can incorporate some elements that would hint to this as the future of the development
-- [ ] 
+- [ ] [[Research math papers (Black Maria)|Research math papers (Black Maria)]] to understand modularity principle
