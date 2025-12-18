@@ -60,5 +60,9 @@
   "Research ideas.md": {
     "iconName": "CoTag",
     "iconColor": "#476cff"
+  },
+  "MEDIA/PDF/Books": {
+    "iconName": "CoBook",
+    "iconColor": "#c76bbf"
   }
 }
