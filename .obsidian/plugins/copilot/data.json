@@ -12,7 +12,7 @@
   "azureOpenAIApiDeploymentName": "",
   "azureOpenAIApiVersion": "",
   "azureOpenAIApiEmbeddingDeploymentName": "",
-  "googleApiKey": "",
+  "googleApiKey": "AIzaSyCcPcvsksddIqd8PiZbjDrrkU0mt2Aq6CY",
   "openRouterAiApiKey": "",
   "xaiApiKey": "",
   "mistralApiKey": "",
@@ -187,8 +187,8 @@
       "enabled": true,
       "isBuiltIn": true,
       "capabilities": [
-        "vision",
-        "reasoning"
+        "reasoning",
+        "vision"
       ]
     },
     {
