@@ -11,10 +11,14 @@
             "id": "fb98d5da74abb2ac",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Research/Second Ground architectural works/Second Ground architectural works.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Second Ground architectural works"
             }
           }
         ]
@@ -201,11 +205,12 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "e3e1dc7f72473c9e",
+  "active": "fb98d5da74abb2ac",
   "lastOpenFiles": [
+    "Research/Second Ground architectural works/4. The High line.md",
+    "Research/Gem-Stage tower (floor).md",
     "copilot/copilot-conversations/Give_me_more_information_on_this_topic@20251219_000620.md",
     "copilot/copilot-conversations/Give_me_more_resources_I_on_this_topic@20251219_000620.md",
-    "Research/Second Ground architectural works/4. The High line.md",
     "copilot/copilot-conversations",
     "copilot/copilot-custom-prompts/Emojify.md",
     "copilot/copilot-custom-prompts/Make shorter.md",
@@ -224,7 +229,6 @@
     "copilot",
     "Research/Second Ground architectural works/Second Ground architectural works.md",
     "Research/Research math papers (Black Maria)/Research math papers (Black Maria).md",
-    "Research/Gem-Stage tower (floor).md",
     "Research ideas.md",
     "Notion/Other people material/Comparrative essay.md",
     "MEDIA/PDF/IMG-18-12-2025-235631148.pdf",
