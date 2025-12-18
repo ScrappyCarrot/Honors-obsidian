@@ -11,14 +11,13 @@
             "id": "daf5698f6421be0f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
+                "file": "MEDIA/IMAGES/IMAGES.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "Untitled"
+              "icon": "lucide-layout-grid",
+              "title": "IMAGES"
             }
           }
         ]
@@ -203,8 +202,8 @@
   },
   "active": "daf5698f6421be0f",
   "lastOpenFiles": [
-    "test 2 PC.md",
     "Untitled.md",
+    "test 2 PC.md",
     "Untitled",
     "Test 2 phone.md",
     "Test note.md",
