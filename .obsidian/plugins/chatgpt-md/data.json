@@ -18,7 +18,7 @@
   "dateFormat": "YYYYMMDDhhmmss",
   "headingLevel": 3,
   "inferTitleLanguage": "English",
-  "defaultChatFrontmatter": "---\nsystem_commands: ['You are a helpful assistant.']\nfrequency_penalty: 0\nmax_tokens: 400\nmodel: openai@gpt-4.1-mini\npresence_penalty: 0\nstream: true\ntemperature: 0.7\n---",
+  "defaultChatFrontmatter": "---\nsystem_commands: ['You are a helpful assistant.']\nfrequency_penalty: 0\nmax_tokens: 400\nmodel: ollama@llama3.2\npresence_penalty: 0\nstream: true\ntemperature: 0.7\n---",
   "openaiDefaultModel": "openai@gpt-4.1-mini",
   "openaiDefaultTemperature": 0.7,
   "openaiDefaultTopP": 1,
