@@ -25,13 +25,15 @@
             "id": "c67134ba1600fbd1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/History of Urbanism and Architecture Book 1.md",
-                "mode": "source",
-                "source": false
+                "file": "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/History of Urbanism and Architecture Book 1.pdf",
+                "page": 3,
+                "left": -10,
+                "top": 492,
+                "zoom": 1.4649617889972408
               },
-              "icon": "lucide-file",
+              "icon": "lucide-file-text",
               "title": "History of Urbanism and Architecture Book 1"
             }
           }
