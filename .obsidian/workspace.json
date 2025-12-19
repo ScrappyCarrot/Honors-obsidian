@@ -25,13 +25,14 @@
             "id": "c67134ba1600fbd1",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/assets.base",
-                "viewName": "Table"
+                "file": "Research/Second Ground architectural works/4. The High line.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-grid",
-              "title": "assets"
+              "icon": "lucide-file",
+              "title": "4. The High line"
             }
           }
         ],
@@ -169,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/assets.base",
+                "file": "Research/Second Ground architectural works/4. The High line.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of assets"
+              "title": "Outline of 4. The High line"
             }
           },
           {
@@ -221,9 +222,15 @@
   },
   "active": "c67134ba1600fbd1",
   "lastOpenFiles": [
-    "MEDIA/IMAGES/IMAGES.base",
-    "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/assets.base",
+    "MEDIA/PDF/Books/Temporary Structures in Construction, Third Edition (Robert Ratay) (Z-Library).pdf",
+    "MEDIA/PDF/Books/Temporary and Tactical Urbanism (Re)Assembling Urban Space (Quentin Stevens, Kim Dovey) (Z-Library).pdf",
+    "MEDIA/PDF/Books/Temporary Demountable Structures (Institution of Structural Engineers) (Z-Library).pdf",
+    "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/History of Urbanism and Architecture Book 1.md",
+    "Untitled.md",
     "Untitled 1.md",
+    "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/History of Urbanism and Architecture Book 1.pdf",
+    "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/assets.base",
+    "MEDIA/IMAGES/IMAGES.base",
     "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-100.jpeg",
     "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-70.jpeg",
     "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-43.jpeg",
@@ -232,19 +239,12 @@
     "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-64.jpeg",
     "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-87.jpeg",
     "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-90.jpeg",
-    "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/History of Urbanism and Architecture Book 1.md",
-    "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/History of Urbanism and Architecture Book 1.pdf",
-    "Untitled.md",
     "MEDIA/PDF/IMG-18-12-2025-235631148.pdf",
     "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-132.jpeg",
     "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-131.jpeg",
-    "MEDIA/PDF/Books/Temporary Demountable Structures (Institution of Structural Engineers) (Z-Library).pdf",
     "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets",
     "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1",
-    "MEDIA/PDF/Books/Temporary Structures in Construction, Third Edition (Robert Ratay) (Z-Library).pdf",
     "MEDIA/PDF/Books/Tactical urbanism short-term action for long-term change (Garcia, AnthonyLydon, Mike) (Z-Library).pdf",
-    "MEDIA/PDF/Books/Temporary and Tactical Urbanism (Re)Assembling Urban Space (Quentin Stevens, Kim Dovey) (Z-Library).pdf",
-    "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/History of Urbanism and Architecture Book.pdf",
     "Thoughts/Approach to make honors meaningfull.md",
     "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/History of Urbanism and Architecture Book.md",
     "History of Urbanism and Architecture Book.md",

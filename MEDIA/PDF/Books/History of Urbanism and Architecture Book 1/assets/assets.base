@@ -5,7 +5,7 @@ views:
     name: Table
     filters:
       and:
-        - file.folder == "MEDIA/IMAGES"
+        - file.folder == "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets"
         - file.ext != "base"
     order:
       - file.name
