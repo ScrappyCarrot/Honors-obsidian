@@ -236,6 +236,17 @@
 			"y":2000,
 			"width":260,
 			"height":150
+		},
+		{
+			"id":"c31fc334dc63ff3d",
+			"type":"text",
+			"text":"##### **Connections**",
+			"styleAttributes":{"textAlign":"center"},
+			"x":720,
+			"y":2260,
+			"width":250,
+			"height":60,
+			"color":"3"
 		}
 	],
 	"edges":[
