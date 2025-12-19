@@ -240,14 +240,28 @@
 		{
 			"id":"c31fc334dc63ff3d",
 			"type":"text",
-			"text":"##### **Connections**",
+			"text":"##### Reference projects",
 			"styleAttributes":{"textAlign":"center"},
-			"x":720,
-			"y":2260,
+			"x":540,
+			"y":2420,
 			"width":250,
 			"height":60,
 			"color":"3"
-		}
+		},
+		{"id":"3ff0892fdeaeb534","type":"file","file":"Research/Second Ground architectural works/Second Ground architectural works.md","x":465,"y":2620,"width":400,"height":400},
+		{
+			"id":"73104da93a8c8935",
+			"type":"text",
+			"text":"The high line\n",
+			"styleAttributes":{},
+			"x":-180,
+			"y":2760,
+			"width":260,
+			"height":60
+		},
+		{"id":"056afe3cc20e693c","type":"file","file":"MEDIA/IMAGES/Pasted image 20251219005135.png","x":-165,"y":2880,"width":230,"height":230},
+		{"id":"d2d8bfbc4ddcc772","type":"file","file":"MEDIA/IMAGES/Pasted image 20251219004012.png","x":-340,"y":2687,"width":137,"height":206},
+		{"id":"a47108cd5971202a","type":"file","file":"MEDIA/IMAGES/Pasted image 20251219003844.png","x":-120,"y":2580,"width":265,"height":147}
 	],
 	"edges":[
 		{"id":"f1153a809622ee9e","toFloating":false,"fromNode":"0a18e5d7148299a3","fromSide":"bottom","toNode":"67ebb59448249d05","toSide":"top"},
@@ -412,6 +426,24 @@
 			"fromSide":"bottom",
 			"toNode":"514dc48d63e46c40",
 			"toSide":"top"
+		},
+		{
+			"id":"f3684a3943b0f32c",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"c31fc334dc63ff3d",
+			"fromSide":"bottom",
+			"toNode":"3ff0892fdeaeb534",
+			"toSide":"top"
+		},
+		{
+			"id":"daa70144fb350752",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"3ff0892fdeaeb534",
+			"fromSide":"left",
+			"toNode":"73104da93a8c8935",
+			"toSide":"right"
 		}
 	],
 	"metadata":{

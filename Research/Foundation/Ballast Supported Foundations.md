@@ -5,3 +5,5 @@ This type of foundation relies on weight to provide resistance against uplift an
    Failure modes-Ground failure, since this foundation doesn't penetrate the ground, it relies on distributing the force over weak soil like mud or peat.
 2. Concrete based footings- More traditional approach, this casts or drills piles into the ground for heavy load bearing. This might be a good option provided we can remove the foundation and reuse it again (if the loads call for such heavy foundation elements)
 3. Submerged concrete blocks with ballast above. We could have big concrete blocks that are underground at around -1.000mm. The primary failure mode of this method would be shear failure of the slab. This, however can be mitigated by increasing the number of contact points to the ground thus decreasing the load on each one, adding rebar and changing dimensions.
+#Research
+#Foundation

@@ -5,3 +5,5 @@ Terms to search
 - Hilbert's Third Theorem
 - Wallace-Bolyai-Gerwein theorem
 - Space-filling Polyhedra (for shapes that fit in any way not just folded)
+
+#Research

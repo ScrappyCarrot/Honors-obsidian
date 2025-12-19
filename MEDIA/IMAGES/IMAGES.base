@@ -11,6 +11,9 @@ views:
       - file.name
       - formula.Image
       - file.ext
+    sort:
+      - property: file.mtime
+        direction: DESC
     image: file.file
     imageAspectRatio: 0.7
     cardSize: 200

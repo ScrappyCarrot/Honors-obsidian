@@ -8,52 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9b22cb800fde4dc5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/History of Urbanism and Architecture Book 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "History of Urbanism and Architecture Book 1"
-            }
-          },
-          {
             "id": "c67134ba1600fbd1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/History of Urbanism and Architecture Book 1.md",
+                "file": "Research/Second Ground architectural works/4. The High line.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "History of Urbanism and Architecture Book 1"
+              "title": "4. The High line"
             }
           },
           {
             "id": "686b81ad1c5ae19d",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "CANVAS OF IDEAS.canvas",
-                "viewState": {
-                  "x": 725.6364267041577,
-                  "y": 2423.623474601506,
-                  "zoom": 0.5222839791323786
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "CANVAS OF IDEAS"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -246,10 +225,15 @@
   },
   "active": "686b81ad1c5ae19d",
   "lastOpenFiles": [
+    "Research/Foundation/Foundation.md",
+    "CANVAS OF IDEAS.canvas",
+    "MEDIA/IMAGES/IMAGES.base",
+    "MEDIA/IMAGES/Pasted image 20251219020332.png",
     "Research/Second Ground architectural works/4. The High line.md",
+    "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/History of Urbanism and Architecture Book 1.md",
+    "Research/Second Ground architectural works/Second Ground architectural works.md",
     "erthg.md",
     "copilot/copilot-conversations/explain_to_me_the_plan_of_miletus@20251219_230114.md",
-    "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/History of Urbanism and Architecture Book 1.md",
     "copilot/copilot-conversations/tell_me_about_the_plan_of_miletus@20251219_225406.md",
     "copilot/copilot-conversations/Give_me_more_information_on_this_topic@20251219_000620.md",
     "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/History of Urbanism and Architecture Book 1.pdf",
@@ -258,7 +242,6 @@
     "MEDIA/PDF/Books/Temporary and Tactical Urbanism (Re)Assembling Urban Space (Quentin Stevens, Kim Dovey) (Z-Library).pdf",
     "MEDIA/PDF/Books/Temporary Demountable Structures (Institution of Structural Engineers) (Z-Library).pdf",
     "Untitled 1.md",
-    "MEDIA/IMAGES/IMAGES.base",
     "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-100.jpeg",
     "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-70.jpeg",
     "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-43.jpeg",
@@ -269,14 +252,12 @@
     "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-90.jpeg",
     "MEDIA/PDF/IMG-18-12-2025-235631148.pdf",
     "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-132.jpeg",
-    "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-131.jpeg",
     "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets",
     "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1",
     "MEDIA/PDF/Books/Tactical urbanism short-term action for long-term change (Garcia, AnthonyLydon, Mike) (Z-Library).pdf",
     "Thoughts/Approach to make honors meaningfull.md",
     "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/History of Urbanism and Architecture Book.md",
     "History of Urbanism and Architecture Book.md",
-    "Research/Second Ground architectural works/Second Ground architectural works.md",
     "Research/Gem-Stage tower (floor).md",
     "copilot/copilot-conversations/Give_me_more_resources_I_on_this_topic@20251219_000620.md",
     "copilot/copilot-custom-prompts/Emojify.md",
@@ -291,8 +272,6 @@
     "copilot/copilot-custom-prompts/Generate table of contents.md",
     "copilot/copilot-custom-prompts/Explain like I am 5.md",
     "copilot/copilot-custom-prompts/Simplify.md",
-    "copilot/copilot-custom-prompts/Summarize.md",
-    "CANVAS OF IDEAS.canvas",
     "MEDIA/IMAGES/IMAGES.canvas",
     "Canvas export/CANVAS OF IDEAS.canvas",
     "Untitled.canvas"
