@@ -25,15 +25,13 @@
             "id": "c67134ba1600fbd1",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/History of Urbanism and Architecture Book 1.pdf",
-                "page": 3,
-                "left": -10,
-                "top": 492,
-                "zoom": 1.4649617889972408
+                "file": "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/History of Urbanism and Architecture Book 1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
+              "icon": "lucide-file",
               "title": "History of Urbanism and Architecture Book 1"
             }
           }
@@ -221,6 +219,8 @@
   },
   "active": "c67134ba1600fbd1",
   "lastOpenFiles": [
+    "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/History of Urbanism and Architecture Book 1.pdf",
+    "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/assets.base",
     "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/History of Urbanism and Architecture Book 1.md",
     "Research/Second Ground architectural works/4. The High line.md",
     "MEDIA/PDF/Books/Temporary Structures in Construction, Third Edition (Robert Ratay) (Z-Library).pdf",
@@ -228,8 +228,6 @@
     "MEDIA/PDF/Books/Temporary Demountable Structures (Institution of Structural Engineers) (Z-Library).pdf",
     "Untitled.md",
     "Untitled 1.md",
-    "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/History of Urbanism and Architecture Book 1.pdf",
-    "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/assets.base",
     "MEDIA/IMAGES/IMAGES.base",
     "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-100.jpeg",
     "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-70.jpeg",
