@@ -3,7 +3,7 @@
   "pythonEndpoint": "localhost:8001",
   "createFolder": true,
   "deleteOriginal": false,
-  "extractContent": "images",
+  "extractContent": "all",
   "writeMetadata": false,
   "movePDFtoFolder": true,
   "createAssetSubfolder": true,

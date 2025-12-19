@@ -11,13 +11,34 @@
             "id": "6863b257187d23e4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "pdf",
+              "state": {
+                "file": "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/History of Urbanism and Architecture Book.pdf",
+                "page": 3,
+                "left": -9,
+                "top": 735,
+                "zoom": 1.716346153846154
+              },
+              "icon": "lucide-file-text",
+              "title": "History of Urbanism and Architecture Book"
+            }
+          },
+          {
+            "id": "92ee55e4519987a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/History of Urbanism and Architecture Book.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "History of Urbanism and Architecture Book"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -151,12 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/History of Urbanism and Architecture Book.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of History of Urbanism and Architecture Book"
             }
           },
           {
@@ -200,19 +222,23 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "6863b257187d23e4",
+  "active": "92ee55e4519987a8",
   "lastOpenFiles": [
-    "MEDIA/PDF/Books/History of Urbanism and Architecture Book/assets/History of Urbanism and Architecture Book_img-0.jpeg",
-    "MEDIA/PDF/Books/History of Urbanism and Architecture Book/History of Urbanism and Architecture Book.pdf",
-    "MEDIA/PDF/Books/History of Urbanism and Architecture Book/assets/History of Urbanism and Architecture Book_img-132.jpeg",
-    "MEDIA/PDF/Books/History of Urbanism and Architecture Book/assets/History of Urbanism and Architecture Book_img-6.jpeg",
-    "MEDIA/PDF/Books/History of Urbanism and Architecture Book/assets/History of Urbanism and Architecture Book_img-3.jpeg",
-    "MEDIA/PDF/Books/History of Urbanism and Architecture Book/assets/History of Urbanism and Architecture Book_img-131.jpeg",
-    "MEDIA/PDF/Books/History of Urbanism and Architecture Book/assets/History of Urbanism and Architecture Book_img-130.jpeg",
-    "MEDIA/PDF/Books/History of Urbanism and Architecture Book/assets/History of Urbanism and Architecture Book_img-129.jpeg",
-    "MEDIA/PDF/Books/History of Urbanism and Architecture Book/assets/History of Urbanism and Architecture Book_img-128.jpeg",
-    "MEDIA/PDF/Books/History of Urbanism and Architecture Book/assets/History of Urbanism and Architecture Book_img-127.jpeg",
-    "MEDIA/PDF/Books/History of Urbanism and Architecture Book/assets/History of Urbanism and Architecture Book_img-126.jpeg",
+    "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book_img-132.jpeg",
+    "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book_img-131.jpeg",
+    "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book_img-130.jpeg",
+    "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book_img-129.jpeg",
+    "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book_img-128.jpeg",
+    "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book_img-127.jpeg",
+    "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book_img-126.jpeg",
+    "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book_img-125.jpeg",
+    "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book_img-124.jpeg",
+    "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book_img-123.jpeg",
+    "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book_img-122.jpeg",
+    "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets",
+    "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/History of Urbanism and Architecture Book.pdf",
+    "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/History of Urbanism and Architecture Book.md",
+    "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1",
     "MEDIA/PDF/Books/History of Urbanism and Architecture Book/assets",
     "MEDIA/PDF/Books/History of Urbanism and Architecture Book",
     "Untitled.md",
@@ -243,10 +269,7 @@
     "Notion/Other people material/Comparrative essay.md",
     "MEDIA/PDF/IMG-18-12-2025-235631148.pdf",
     "Notion/Meet 12dec.md",
-    "Notion/Other people material/comparative essay final/comparative essay final.md",
     "Notion/Other people material/comparative essay final/comparative essay final.pdf",
-    "Notion/Other people material/comparative essay final",
-    "MEDIA/PDF/nko-mmk-bijlage-4 - -ontwerpverantwoording-korte-lijst-oplossingsricht - -10-dec-2024+(1)_EN.pdf",
     "CANVAS OF IDEAS.canvas",
     "MEDIA/IMAGES/IMAGES.canvas",
     "Canvas export/CANVAS OF IDEAS.canvas",
