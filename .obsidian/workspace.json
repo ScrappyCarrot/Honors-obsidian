@@ -228,8 +228,9 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "c89686570795ced7",
+  "active": "88c82391c76a415d",
   "lastOpenFiles": [
+    "copilot/copilot-conversations/give_me_a_summary_of_this@20251219_234345.md",
     "copilot/copilot-conversations/explain_to_me_the_plan_of_miletus@20251219_230114.md",
     "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/History of Urbanism and Architecture Book 1.md",
     "copilot/memory/Recent Conversations.md",
@@ -276,7 +277,6 @@
     "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet.md",
-    "copilot/copilot-custom-prompts/Remove URLs.md",
     "MEDIA/IMAGES/IMAGES.canvas",
     "Canvas export/CANVAS OF IDEAS.canvas",
     "Untitled.canvas"
