@@ -11,22 +11,6 @@
             "id": "9b22cb800fde4dc5",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/History of Urbanism and Architecture Book 1.pdf",
-                "page": 3,
-                "left": -12,
-                "top": 492,
-                "zoom": 1.347915872866018
-              },
-              "icon": "lucide-file-text",
-              "title": "History of Urbanism and Architecture Book 1"
-            }
-          },
-          {
-            "id": "c67134ba1600fbd1",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/History of Urbanism and Architecture Book 1.md",
@@ -35,6 +19,19 @@
               },
               "icon": "lucide-file",
               "title": "History of Urbanism and Architecture Book 1"
+            }
+          },
+          {
+            "id": "c67134ba1600fbd1",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/assets.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-layout-grid",
+              "title": "assets"
             }
           }
         ],
@@ -172,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/History of Urbanism and Architecture Book 1.md",
+                "file": "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/assets.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of History of Urbanism and Architecture Book 1"
+              "title": "Outline of assets"
             }
           },
           {
@@ -222,10 +219,12 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "c89686570795ced7",
+  "active": "c67134ba1600fbd1",
   "lastOpenFiles": [
-    "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/History of Urbanism and Architecture Book 1.pdf",
     "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/History of Urbanism and Architecture Book 1.md",
+    "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/History of Urbanism and Architecture Book 1.pdf",
+    "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/assets.base",
+    "Untitled.md",
     "MEDIA/PDF/IMG-18-12-2025-235631148.pdf",
     "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-132.jpeg",
     "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-131.jpeg",
@@ -245,9 +244,7 @@
     "MEDIA/PDF/Books/Temporary and Tactical Urbanism (Re)Assembling Urban Space (Quentin Stevens, Kim Dovey) (Z-Library).pdf",
     "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/History of Urbanism and Architecture Book.pdf",
     "Thoughts/Approach to make honors meaningfull.md",
-    "Untitled.md",
     "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/History of Urbanism and Architecture Book.md",
-    "MEDIA/PDF/Books/History of Urbanism and Architecture Book/assets",
     "History of Urbanism and Architecture Book.md",
     "Research/Second Ground architectural works/4. The High line.md",
     "Research/Second Ground architectural works/Second Ground architectural works.md",
