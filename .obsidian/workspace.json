@@ -8,19 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fb98d5da74abb2ac",
+            "id": "6863b257187d23e4",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "MEDIA/PDF/Books/History of Urbanism and Architecture Book.pdf",
-                "page": 1,
-                "left": 0,
-                "top": 792,
-                "zoom": 1.5772266729500473
-              },
-              "icon": "lucide-file-text",
-              "title": "History of Urbanism and Architecture Book"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -157,13 +151,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test 2 PC.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of test 2 PC"
+              "title": "Outline"
             }
           },
           {
@@ -177,7 +170,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -207,18 +200,24 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "fb98d5da74abb2ac",
+  "active": "6863b257187d23e4",
   "lastOpenFiles": [
+    "MEDIA/PDF/Books/History of Urbanism and Architecture Book/assets/History of Urbanism and Architecture Book_img-0.jpeg",
+    "MEDIA/PDF/Books/History of Urbanism and Architecture Book/History of Urbanism and Architecture Book.pdf",
+    "MEDIA/PDF/Books/History of Urbanism and Architecture Book/assets/History of Urbanism and Architecture Book_img-132.jpeg",
+    "MEDIA/PDF/Books/History of Urbanism and Architecture Book/assets/History of Urbanism and Architecture Book_img-6.jpeg",
+    "MEDIA/PDF/Books/History of Urbanism and Architecture Book/assets/History of Urbanism and Architecture Book_img-3.jpeg",
+    "MEDIA/PDF/Books/History of Urbanism and Architecture Book/assets/History of Urbanism and Architecture Book_img-131.jpeg",
+    "MEDIA/PDF/Books/History of Urbanism and Architecture Book/assets/History of Urbanism and Architecture Book_img-130.jpeg",
+    "MEDIA/PDF/Books/History of Urbanism and Architecture Book/assets/History of Urbanism and Architecture Book_img-129.jpeg",
+    "MEDIA/PDF/Books/History of Urbanism and Architecture Book/assets/History of Urbanism and Architecture Book_img-128.jpeg",
+    "MEDIA/PDF/Books/History of Urbanism and Architecture Book/assets/History of Urbanism and Architecture Book_img-127.jpeg",
+    "MEDIA/PDF/Books/History of Urbanism and Architecture Book/assets/History of Urbanism and Architecture Book_img-126.jpeg",
+    "MEDIA/PDF/Books/History of Urbanism and Architecture Book/assets",
+    "MEDIA/PDF/Books/History of Urbanism and Architecture Book",
     "Untitled.md",
-    "MEDIA/PDF/Books/History of Urbanism and Architecture Book.pdf",
     "History of Urbanism and Architecture Book.md",
-    "MEDIA/IMAGES/Pasted image 20251219020332.png",
     "Research/Second Ground architectural works/4. The High line.md",
-    "MEDIA/IMAGES/Pasted image 20251219004012.png",
-    "MEDIA/IMAGES/Pasted image 20251219005135.png",
-    "MEDIA/IMAGES/Pasted image 20251219004040.png",
-    "MEDIA/IMAGES/Pasted image 20251219003933.png",
-    "MEDIA/IMAGES/Pasted image 20251219003844.png",
     "Research/Second Ground architectural works/Second Ground architectural works.md",
     "Research/Gem-Stage tower (floor).md",
     "copilot/copilot-conversations/Give_me_more_information_on_this_topic@20251219_000620.md",
@@ -248,13 +247,7 @@
     "Notion/Other people material/comparative essay final/comparative essay final.pdf",
     "Notion/Other people material/comparative essay final",
     "MEDIA/PDF/nko-mmk-bijlage-4 - -ontwerpverantwoording-korte-lijst-oplossingsricht - -10-dec-2024+(1)_EN.pdf",
-    "MEDIA/PDF/besluit-bouwwerken-leefomgeving-tekst-bij-inwerkingtreding-1 (1).pdf",
-    "MEDIA/PDF/Books/Temporary Demountable Structures (Institution of Structural Engineers) (Z-Library).pdf",
-    "MEDIA/IMAGES/IMG-18-12-2025-231041332.png",
     "CANVAS OF IDEAS.canvas",
-    "MEDIA/IMAGES/Pasted image 20251214213326.png",
-    "MEDIA/IMAGES/Gemini_Generated_Image_hbccjnhbccjnhbcc.png",
-    "MEDIA/IMAGES/Pasted image 20251214023739.png",
     "MEDIA/IMAGES/IMAGES.canvas",
     "Canvas export/CANVAS OF IDEAS.canvas",
     "Untitled.canvas"
