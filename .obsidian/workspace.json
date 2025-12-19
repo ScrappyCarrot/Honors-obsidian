@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "erthg.md",
+                "file": "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/History of Urbanism and Architecture Book 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "erthg"
+              "title": "History of Urbanism and Architecture Book 1"
             }
           }
         ],
@@ -241,10 +241,12 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "88c82391c76a415d",
+  "active": "686b81ad1c5ae19d",
   "lastOpenFiles": [
     "copilot/copilot-conversations/tell_me_about_the_plan_of_miletus@20251219_225406.md",
+    "copilot/copilot-conversations/explain_to_me_the_plan_of_miletus@20251219_230114.md",
     "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/History of Urbanism and Architecture Book 1.md",
+    "copilot/copilot-conversations/Give_me_more_information_on_this_topic@20251219_000620.md",
     "erthg.md",
     "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/History of Urbanism and Architecture Book 1.pdf",
     "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/assets.base",
@@ -273,7 +275,6 @@
     "History of Urbanism and Architecture Book.md",
     "Research/Second Ground architectural works/Second Ground architectural works.md",
     "Research/Gem-Stage tower (floor).md",
-    "copilot/copilot-conversations/Give_me_more_information_on_this_topic@20251219_000620.md",
     "copilot/copilot-conversations/Give_me_more_resources_I_on_this_topic@20251219_000620.md",
     "copilot/copilot-custom-prompts/Emojify.md",
     "copilot/copilot-custom-prompts/Make shorter.md",
@@ -288,7 +289,6 @@
     "copilot/copilot-custom-prompts/Explain like I am 5.md",
     "copilot/copilot-custom-prompts/Simplify.md",
     "copilot/copilot-custom-prompts/Summarize.md",
-    "Research/Research math papers (Black Maria)/Research math papers (Black Maria).md",
     "CANVAS OF IDEAS.canvas",
     "MEDIA/IMAGES/IMAGES.canvas",
     "Canvas export/CANVAS OF IDEAS.canvas",
