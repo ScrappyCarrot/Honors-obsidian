@@ -8,33 +8,33 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6863b257187d23e4",
+            "id": "9b22cb800fde4dc5",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/History of Urbanism and Architecture Book.pdf",
+                "file": "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/History of Urbanism and Architecture Book 1.pdf",
                 "page": 3,
-                "left": -9,
-                "top": 735,
-                "zoom": 1.716346153846154
+                "left": -12,
+                "top": 492,
+                "zoom": 1.347915872866018
               },
               "icon": "lucide-file-text",
-              "title": "History of Urbanism and Architecture Book"
+              "title": "History of Urbanism and Architecture Book 1"
             }
           },
           {
-            "id": "92ee55e4519987a8",
+            "id": "c67134ba1600fbd1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/History of Urbanism and Architecture Book.md",
+                "file": "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/History of Urbanism and Architecture Book 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "History of Urbanism and Architecture Book"
+              "title": "History of Urbanism and Architecture Book 1"
             }
           }
         ],
@@ -172,13 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/History of Urbanism and Architecture Book.md",
+                "file": "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/History of Urbanism and Architecture Book 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of History of Urbanism and Architecture Book"
+              "title": "Outline of History of Urbanism and Architecture Book 1"
             }
           },
           {
@@ -222,33 +222,38 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "92ee55e4519987a8",
+  "active": "c89686570795ced7",
   "lastOpenFiles": [
-    "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book_img-132.jpeg",
-    "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book_img-131.jpeg",
-    "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book_img-130.jpeg",
-    "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book_img-129.jpeg",
-    "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book_img-128.jpeg",
-    "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book_img-127.jpeg",
-    "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book_img-126.jpeg",
-    "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book_img-125.jpeg",
-    "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book_img-124.jpeg",
-    "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book_img-123.jpeg",
-    "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book_img-122.jpeg",
+    "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/History of Urbanism and Architecture Book 1.pdf",
+    "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/History of Urbanism and Architecture Book 1.md",
+    "MEDIA/PDF/IMG-18-12-2025-235631148.pdf",
+    "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-132.jpeg",
+    "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-131.jpeg",
+    "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-130.jpeg",
+    "MEDIA/PDF/Books/Temporary Demountable Structures (Institution of Structural Engineers) (Z-Library).pdf",
+    "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-129.jpeg",
+    "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-128.jpeg",
+    "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-127.jpeg",
+    "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-126.jpeg",
+    "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-125.jpeg",
+    "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-124.jpeg",
+    "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-123.jpeg",
     "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets",
-    "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/History of Urbanism and Architecture Book.pdf",
-    "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/History of Urbanism and Architecture Book.md",
     "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1",
-    "MEDIA/PDF/Books/History of Urbanism and Architecture Book/assets",
-    "MEDIA/PDF/Books/History of Urbanism and Architecture Book",
+    "MEDIA/PDF/Books/Temporary Structures in Construction, Third Edition (Robert Ratay) (Z-Library).pdf",
+    "MEDIA/PDF/Books/Tactical urbanism short-term action for long-term change (Garcia, AnthonyLydon, Mike) (Z-Library).pdf",
+    "MEDIA/PDF/Books/Temporary and Tactical Urbanism (Re)Assembling Urban Space (Quentin Stevens, Kim Dovey) (Z-Library).pdf",
+    "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/History of Urbanism and Architecture Book.pdf",
+    "Thoughts/Approach to make honors meaningfull.md",
     "Untitled.md",
+    "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/History of Urbanism and Architecture Book.md",
+    "MEDIA/PDF/Books/History of Urbanism and Architecture Book/assets",
     "History of Urbanism and Architecture Book.md",
     "Research/Second Ground architectural works/4. The High line.md",
     "Research/Second Ground architectural works/Second Ground architectural works.md",
     "Research/Gem-Stage tower (floor).md",
     "copilot/copilot-conversations/Give_me_more_information_on_this_topic@20251219_000620.md",
     "copilot/copilot-conversations/Give_me_more_resources_I_on_this_topic@20251219_000620.md",
-    "copilot/copilot-conversations",
     "copilot/copilot-custom-prompts/Emojify.md",
     "copilot/copilot-custom-prompts/Make shorter.md",
     "copilot/copilot-custom-prompts/Make longer.md",
@@ -262,14 +267,8 @@
     "copilot/copilot-custom-prompts/Explain like I am 5.md",
     "copilot/copilot-custom-prompts/Simplify.md",
     "copilot/copilot-custom-prompts/Summarize.md",
-    "copilot/copilot-custom-prompts",
-    "copilot",
     "Research/Research math papers (Black Maria)/Research math papers (Black Maria).md",
     "Research ideas.md",
-    "Notion/Other people material/Comparrative essay.md",
-    "MEDIA/PDF/IMG-18-12-2025-235631148.pdf",
-    "Notion/Meet 12dec.md",
-    "Notion/Other people material/comparative essay final/comparative essay final.pdf",
     "CANVAS OF IDEAS.canvas",
     "MEDIA/IMAGES/IMAGES.canvas",
     "Canvas export/CANVAS OF IDEAS.canvas",
