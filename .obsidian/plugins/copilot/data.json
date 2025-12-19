@@ -264,11 +264,13 @@
       "provider": "ollama",
       "enabled": true,
       "isBuiltIn": false,
-      "baseUrl": "",
-      "apiKey": "none",
+      "baseUrl": "http://127.0.0.1:11434",
+      "apiKey": "",
       "isEmbeddingModel": false,
       "capabilities": [],
-      "stream": true
+      "stream": true,
+      "enableCors": true,
+      "maxTokens": 21000
     }
   ],
   "activeEmbeddingModels": [
