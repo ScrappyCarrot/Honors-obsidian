@@ -64,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Research",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +105,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test 2 PC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for test 2 PC"
+              "title": "Backlinks"
             }
           },
           {
@@ -166,13 +165,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "erthg.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of erthg"
+              "title": "Outline"
             }
           },
           {
@@ -223,7 +221,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "686b81ad1c5ae19d",
+  "active": "c89686570795ced7",
   "lastOpenFiles": [
     "Research/Foundation/Foundation.md",
     "CANVAS OF IDEAS.canvas",
