@@ -11,14 +11,16 @@
             "id": "fb98d5da74abb2ac",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Research/Second Ground architectural works/4. The High line.md",
-                "mode": "source",
-                "source": false
+                "file": "MEDIA/PDF/Books/History of Urbanism and Architecture Book.pdf",
+                "page": 1,
+                "left": 0,
+                "top": 792,
+                "zoom": 1.5772266729500473
               },
-              "icon": "lucide-file",
-              "title": "4. The High line"
+              "icon": "lucide-file-text",
+              "title": "History of Urbanism and Architecture Book"
             }
           }
         ]
@@ -207,8 +209,12 @@
   },
   "active": "fb98d5da74abb2ac",
   "lastOpenFiles": [
-    "MEDIA/IMAGES/Pasted image 20251219004012.png",
+    "Untitled.md",
+    "MEDIA/PDF/Books/History of Urbanism and Architecture Book.pdf",
+    "History of Urbanism and Architecture Book.md",
+    "MEDIA/IMAGES/Pasted image 20251219020332.png",
     "Research/Second Ground architectural works/4. The High line.md",
+    "MEDIA/IMAGES/Pasted image 20251219004012.png",
     "MEDIA/IMAGES/Pasted image 20251219005135.png",
     "MEDIA/IMAGES/Pasted image 20251219004040.png",
     "MEDIA/IMAGES/Pasted image 20251219003933.png",
@@ -244,15 +250,11 @@
     "MEDIA/PDF/nko-mmk-bijlage-4 - -ontwerpverantwoording-korte-lijst-oplossingsricht - -10-dec-2024+(1)_EN.pdf",
     "MEDIA/PDF/besluit-bouwwerken-leefomgeving-tekst-bij-inwerkingtreding-1 (1).pdf",
     "MEDIA/PDF/Books/Temporary Demountable Structures (Institution of Structural Engineers) (Z-Library).pdf",
-    "MEDIA/PDF/Books/Temporary Structures in Construction, Third Edition (Robert Ratay) (Z-Library).pdf",
-    "Math papers for Black Maria.md",
     "MEDIA/IMAGES/IMG-18-12-2025-231041332.png",
-    "The high line.md",
     "CANVAS OF IDEAS.canvas",
     "MEDIA/IMAGES/Pasted image 20251214213326.png",
     "MEDIA/IMAGES/Gemini_Generated_Image_hbccjnhbccjnhbcc.png",
     "MEDIA/IMAGES/Pasted image 20251214023739.png",
-    "MEDIA/IMAGES/IMG-14-12-2025-001219736.png",
     "MEDIA/IMAGES/IMAGES.canvas",
     "Canvas export/CANVAS OF IDEAS.canvas",
     "Untitled.canvas"
