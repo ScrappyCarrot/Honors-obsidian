@@ -1,18 +1,16 @@
 formulas:
-  Untitled: image(thumbnail)
-properties:
-  formula.Untitled:
-    displayName: Thumbnail
+  Image: image(thumbnail)
 views:
   - type: cards
     name: Table
     filters:
       and:
-        - file.ext.contains("jpeg")
+        - file.folder == "MEDIA/IMAGES"
+        - file.ext != "base"
     order:
       - file.name
-      - formula.Untitled
+      - formula.Image
       - file.ext
-    cardSize: 260
-    imageAspectRatio: 1.25
-    image: formula.Untitled
+    image: file.file
+    imageAspectRatio: 0.7
+    cardSize: 200
