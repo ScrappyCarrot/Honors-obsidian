@@ -25,14 +25,17 @@
             "id": "686b81ad1c5ae19d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/History of Urbanism and Architecture Book 1.md",
-                "mode": "source",
-                "source": false
+                "file": "CANVAS OF IDEAS.canvas",
+                "viewState": {
+                  "x": -91.24599029667945,
+                  "y": 2660.0538020016506,
+                  "zoom": -1.5063178115087248
+                }
               },
-              "icon": "lucide-file",
-              "title": "History of Urbanism and Architecture Book 1"
+              "icon": "lucide-layout-dashboard",
+              "title": "CANVAS OF IDEAS"
             }
           }
         ],
@@ -228,11 +231,11 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "88c82391c76a415d",
+  "active": "686b81ad1c5ae19d",
   "lastOpenFiles": [
+    "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/History of Urbanism and Architecture Book 1.md",
     "copilot/copilot-conversations/give_me_a_summary_of_this@20251219_234345.md",
     "copilot/copilot-conversations/explain_to_me_the_plan_of_miletus@20251219_230114.md",
-    "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/History of Urbanism and Architecture Book 1.md",
     "copilot/memory/Recent Conversations.md",
     "copilot/copilot-conversations/give_me_a_detailed_summary_of_the_most_important_concepts@20251219_233658.md",
     "Research/Second Ground architectural works/4. The High line.md",
