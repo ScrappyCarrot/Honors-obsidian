@@ -225,12 +225,14 @@
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
-      "copilot:Open Copilot Chat": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "copilot:Open Copilot Chat": false
     }
   },
-  "active": "88c82391c76a415d",
+  "active": "c89686570795ced7",
   "lastOpenFiles": [
+    "copilot/copilot-conversations/explain_to_me_the_plan_of_miletus@20251219_230114.md",
+    "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/History of Urbanism and Architecture Book 1.md",
+    "copilot/memory/Recent Conversations.md",
     "copilot/copilot-conversations/give_me_a_detailed_summary_of_the_most_important_concepts@20251219_233658.md",
     "Research/Second Ground architectural works/4. The High line.md",
     "copilot/memory",
@@ -241,10 +243,8 @@
     "CANVAS OF IDEAS.canvas",
     "MEDIA/IMAGES/IMAGES.base",
     "MEDIA/IMAGES/Pasted image 20251219020332.png",
-    "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/History of Urbanism and Architecture Book 1.md",
     "Research/Second Ground architectural works/Second Ground architectural works.md",
     "erthg.md",
-    "copilot/copilot-conversations/explain_to_me_the_plan_of_miletus@20251219_230114.md",
     "copilot/copilot-conversations/tell_me_about_the_plan_of_miletus@20251219_225406.md",
     "copilot/copilot-conversations/Give_me_more_information_on_this_topic@20251219_000620.md",
     "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/History of Urbanism and Architecture Book 1.pdf",
@@ -277,7 +277,6 @@
     "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet.md",
     "copilot/copilot-custom-prompts/Remove URLs.md",
-    "copilot/copilot-custom-prompts/Generate glossary.md",
     "MEDIA/IMAGES/IMAGES.canvas",
     "Canvas export/CANVAS OF IDEAS.canvas",
     "Untitled.canvas"

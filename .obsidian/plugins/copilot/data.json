@@ -70,8 +70,11 @@
       "core": true,
       "projectEnabled": true,
       "capabilities": [
-        "vision"
-      ]
+        "reasoning",
+        "vision",
+        "websearch"
+      ],
+      "apiKey": "AIzaSyBOUZ8CeeQLePJaEcsstEu-OCEZ7_YDZJ0"
     },
     {
       "name": "google/gemini-2.5-flash",
@@ -260,7 +263,7 @@
       ]
     },
     {
-      "name": "gemma3:27b",
+      "name": "gemma3:12b",
       "provider": "ollama",
       "enabled": true,
       "isBuiltIn": false,
