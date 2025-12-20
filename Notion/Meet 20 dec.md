@@ -4,4 +4,5 @@
 4. Ideas+ analysis for temporary pavilions
 5. SLA Bureau- pavilion Eindhoven
 6. Look up material passports
-7. 
+7. Commercial aspect for the pavilion
+8. Modularity of the 
