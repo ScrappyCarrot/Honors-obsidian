@@ -11,12 +11,14 @@
             "id": "c67134ba1600fbd1",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "IMG-20-12-2025-182253640.png"
+                "file": "Research ideas.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "IMG-20-12-2025-182253640"
+              "icon": "lucide-file",
+              "title": "Research ideas"
             }
           }
         ]
@@ -213,6 +215,7 @@
   },
   "active": "c67134ba1600fbd1",
   "lastOpenFiles": [
+    "IMG-20-12-2025-182253640.png",
     "MEDIA/PDF/IMG-20-12-2025-182253592.pdf",
     "CANVAS OF IDEAS.canvas",
     "Research/Research math papers (Black Maria)/Research math papers (Black Maria).md",
@@ -252,7 +255,6 @@
     "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-40.jpeg",
     "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-31.jpeg",
     "MEDIA/PDF/IMG-18-12-2025-235631148.pdf",
-    "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets",
     "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/History of Urbanism and Architecture Book.md",
     "History of Urbanism and Architecture Book.md",
     "Research/Gem-Stage tower (floor).md",
