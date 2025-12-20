@@ -11,35 +11,13 @@
             "id": "c67134ba1600fbd1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Research/Second Ground architectural works/4. The High line.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "4. The High line"
-            }
-          },
-          {
-            "id": "686b81ad1c5ae19d",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "CANVAS OF IDEAS.canvas",
-                "viewState": {
-                  "x": -159.39646365912256,
-                  "y": 468.405314195463,
-                  "zoom": -3.027769154489552
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "CANVAS OF IDEAS"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -231,27 +209,30 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "686b81ad1c5ae19d",
+  "active": "c67134ba1600fbd1",
   "lastOpenFiles": [
+    "CANVAS OF IDEAS.canvas",
+    "Research ideas.md",
+    "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/History of Urbanism and Architecture Book 1.md",
+    "Research/Second Ground architectural works/4. The High line.md",
+    "explain_to_me_the_plan_of_miletus@20251219_230114.md",
+    "Research/Second Ground architectural works/Second Ground architectural works.md",
+    "Thoughts/Approach to make honors meaningfull.md",
+    "excalibrain.md",
     "Canvas export/media/images/pasted-image-20251219003844.png",
     "Canvas export/media/images/pasted-image-20251219004012.png",
     "Canvas export/media/images/pasted-image-20251219005135.png",
     "Canvas export/media/images/gemini_generated_image_hbccjnhbccjnhbcc.png",
-    "CANVAS OF IDEAS.canvas",
-    "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/History of Urbanism and Architecture Book 1.md",
     "copilot/copilot-conversations/give_me_a_summary_of_this@20251219_234345.md",
     "copilot/copilot-conversations/explain_to_me_the_plan_of_miletus@20251219_230114.md",
     "copilot/memory/Recent Conversations.md",
     "copilot/copilot-conversations/give_me_a_detailed_summary_of_the_most_important_concepts@20251219_233658.md",
-    "Research/Second Ground architectural works/4. The High line.md",
     "copilot/memory",
-    "excalibrain.md",
     "Excalidraw/Drawing 2025-12-19 23.33.37.excalidraw.md",
     "Excalidraw",
     "Research/Foundation/Foundation.md",
     "MEDIA/IMAGES/IMAGES.base",
     "MEDIA/IMAGES/Pasted image 20251219020332.png",
-    "Research/Second Ground architectural works/Second Ground architectural works.md",
     "erthg.md",
     "copilot/copilot-conversations/tell_me_about_the_plan_of_miletus@20251219_225406.md",
     "copilot/copilot-conversations/Give_me_more_information_on_this_topic@20251219_000620.md",
@@ -266,10 +247,8 @@
     "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-43.jpeg",
     "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-40.jpeg",
     "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-31.jpeg",
-    "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-64.jpeg",
     "MEDIA/PDF/IMG-18-12-2025-235631148.pdf",
     "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets",
-    "Thoughts/Approach to make honors meaningfull.md",
     "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/History of Urbanism and Architecture Book.md",
     "History of Urbanism and Architecture Book.md",
     "Research/Gem-Stage tower (floor).md",
@@ -278,8 +257,6 @@
     "copilot/copilot-custom-prompts/Make shorter.md",
     "copilot/copilot-custom-prompts/Make longer.md",
     "copilot/copilot-custom-prompts/Translate to Chinese.md",
-    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
-    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
     "MEDIA/IMAGES/IMAGES.canvas",
     "Canvas export/CANVAS OF IDEAS.canvas",
     "Untitled.canvas"
