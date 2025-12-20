@@ -11,10 +11,12 @@
             "id": "c67134ba1600fbd1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "image",
+              "state": {
+                "file": "IMG-20-12-2025-182253640.png"
+              },
+              "icon": "lucide-image",
+              "title": "IMG-20-12-2025-182253640"
             }
           }
         ]
@@ -211,7 +213,9 @@
   },
   "active": "c67134ba1600fbd1",
   "lastOpenFiles": [
+    "MEDIA/PDF/IMG-20-12-2025-182253592.pdf",
     "CANVAS OF IDEAS.canvas",
+    "Research/Research math papers (Black Maria)/Research math papers (Black Maria).md",
     "Research ideas.md",
     "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/History of Urbanism and Architecture Book 1.md",
     "Research/Second Ground architectural works/4. The High line.md",
@@ -256,7 +260,6 @@
     "copilot/copilot-custom-prompts/Emojify.md",
     "copilot/copilot-custom-prompts/Make shorter.md",
     "copilot/copilot-custom-prompts/Make longer.md",
-    "copilot/copilot-custom-prompts/Translate to Chinese.md",
     "MEDIA/IMAGES/IMAGES.canvas",
     "Canvas export/CANVAS OF IDEAS.canvas",
     "Untitled.canvas"
