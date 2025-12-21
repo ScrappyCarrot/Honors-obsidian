@@ -8,3 +8,4 @@ In your 2nd-year project, you don't need to know the _exact_ number of bricks. I
     
 - **The "Buffering" Story:** Explain to the municipality that your structure acts as a **"Material Buffer."** You are "storing" the materials from the demolished buildings in the form of a bridge until they are needed for the permanent new towers.
 
+

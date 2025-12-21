@@ -8,37 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2b32d1464cd26e69",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "MEDIA/EUROCODE/EUCODE-7-Geotechnical.pdf",
-                "page": 28,
-                "left": -9,
-                "top": 572,
-                "zoom": 1.8579831932773108
-              },
-              "icon": "lucide-file-text",
-              "title": "EUCODE-7-Geotechnical"
-            }
-          },
-          {
             "id": "dbf060e3617d4609",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/Second Ground architectural works/Second Ground architectural works.md",
+                "file": "Research/End of life/End of life.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Second Ground architectural works"
+              "title": "End of life"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -233,16 +216,20 @@
   },
   "active": "dbf060e3617d4609",
   "lastOpenFiles": [
-    "Thoughts/Green scaffolding.md",
+    "Research/End of life/Materials.md",
+    "Research/End of life/End of life.md",
+    "Research/End of life/Soil and biomass.md",
+    "MEDIA/EUROCODE/EUCODE-7-Geotechnical.pdf",
+    "Research/End of life",
+    "Research/Modularity of the structure.md",
     "Research/Second Ground architectural works/Second Ground architectural works.md",
+    "Thoughts/Green scaffolding.md",
     "Research/Second Ground architectural works/5. The Rotterdam Rooftop Walk.md",
     "Research/Second Ground architectural works/1. Oslo opera house.md",
     "Research/Second Ground architectural works/4. The High line.md",
     "Research/Gem-Stage tower (floor).md",
-    "Research/Modularity of the structure.md",
     "Thoughts/Cool structure.md",
     "Research/Foundation/Foundation.md",
-    "MEDIA/EUROCODE/EUCODE-7-Geotechnical.pdf",
     "MEDIA/EUROCODE/EUCODE-9-Aluminium.pdf",
     "Research ideas.md",
     "Thoughts/Approach to make honors meaningfull.md",
@@ -266,16 +253,12 @@
     "Canvas export/media/images/pasted-image-20251219005135.png",
     "Canvas export/media/images/gemini_generated_image_hbccjnhbccjnhbcc.png",
     "copilot/copilot-conversations/give_me_a_summary_of_this@20251219_234345.md",
-    "copilot/copilot-conversations/explain_to_me_the_plan_of_miletus@20251219_230114.md",
-    "copilot/memory/Recent Conversations.md",
-    "copilot/copilot-conversations/give_me_a_detailed_summary_of_the_most_important_concepts@20251219_233658.md",
     "copilot/memory",
     "Excalidraw",
     "MEDIA/IMAGES/IMAGES.base",
     "MEDIA/IMAGES/Pasted image 20251219020332.png",
     "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/History of Urbanism and Architecture Book 1.pdf",
     "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/assets.base",
-    "MEDIA/PDF/Books/Temporary Structures in Construction, Third Edition (Robert Ratay) (Z-Library).pdf",
     "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-100.jpeg",
     "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-70.jpeg",
     "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-43.jpeg",
