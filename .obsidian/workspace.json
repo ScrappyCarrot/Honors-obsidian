@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/Second Ground architectural works/Second Ground architectural works.md",
+                "file": "Thoughts/Cool structure.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Second Ground architectural works"
+              "title": "Cool structure"
             }
           }
         ],
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Research",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -243,19 +243,21 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "39acc3c897491bfe",
+  "active": "c89686570795ced7",
   "lastOpenFiles": [
+    "Research/Untitled",
+    "Thoughts/Approach to make honors meaningfull.md",
+    "Thoughts/Cool structure.md",
+    "CANVAS OF IDEAS.canvas",
+    "Research ideas.md",
+    "Research/Second Ground architectural works/Second Ground architectural works.md",
     "Research/Research math papers (Black Maria)/Research math papers (Black Maria).md",
     "Research/Modularity of the structure.md",
     "MEDIA/IMAGES/IMG-20-12-2025-182253640.png",
-    "Thoughts/Approach to make honors meaningfull.md",
-    "Research ideas.md",
     "Notion/Meet 20 dec.md",
-    "Research/Second Ground architectural works/Second Ground architectural works.md",
     "Research/Second Ground architectural works/4. The High line.md",
     "explain_to_me_the_plan_of_miletus@20251219_230114.md",
     "MEDIA/PDF/IMG-20-12-2025-182253592.pdf",
-    "CANVAS OF IDEAS.canvas",
     "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/History of Urbanism and Architecture Book 1.md",
     "excalibrain.md",
     "Canvas export/media/images/pasted-image-20251219003844.png",
@@ -290,7 +292,6 @@
     "History of Urbanism and Architecture Book.md",
     "Research/Gem-Stage tower (floor).md",
     "copilot/copilot-conversations/Give_me_more_resources_I_on_this_topic@20251219_000620.md",
-    "copilot/copilot-custom-prompts/Emojify.md",
     "MEDIA/IMAGES/IMAGES.canvas",
     "Canvas export/CANVAS OF IDEAS.canvas",
     "Untitled.canvas"
