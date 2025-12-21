@@ -11,16 +11,14 @@
             "id": "dbf060e3617d4609",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "MEDIA/PDF/IMG-22-12-2025-004115708.pdf",
-                "page": 1,
-                "left": -18,
-                "top": 1198,
-                "zoom": 0.9287964713295526
+                "file": "Research/Case studies/Second Ground architectural works/Second Ground architectural works.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "IMG-22-12-2025-004115708"
+              "icon": "lucide-file",
+              "title": "Second Ground architectural works"
             }
           }
         ]
@@ -218,9 +216,11 @@
   },
   "active": "c89686570795ced7",
   "lastOpenFiles": [
+    "MEDIA/PDF/IMG-18-12-2025-235631148.pdf",
+    "Research/Case studies/Second Ground architectural works/Second Ground architectural works.md",
+    "MEDIA/PDF/Gem tower.pdf",
     "MEDIA/PDF/IMG-20-12-2025-182253592.pdf",
     "MEDIA/PDF/PDF.base",
-    "MEDIA/PDF/IMG-22-12-2025-004115708.pdf",
     "MEDIA/IMAGES/IMG-22-12-2025-004113981.png",
     "MEDIA/IMAGES/IMG-22-12-2025-004114041.png",
     "MEDIA/IMAGES/IMG-22-12-2025-004114090.png",
@@ -237,7 +237,6 @@
     "MEDIA/EUROCODE/EUCODE-7-Geotechnical.pdf",
     "Research/End of life",
     "Research/Modularity of the structure.md",
-    "Research/Case studies/Second Ground architectural works/Second Ground architectural works.md",
     "Thoughts/Green scaffolding.md",
     "Research/Case studies/Second Ground architectural works/5. The Rotterdam Rooftop Walk.md",
     "Research/Case studies/Second Ground architectural works/1. Oslo opera house.md",
@@ -263,7 +262,6 @@
     "Canvas export/media/images/pasted-image-20251219005135.png",
     "Canvas export/media/images/gemini_generated_image_hbccjnhbccjnhbcc.png",
     "copilot/memory",
-    "Excalidraw",
     "MEDIA/IMAGES/Pasted image 20251219020332.png",
     "MEDIA/IMAGES/IMAGES.canvas",
     "Canvas export/CANVAS OF IDEAS.canvas",

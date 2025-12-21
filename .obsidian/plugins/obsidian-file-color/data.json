@@ -1,0 +1,42 @@
+{
+  "cascadeColors": false,
+  "colorBackground": true,
+  "palette": [
+    {
+      "id": "qIuvzpIdVgWaLqDCmirWk",
+      "name": "Blue ",
+      "value": "#52b4ff"
+    },
+    {
+      "id": "FYEhGA5XGNitYzxi40Rom",
+      "name": "Red",
+      "value": "#fe2a2a"
+    },
+    {
+      "id": "dh5mNU7RFB0WWPZlnyfXy",
+      "name": "Green",
+      "value": "#52ff8b"
+    },
+    {
+      "id": "iUut0NSlSQseC0Dev5Ja4",
+      "name": "Green2",
+      "value": "#91df68"
+    },
+    {
+      "id": "VprpuY-GMHJVxRQ7L_P9W",
+      "name": "Yellow",
+      "value": "#f1ff2e"
+    },
+    {
+      "id": "fJoQ1gEHgUKY6f3COhvGg",
+      "name": "Important subfolders",
+      "value": "#b19881"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "Research/Case studies",
+      "color": "FYEhGA5XGNitYzxi40Rom"
+    }
+  ]
+}
