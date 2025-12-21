@@ -39,14 +39,10 @@
             "id": "39acc3c897491bfe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Thoughts/Cool structure.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cool structure"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -243,16 +239,23 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "c89686570795ced7",
+  "active": "39acc3c897491bfe",
   "lastOpenFiles": [
-    "Research/Untitled",
-    "Thoughts/Approach to make honors meaningfull.md",
     "Thoughts/Cool structure.md",
+    "Research/Modularity of the structure.md",
+    "Research/Connections/Connections.md",
+    "Research/Connections/Bolted connections.md",
+    "Research/Foundation/Foundation.md",
+    "Research/Connections/Manufacturing of custom connections.md",
+    "Research/Connections/Connection script in grasshopper.md",
+    "Research/Connections/Modular connections.md",
+    "Research/Connections/Reusable connections.md",
+    "Research/Connections",
+    "Thoughts/Approach to make honors meaningfull.md",
     "CANVAS OF IDEAS.canvas",
     "Research ideas.md",
     "Research/Second Ground architectural works/Second Ground architectural works.md",
     "Research/Research math papers (Black Maria)/Research math papers (Black Maria).md",
-    "Research/Modularity of the structure.md",
     "MEDIA/IMAGES/IMG-20-12-2025-182253640.png",
     "Notion/Meet 20 dec.md",
     "Research/Second Ground architectural works/4. The High line.md",
@@ -271,7 +274,6 @@
     "copilot/memory",
     "Excalidraw/Drawing 2025-12-19 23.33.37.excalidraw.md",
     "Excalidraw",
-    "Research/Foundation/Foundation.md",
     "MEDIA/IMAGES/IMAGES.base",
     "MEDIA/IMAGES/Pasted image 20251219020332.png",
     "erthg.md",
@@ -282,16 +284,10 @@
     "MEDIA/PDF/Books/Temporary Structures in Construction, Third Edition (Robert Ratay) (Z-Library).pdf",
     "MEDIA/PDF/Books/Temporary and Tactical Urbanism (Re)Assembling Urban Space (Quentin Stevens, Kim Dovey) (Z-Library).pdf",
     "MEDIA/PDF/Books/Temporary Demountable Structures (Institution of Structural Engineers) (Z-Library).pdf",
-    "Untitled 1.md",
     "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-100.jpeg",
     "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-70.jpeg",
     "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-43.jpeg",
     "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-40.jpeg",
-    "MEDIA/PDF/IMG-18-12-2025-235631148.pdf",
-    "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/History of Urbanism and Architecture Book.md",
-    "History of Urbanism and Architecture Book.md",
-    "Research/Gem-Stage tower (floor).md",
-    "copilot/copilot-conversations/Give_me_more_resources_I_on_this_topic@20251219_000620.md",
     "MEDIA/IMAGES/IMAGES.canvas",
     "Canvas export/CANVAS OF IDEAS.canvas",
     "Untitled.canvas"
