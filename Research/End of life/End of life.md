@@ -6,4 +6,4 @@ We can make packets that are demountable and hold vegetation. This limits us at 
 
 [[Materials]]
 
-If we decide on it, we could use lumber trunks (I highly doubt that we can find any in the material passports) both as a structure and a habitat for animals (hard to calculate and code comply trh)
+If we decide on it, we could use lumber trunks (I highly doubt that we can find any in the material passports) both as a structure and a habitat for animals (hard to calculate and code comply this)

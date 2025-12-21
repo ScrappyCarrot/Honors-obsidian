@@ -131,7 +131,7 @@
 		{"id":"e8b5c95629f57b61","type":"file","file":"Research/Foundation/Helical anchors foundation.md","subpath":"#**Conclusions **","x":-1450,"y":1696,"width":330,"height":244},
 		{"id":"53366ec4b447d535","type":"file","file":"Research/Foundation/Helical anchors foundation.md","subpath":"#**Advantages **","x":-1857,"y":1696,"width":377,"height":344},
 		{"id":"12c06e41bf809658","type":"file","file":"MEDIA/IMAGES/IMG-20-12-2025-182253640.png","x":-1450,"y":1956,"width":410,"height":231},
-		{"id":"d5dbce099680efa2","type":"file","file":"Research/Gem-Stage tower (floor).md","x":-3836,"y":449,"width":400,"height":400},
+		{"id":"d5dbce099680efa2","type":"file","file":"Research/Case studies/Gem-Stage tower (floor).md","x":-3836,"y":449,"width":400,"height":400},
 		{"id":"8e4778eba9da87f3","type":"file","file":"MEDIA/IMAGES/Pasted image 20251214213326.png","x":-4143,"y":471,"width":267,"height":356},
 		{
 			"id":"c26977429ee859ff",
@@ -248,7 +248,7 @@
 			"height":60,
 			"color":"3"
 		},
-		{"id":"3ff0892fdeaeb534","type":"file","file":"Research/Second Ground architectural works/Second Ground architectural works.md","x":465,"y":2620,"width":400,"height":400},
+		{"id":"3ff0892fdeaeb534","type":"file","file":"Research/Case studies/Second Ground architectural works/Second Ground architectural works.md","x":465,"y":2620,"width":400,"height":400},
 		{
 			"id":"73104da93a8c8935",
 			"type":"text",
@@ -259,9 +259,9 @@
 			"width":260,
 			"height":60
 		},
-		{"id":"056afe3cc20e693c","type":"file","file":"MEDIA/IMAGES/Pasted image 20251219005135.png","x":-165,"y":2880,"width":230,"height":230},
+		{"id":"056afe3cc20e693c","type":"file","file":"MEDIA/IMAGES/IMG-22-12-2025-004114090.png","x":-165,"y":2880,"width":230,"height":230},
 		{"id":"d2d8bfbc4ddcc772","type":"file","file":"MEDIA/IMAGES/Pasted image 20251219004012.png","x":-340,"y":2687,"width":137,"height":206},
-		{"id":"a47108cd5971202a","type":"file","file":"MEDIA/IMAGES/Pasted image 20251219003844.png","x":-120,"y":2580,"width":265,"height":147}
+		{"id":"a47108cd5971202a","type":"file","file":"MEDIA/IMAGES/IMG-22-12-2025-004114132.png","x":-120,"y":2580,"width":265,"height":147}
 	],
 	"edges":[
 		{"id":"f1153a809622ee9e","toFloating":false,"fromNode":"0a18e5d7148299a3","fromSide":"bottom","toNode":"67ebb59448249d05","toSide":"top"},
