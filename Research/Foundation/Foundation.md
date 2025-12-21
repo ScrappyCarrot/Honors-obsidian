@@ -1,9 +1,9 @@
 Tests have to be made in order to determine the fitness of the soil. As this will be a reusable structure, loading to the foundation has to take into account the weakest soil.
-![[IMG-20-12-2025-182253583.pdf#page=28&rect=44,170,538,552]]
+![[EUCODE-7-Geotechnical.pdf#page=28&rect=44,170,538,552]]
 
 The design and selection of a temporary foundation system must address three main areas: geotechnical challenges, structural loading, and regulatory compliance, particularly concerning environmental impacts.
 
-1. Geotechnical Challenges- further explanation on this can be found in [[IMG-20-12-2025-182253583.pdf]]
+1. Geotechnical Challenges- further explanation on this can be found in [[EUCODE-7-Geotechnical.pdf]]
 
 The Netherlands presents an extremely difficult environment for foundations, largely due to soft, compressible soil, predominantly peat and soft clay. This geotechnical vulnerability necessitates conservative and specialized solutions:
 
