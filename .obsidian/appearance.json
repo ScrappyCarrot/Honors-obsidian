@@ -4,5 +4,7 @@
   ],
   "cssTheme": "Minimal",
   "theme": "system",
-  "accentColor": "#875cff"
+  "accentColor": "#875cff",
+  "textFontFamily": "Source Code Pro",
+  "interfaceFontFamily": ""
 }
