@@ -13,3 +13,4 @@
 - [ ] KCAP wants to make the station have a second ground. We can incorporate some elements that would hint to this as the future of the development
 - [ ] [[Research math papers (Black Maria)|Research math papers (Black Maria)]] to understand modularity principle
 - [ ] Optimization of steel quantity vs grade
+- [ ] 

@@ -29,14 +29,14 @@
     },
     {
       "id": "fJoQ1gEHgUKY6f3COhvGg",
-      "name": "Important subfolders",
-      "value": "#b19881"
+      "name": "Case studies",
+      "value": "#a25d5d"
     }
   ],
   "fileColors": [
     {
       "path": "Research/Case studies",
-      "color": "FYEhGA5XGNitYzxi40Rom"
+      "color": "fJoQ1gEHgUKY6f3COhvGg"
     }
   ]
 }
