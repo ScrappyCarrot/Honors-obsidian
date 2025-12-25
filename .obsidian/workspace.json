@@ -11,10 +11,14 @@
             "id": "dbf060e3617d4609",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Research/Case studies/Second Ground architectural works/Second Ground architectural works.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Second Ground architectural works"
             }
           }
         ]
@@ -210,12 +214,15 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "dbf060e3617d4609",
+  "active": "c89686570795ced7",
   "lastOpenFiles": [
+    "Research/Case studies/Second Ground architectural works/3. Ewha womans university.md",
+    "Research/Case studies/Second Ground architectural works/Second Ground architectural works.md",
+    "Research/Case studies/Second Ground architectural works/2. TU Delft library.md",
+    "Research/Case studies/Second Ground architectural works/1. Oslo opera house.md",
     "MEDIA/IMAGES/IMAGES.base",
     "Research/Case studies/Second Ground architectural works/5. The Rotterdam Rooftop Walk.md",
     "MEDIA/IMAGES/IMG-23-12-2025-224831488.png",
-    "Research/Case studies/Second Ground architectural works/Second Ground architectural works.md",
     "MEDIA/IMAGES/IMG-23-12-2025-224701784.png",
     "MEDIA/IMAGES/IMG-23-12-2025-224652195.png",
     "MEDIA/IMAGES/IMG-23-12-2025-224627941.png",
@@ -243,7 +250,6 @@
     "MEDIA/EUROCODE/EUCODE-7-Geotechnical.pdf",
     "Research/End of life",
     "Thoughts/Green scaffolding.md",
-    "Research/Case studies/Second Ground architectural works/1. Oslo opera house.md",
     "Thoughts/Cool structure.md",
     "Research/Foundation/Foundation.md",
     "MEDIA/EUROCODE/EUCODE-9-Aluminium.pdf",
@@ -256,7 +262,6 @@
     "Notion/Meet 20 dec.md",
     "explain_to_me_the_plan_of_miletus@20251219_230114.md",
     "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/History of Urbanism and Architecture Book 1.md",
-    "excalibrain.md",
     "Canvas export/media/images/pasted-image-20251219003844.png",
     "MEDIA/IMAGES/IMAGES.canvas",
     "Canvas export/CANVAS OF IDEAS.canvas",
