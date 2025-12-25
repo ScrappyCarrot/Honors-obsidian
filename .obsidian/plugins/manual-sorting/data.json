@@ -1,0 +1,379 @@
+{
+  "customOrder": {
+    "/": {
+      "children": [
+        "copilot",
+        "MEDIA",
+        "Notion",
+        "Personal meeting notes",
+        "Research ideas.md",
+        "Research",
+        "Thoughts",
+        "CANVAS OF IDEAS.canvas",
+        "People d3d4d57434b882dfb0d8014512d331ec.csv",
+        "Meeting Notes 2c04d57434b8802d8e02cf55e60d64b6_all.csv",
+        "Meeting Notes 2c04d57434b8802d8e02cf55e60d64b6_all 1.csv"
+      ],
+      "sortOrder": "custom"
+    },
+    "copilot": {
+      "children": [
+        "copilot/copilot-conversations",
+        "copilot/copilot-custom-prompts",
+        "copilot/memory"
+      ],
+      "sortOrder": "custom"
+    },
+    "copilot/copilot-conversations": {
+      "children": [
+        "copilot/copilot-conversations/give_me_a_summary_of_this@20251219_234345.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "copilot/copilot-custom-prompts": {
+      "children": [
+        "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
+        "copilot/copilot-custom-prompts/Translate to Chinese.md",
+        "copilot/copilot-custom-prompts/Summarize.md",
+        "copilot/copilot-custom-prompts/Simplify.md",
+        "copilot/copilot-custom-prompts/Explain like I am 5.md",
+        "copilot/copilot-custom-prompts/Emojify.md",
+        "copilot/copilot-custom-prompts/Make shorter.md",
+        "copilot/copilot-custom-prompts/Make longer.md",
+        "copilot/copilot-custom-prompts/Generate table of contents.md",
+        "copilot/copilot-custom-prompts/Generate glossary.md",
+        "copilot/copilot-custom-prompts/Remove URLs.md",
+        "copilot/copilot-custom-prompts/Rewrite as tweet.md",
+        "copilot/copilot-custom-prompts/Rewrite as tweet thread.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "copilot/memory": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "MEDIA": {
+      "children": [
+        "MEDIA/EUROCODE",
+        "MEDIA/IMAGES",
+        "MEDIA/PDF",
+        "MEDIA/Site Clippings"
+      ],
+      "sortOrder": "custom"
+    },
+    "MEDIA/EUROCODE": {
+      "children": [
+        "MEDIA/EUROCODE/EUCODE-0-Design principles.pdf",
+        "MEDIA/EUROCODE/EUCODE-1-Loads.pdf",
+        "MEDIA/EUROCODE/EUCODE-2-Concrete.pdf",
+        "MEDIA/EUROCODE/EUCODE-3-Steel.pdf",
+        "MEDIA/EUROCODE/EUCODE-4-Composite.pdf",
+        "MEDIA/EUROCODE/EUCODE-5-Timber.pdf",
+        "MEDIA/EUROCODE/EUCODE-6-Masonry.pdf",
+        "MEDIA/EUROCODE/EUCODE-7-Geotechnical.pdf",
+        "MEDIA/EUROCODE/EUCODE-9-Aluminium.pdf"
+      ],
+      "sortOrder": "custom"
+    },
+    "MEDIA/IMAGES": {
+      "children": [
+        "MEDIA/IMAGES/IMG-14-12-2025-001219736.png",
+        "MEDIA/IMAGES/Pasted image 20251214023717.png",
+        "MEDIA/IMAGES/Pasted image 20251214023739.png",
+        "MEDIA/IMAGES/Pasted image 20251214023744.png",
+        "MEDIA/IMAGES/IMG-14-12-2025-190038353.png",
+        "MEDIA/IMAGES/IMG-14-12-2025-190038402.png",
+        "MEDIA/IMAGES/IMG-20-12-2025-182253640.png",
+        "MEDIA/IMAGES/IMAGES.base",
+        "MEDIA/IMAGES/Pasted image 20251214213326.png",
+        "MEDIA/IMAGES/Pasted image 20251214214706.png",
+        "MEDIA/IMAGES/Pasted image 20251214215500.png",
+        "MEDIA/IMAGES/IMG-15-12-2025-120418416.png",
+        "MEDIA/IMAGES/IMG-15-12-2025-120548680.png",
+        "MEDIA/IMAGES/IMG-15-12-2025-120629098.png",
+        "MEDIA/IMAGES/Gemini_Generated_Image_hbccjnhbccjnhbcc.png",
+        "MEDIA/IMAGES/IMG-22-12-2025-004113981.png",
+        "MEDIA/IMAGES/IMG-22-12-2025-004114132.png",
+        "MEDIA/IMAGES/IMG-22-12-2025-004114041.png",
+        "MEDIA/IMAGES/Pasted image 20251219004012.png",
+        "MEDIA/IMAGES/IMG-22-12-2025-004114184.png",
+        "MEDIA/IMAGES/IMG-22-12-2025-004114090.png",
+        "MEDIA/IMAGES/Pasted image 20251219020332.png",
+        "MEDIA/IMAGES/IMG-23-12-2025-224627941.png",
+        "MEDIA/IMAGES/IMG-23-12-2025-224701784.png",
+        "MEDIA/IMAGES/IMG-23-12-2025-224831488.png"
+      ],
+      "sortOrder": "custom"
+    },
+    "MEDIA/PDF": {
+      "children": [
+        "MEDIA/PDF/Books",
+        "MEDIA/PDF/besluit-bouwwerken-leefomgeving-tekst-bij-inwerkingtreding-1 (1).pdf",
+        "MEDIA/PDF/Circulaire_Gebiedsontwikkeling_Internationale_Knoop_XL_27052019_compressed_EN.pdf",
+        "MEDIA/PDF/nko-mmk-bijlage-4 - -ontwerpverantwoording-korte-lijst-oplossingsricht - -10-dec-2024+(1)_EN.pdf",
+        "MEDIA/PDF/Gem tower.pdf",
+        "MEDIA/PDF/IMG-20-12-2025-182253592.pdf",
+        "MEDIA/PDF/PDF.base",
+        "MEDIA/PDF/Determination of Safe Ballasts for Anchoring Event Tents by Finit.pdf",
+        "MEDIA/PDF/IMG-18-12-2025-235631148.pdf"
+      ],
+      "sortOrder": "custom"
+    },
+    "MEDIA/PDF/Books": {
+      "children": [
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1",
+        "MEDIA/PDF/Books/Temporary Demountable Structures (Institution of Structural Engineers) (Z-Library).pdf",
+        "MEDIA/PDF/Books/Temporary and Tactical Urbanism (Re)Assembling Urban Space (Quentin Stevens, Kim Dovey) (Z-Library).pdf",
+        "MEDIA/PDF/Books/Temporary Structures in Construction, Third Edition (Robert Ratay) (Z-Library).pdf",
+        "MEDIA/PDF/Books/Tactical urbanism short-term action for long-term change (Garcia, AnthonyLydon, Mike) (Z-Library).pdf"
+      ],
+      "sortOrder": "custom"
+    },
+    "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1": {
+      "children": [
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/History of Urbanism and Architecture Book 1.pdf",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/History of Urbanism and Architecture Book 1.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets": {
+      "children": [
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-0.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-1.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-2.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-3.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-4.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-5.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-6.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-7.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-8.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-9.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-10.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-11.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-12.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-13.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-14.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-15.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-16.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-17.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-18.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-19.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-20.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-21.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-22.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-23.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-24.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-25.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-26.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-27.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-28.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-29.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-30.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-31.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-32.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-33.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-34.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-35.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-36.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-37.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-38.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-39.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-40.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-41.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-42.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-43.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-44.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-45.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-46.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-47.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-48.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-49.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-50.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-51.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-52.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-53.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-54.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-55.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-56.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-57.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-58.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-59.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-60.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-61.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-62.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-63.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-64.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-65.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-66.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-67.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-68.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-69.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-70.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-71.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-72.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-73.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-74.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-75.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-76.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-77.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-78.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-79.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-80.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-81.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-82.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-83.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-84.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-85.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-86.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-87.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-88.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-89.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-90.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-91.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-92.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-93.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-94.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-95.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-96.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-97.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-98.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-99.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-100.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-101.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-102.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-103.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-104.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-105.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-106.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-107.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-108.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-109.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-110.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-111.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-112.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-113.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-114.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-115.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-116.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-117.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-118.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-119.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-120.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-121.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-122.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-123.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-124.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-125.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-126.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-127.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-128.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-129.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-130.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-131.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/History of Urbanism and Architecture Book 1_img-132.jpeg",
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets/assets.base"
+      ],
+      "sortOrder": "custom"
+    },
+    "MEDIA/Site Clippings": {
+      "children": [
+        "MEDIA/Site Clippings/Ballasted Foundations - No Concrete Required.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notion": {
+      "children": [
+        "Notion/Other people material",
+        "Notion/Meet 12dec.md",
+        "Notion/Meet 20 dec.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notion/Other people material": {
+      "children": [
+        "Notion/Other people material/Comparrative essay.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Personal meeting notes": {
+      "children": [
+        "Personal meeting notes/15-12-25 Presentation GMM.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Research": {
+      "children": [
+        "Research/Case studies",
+        "Research/Connections",
+        "Research/End of life",
+        "Research/Foundation",
+        "Research/Research math papers (Black Maria)",
+        "Research/Modularity of the structure.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Research/Case studies": {
+      "children": [
+        "Research/Case studies/Second Ground architectural works",
+        "Research/Case studies/Gem-Stage tower (floor).md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Research/Case studies/Second Ground architectural works": {
+      "children": [
+        "Research/Case studies/Second Ground architectural works/Second Ground architectural works.md",
+        "Research/Case studies/Second Ground architectural works/1. Oslo opera house.md",
+        "Research/Case studies/Second Ground architectural works/2. TU Delft library.md",
+        "Research/Case studies/Second Ground architectural works/3. Ewha womans university.md",
+        "Research/Case studies/Second Ground architectural works/4. The High line.md",
+        "Research/Case studies/Second Ground architectural works/5. The Rotterdam Rooftop Walk.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Research/Connections": {
+      "children": [
+        "Research/Connections/Connections.md",
+        "Research/Connections/Bolted connections.md",
+        "Research/Connections/Reusable connections.md",
+        "Research/Connections/Modular connections.md",
+        "Research/Connections/Connection script in grasshopper.md",
+        "Research/Connections/Manufacturing of custom connections.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Research/End of life": {
+      "children": [
+        "Research/End of life/End of life.md",
+        "Research/End of life/Soil and biomass.md",
+        "Research/End of life/Materials.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Research/Foundation": {
+      "children": [
+        "Research/Foundation/Foundation.md",
+        "Research/Foundation/Helical anchors foundation.md",
+        "Research/Foundation/Ballast Supported Foundations.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Research/Research math papers (Black Maria)": {
+      "children": [
+        "Research/Research math papers (Black Maria)/Research math papers (Black Maria).md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Thoughts": {
+      "children": [
+        "Thoughts/Approach to make honors meaningfull.md",
+        "Thoughts/Cool structure.md",
+        "Thoughts/Green scaffolding.md"
+      ],
+      "sortOrder": "custom"
+    }
+  },
+  "sortOrder": "custom",
+  "debugMode": false,
+  "newItemPlacement": "top"
+}

@@ -40,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse",
+                "sortOrder": "custom",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -211,7 +211,8 @@
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
-      "copilot:Open Copilot Chat": false
+      "copilot:Open Copilot Chat": false,
+      "custom-sort:Toggle custom sorting": false
     }
   },
   "active": "c89686570795ced7",

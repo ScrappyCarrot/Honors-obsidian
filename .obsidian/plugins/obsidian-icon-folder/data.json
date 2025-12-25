@@ -57,10 +57,6 @@
   },
   "Thoughts": "💭",
   "Personal meeting notes": "✍",
-  "Research ideas.md": {
-    "iconName": "CoTag",
-    "iconColor": "#476cff"
-  },
   "MEDIA/PDF/Books": {
     "iconName": "CoBook",
     "iconColor": "#c76bbf"
@@ -68,5 +64,9 @@
   "MEDIA/IMAGES": {
     "iconName": "LiImages",
     "iconColor": "#ff2e2e"
+  },
+  "Research ideas.md": {
+    "iconName": "CoTag",
+    "iconColor": "#476cff"
   }
 }
