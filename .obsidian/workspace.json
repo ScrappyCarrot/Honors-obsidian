@@ -11,14 +11,17 @@
             "id": "dbf060e3617d4609",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Research/Case studies/Second Ground architectural works/Second Ground architectural works.md",
-                "mode": "source",
-                "source": false
+                "file": "CANVAS OF IDEAS.canvas",
+                "viewState": {
+                  "x": -1739.7199789508131,
+                  "y": 2496.550339753247,
+                  "zoom": -1.535752238301379
+                }
               },
-              "icon": "lucide-file",
-              "title": "Second Ground architectural works"
+              "icon": "lucide-layout-dashboard",
+              "title": "CANVAS OF IDEAS"
             }
           }
         ]
@@ -211,14 +214,13 @@
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
-      "copilot:Open Copilot Chat": false,
-      "custom-sort:Toggle custom sorting": false
+      "copilot:Open Copilot Chat": false
     }
   },
-  "active": "c89686570795ced7",
+  "active": "dbf060e3617d4609",
   "lastOpenFiles": [
-    "Research/Case studies/Second Ground architectural works/3. Ewha womans university.md",
     "Research/Case studies/Second Ground architectural works/Second Ground architectural works.md",
+    "Research/Case studies/Second Ground architectural works/3. Ewha womans university.md",
     "Research/Case studies/Second Ground architectural works/2. TU Delft library.md",
     "Research/Case studies/Second Ground architectural works/1. Oslo opera house.md",
     "MEDIA/IMAGES/IMAGES.base",
