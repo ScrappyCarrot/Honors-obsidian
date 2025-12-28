@@ -2,6 +2,7 @@
   "customOrder": {
     "/": {
       "children": [
+        "Histories book summary.md",
         "copilot",
         "MEDIA",
         "Notion",

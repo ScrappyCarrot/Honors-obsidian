@@ -34,10 +34,55 @@
               },
               "icon": "lucide-file",
               "title": "Histories book summary"
-            }
+            },
+            "group": "3d851d505692adb9"
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "7f3d02eec4559b46",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a55937754cad823",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Histories book summary.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 2.3456518436551455,
+                  "close": false
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            },
+            "group": "3d851d505692adb9"
+          }
+        ]
       },
       {
         "id": "a1d17a92fd88481e",
@@ -249,8 +294,9 @@
   },
   "active": "ad85c3bd1f52ca1d",
   "lastOpenFiles": [
-    "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/History of Urbanism and Architecture Book 1.md",
     "Histories book summary.md",
+    "/CANVAS OF IDEAS.canvas",
+    "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/History of Urbanism and Architecture Book 1.md",
     "MEDIA/PDF/PDF.base",
     "CANVAS OF IDEAS.canvas",
     "Research/Case studies/Second Ground architectural works/Second Ground architectural works.md",
