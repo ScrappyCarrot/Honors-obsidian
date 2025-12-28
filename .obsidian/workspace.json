@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "history book summary",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -217,7 +218,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "dbf060e3617d4609",
+  "active": "7a2268e24aeea763",
   "lastOpenFiles": [
     "Research/Case studies/Second Ground architectural works/Second Ground architectural works.md",
     "Research/Case studies/Second Ground architectural works/3. Ewha womans university.md",
