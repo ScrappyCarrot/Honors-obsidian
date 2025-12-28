@@ -13,13 +13,73 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research ideas.md",
+                "file": "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/History of Urbanism and Architecture Book 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Research ideas"
+              "title": "History of Urbanism and Architecture Book 1"
+            },
+            "group": "02ad7f9dad666545"
+          },
+          {
+            "id": "ad85c3bd1f52ca1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Histories book summary.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Histories book summary"
             }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "a1d17a92fd88481e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c743ac4a0e257e50",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/History of Urbanism and Architecture Book 1.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            },
+            "group": "02ad7f9dad666545"
           }
         ]
       }
@@ -36,7 +96,7 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabetical",
+            "sortOrder": "custom",
             "autoReveal": false
           },
           "icon": "lucide-folder-closed",
@@ -169,6 +229,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "copilot:Open Copilot Chat": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -186,9 +247,13 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "7fba5d3f1c54582a",
+  "active": "ad85c3bd1f52ca1d",
   "lastOpenFiles": [
+    "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/History of Urbanism and Architecture Book 1.md",
+    "Histories book summary.md",
+    "MEDIA/PDF/PDF.base",
     "CANVAS OF IDEAS.canvas",
+    "Research/Case studies/Second Ground architectural works/Second Ground architectural works.md",
     "Research ideas.md",
     "Thoughts/Approach to make honors meaningfull.md",
     "Canvas export/media/images/img-15-12-2025-120548680.png",
@@ -197,7 +262,6 @@
     "/Research ideas.md",
     "Thoughts",
     "/Thoughts",
-    "Untitled.md",
     "/Untitled.md",
     "Test 2 phone.md",
     "test 2 PC.md",

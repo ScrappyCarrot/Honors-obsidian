@@ -19,8 +19,7 @@
     "copilot": {
       "children": [
         "copilot/copilot-conversations",
-        "copilot/copilot-custom-prompts",
-        "copilot/memory"
+        "copilot/copilot-custom-prompts"
       ],
       "sortOrder": "custom"
     },
@@ -46,10 +45,6 @@
         "copilot/copilot-custom-prompts/Rewrite as tweet.md",
         "copilot/copilot-custom-prompts/Rewrite as tweet thread.md"
       ],
-      "sortOrder": "custom"
-    },
-    "copilot/memory": {
-      "children": [],
       "sortOrder": "custom"
     },
     "MEDIA": {
