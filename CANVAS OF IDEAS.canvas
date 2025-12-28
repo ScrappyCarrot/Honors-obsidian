@@ -20,7 +20,7 @@
 			"width":250,
 			"height":50
 		},
-		{"id":"8f6cfe3883edbeea","type":"text","text":"How does the phasing impact the flora and fauna around the plots. \nHow are the neighboring residents affected?\nHow can we limit the inconveniences they face?","x":-1173,"y":660,"width":250,"height":239},
+		{"id":"8f6cfe3883edbeea","type":"text","text":"How does the phasing impact the flora and fauna around the plots. \nHow are the neighboring residents affected?\nHow can we limit the inconveniences they face?","x":-1173,"y":660,"width":250,"height":260},
 		{
 			"id":"67ebb59448249d05",
 			"type":"text",
@@ -47,11 +47,11 @@
 			"text":"Structural & Architectural imposed limits",
 			"styleAttributes":{"textAlign":"center"},
 			"x":-1700,
-			"y":340,
+			"y":300,
 			"width":250,
-			"height":50
+			"height":90
 		},
-		{"id":"f173656001d9f945","type":"text","text":"- Reusability of the materials we have. \n- Crane positioning and how we work around that.\n- Leaving paths for construction vehicles ( we can't impede the construction works)\n- What are the regulations on going above a construction site","x":-823,"y":660,"width":337,"height":239},
+		{"id":"f173656001d9f945","type":"text","text":"- Reusability of the materials we have. \n- Crane positioning and how we work around that.\n- Leaving paths for construction vehicles ( we can't impede the construction works)\n- What are the regulations on going above a construction site","x":-823,"y":660,"width":337,"height":320},
 		{"id":"1bcdf2ae779c307b","type":"text","text":"How does the phasing impact the traffic flow around the area (Maria has more insight on this)","x":-1500,"y":660,"width":250,"height":239},
 		{
 			"id":"8089bf47173964af",
@@ -128,9 +128,7 @@
 			"width":260,
 			"height":60
 		},
-		{"id":"e8b5c95629f57b61","type":"file","file":"Research/Foundation/Helical anchors foundation.md","subpath":"#**Conclusions **","x":-1450,"y":1696,"width":330,"height":244},
 		{"id":"53366ec4b447d535","type":"file","file":"Research/Foundation/Helical anchors foundation.md","subpath":"#**Advantages **","x":-1857,"y":1696,"width":377,"height":344},
-		{"id":"12c06e41bf809658","type":"file","file":"MEDIA/IMAGES/IMG-20-12-2025-182253640.png","x":-1450,"y":1956,"width":410,"height":231},
 		{"id":"d5dbce099680efa2","type":"file","file":"Research/Case studies/Gem-Stage tower (floor).md","x":-3836,"y":449,"width":400,"height":400},
 		{"id":"8e4778eba9da87f3","type":"file","file":"MEDIA/IMAGES/Pasted image 20251214213326.png","x":-4143,"y":471,"width":267,"height":356},
 		{
@@ -155,29 +153,14 @@
 		},
 		{"id":"14c14346df1849c0","type":"file","file":"MEDIA/IMAGES/Pasted image 20251214214706.png","x":-4143,"y":880,"width":267,"height":400},
 		{
-			"id":"cc052143674beb71",
-			"type":"text",
-			"text":"1. Regulatory Context and Classification\n\nThe structure's operation within the area covered by the Eindhoven Internationale **Knoop XL** project requires adherence to the **Environment Buildings Decree (Bbl)**, particularly concerning temporary status and relocation.\n\nA. Temporary Structure Classification\n\nA \"temporary structure\" is defined as a structure with a maintenance period of **no more than 15 years** at the same location, making your 3-year plan compliant with this definition.\n\n• **General Rules:** The rules of **Chapter 3 (Existing Structures)** generally apply to the construction of a temporary structure, unless otherwise specified in Sections 4.2 to 4.7 (New Constructions),. The underlying assumption for structural and health requirements is that satisfying the rules for existing structures (Sections 3.2 to 3.7) is sufficient.\n\n• **Specific Requirements (Chapter 4):** Key rules from Chapter 4 that specifically apply to temporary structures include provisions related to:\n\n    ◦ **Escape Routes and Fire Assistance:** Articles 4.65 to 4.71 (course of escape routes) and Articles 4.84 and 4.85 (fire brigade lift/aid post) apply.\n\n    ◦ **Ventilation and Flue Gas:** The requirements for ventilation/flushing facility capacity (Articles 4.131 and 4.132) and rules regarding flue gas discharge/combustion air supply (Articles 4.135 to 4.141) apply.\n\n    ◦ **Sustainability (Thermal):** Articles 4.152 (thermal resistance), 4.153 (heat transfer coefficient), and 4.154 (air volume flow) apply, generally setting the minimum requirements at values specified in Table 4.148B,.\n\nB. Relocation Regulations\n\nThe relocation of a temporary structure is considered the displacement of an existing structure,.\n\n• **Rules for Displacement:** When relocating an existing structure in an **unchanged composition**, the structure must comply with the rules of **Chapter 3 (Existing Structures)**,. For a temporary structure, this rule remains applicable after relocation,.",
-			"styleAttributes":{
-				"shape":null,
-				"border":"dashed",
-				"textAlign":null
-			},
-			"x":-2600,
-			"y":-980,
-			"width":783,
-			"height":920,
-			"color":"6"
-		},
-		{
 			"id":"a46aa6c3804c0154",
 			"type":"text",
 			"text":"2. Structural and Geotechnical Requirements\n\nThe structure's design must comply with the general design principles found in the Eurocodes, which inform the Bbl regulations.\n\nA. Structural Safety and Load Combinations\n\nAll structures must be designed to withstand all forces during use and execution, and to prevent **progressive collapse** (disproportionate damage in the event of an accident),,.\n\n• **Verification Basis:** Verification of the ultimate limit state (ULS) is based on **Eurocode (EN 1990)**,,,,.\n\n• **Load Combinations:** Structural non-failure verification involves using **fundamental load combinations** (normal use conditions),, and **exceptional load combinations** (e.g., resulting from fire, impact, or explosion),,.\n\nB. Optimal Foundations (Geotechnical Requirements)\n\nWhile the sources do not specify the single \"optimal\" foundation type (which depends on local soil conditions and logistics), they mandate the methodology for selecting suitable foundations and verifying their performance.\n\n• **Geotechnical Design:** Design must account for geotechnical aspects (soil, rock, groundwater) in accordance with **Eurocode 7 (EN 1997)**,. Geotechnical investigations are required to establish the ground profile and strength/deformation properties.\n\n• **Investigation Depth:** The investigation depth must extend to all strata that will affect the project. For piles, this depth is typically down to a level **below the lowest point of the pile base**,.\n\n• **Bearing Resistance and Settlement:** The bearing resistance and settlement of spread foundations may be derived using:\n\n    ◦ **Semi-empirical or analytical methods** from Cone Penetration Test (CPT) results.\n\n    ◦ **Standard Penetration Test (SPT)** or **Dynamic Probing (DP)** results in coarse soil, provided local experience or reliable correlations are used,",
 			"styleAttributes":{"border":"dashed"},
 			"x":-1740,
-			"y":-980,
+			"y":-1120,
 			"width":783,
-			"height":920,
+			"height":1060,
 			"color":"6"
 		},
 		{
@@ -190,7 +173,7 @@
 			"width":320,
 			"height":60
 		},
-		{"id":"5d394b60821dfe4f","type":"file","file":"Research/Foundation/Ballast Supported Foundations.md","x":-3243,"y":1866,"width":480,"height":780},
+		{"id":"5d394b60821dfe4f","type":"file","file":"Research/Foundation/Ballast Supported Foundations.md","x":-3243,"y":1866,"width":480,"height":1054},
 		{
 			"id":"07dbd45a660f8ebd",
 			"type":"text",
@@ -199,7 +182,7 @@
 			"x":-3923,
 			"y":2187,
 			"width":287,
-			"height":120
+			"height":133
 		},
 		{"id":"053192fc1e3127a2","type":"file","file":"MEDIA/IMAGES/IMG-15-12-2025-120629098.png","x":-3703,"y":2366,"width":300,"height":400},
 		{"id":"760916fcfdd801e2","type":"file","file":"MEDIA/IMAGES/IMG-15-12-2025-120548680.png","x":-2723,"y":2250,"width":400,"height":396},
@@ -235,7 +218,7 @@
 			"x":-3580,
 			"y":2000,
 			"width":260,
-			"height":150
+			"height":160
 		},
 		{
 			"id":"c31fc334dc63ff3d",
@@ -248,7 +231,7 @@
 			"height":60,
 			"color":"3"
 		},
-		{"id":"3ff0892fdeaeb534","type":"file","file":"Research/Case studies/Second Ground architectural works/Second Ground architectural works.md","x":465,"y":2620,"width":400,"height":400},
+		{"id":"3ff0892fdeaeb534","type":"file","file":"Research/Case studies/Second Ground architectural works/Second Ground architectural works.md","x":465,"y":2620,"width":400,"height":300},
 		{
 			"id":"73104da93a8c8935",
 			"type":"text",
@@ -261,7 +244,24 @@
 		},
 		{"id":"056afe3cc20e693c","type":"file","file":"MEDIA/IMAGES/IMG-22-12-2025-004114090.png","x":-165,"y":2880,"width":230,"height":230},
 		{"id":"d2d8bfbc4ddcc772","type":"file","file":"MEDIA/IMAGES/Pasted image 20251219004012.png","x":-340,"y":2687,"width":137,"height":206},
-		{"id":"a47108cd5971202a","type":"file","file":"MEDIA/IMAGES/IMG-22-12-2025-004114132.png","x":-120,"y":2580,"width":265,"height":147}
+		{"id":"a47108cd5971202a","type":"file","file":"MEDIA/IMAGES/IMG-22-12-2025-004114132.png","x":-120,"y":2580,"width":265,"height":147},
+		{
+			"id":"cc052143674beb71",
+			"type":"text",
+			"text":"1. Regulatory Context and Classification\n\nThe structure's operation within the area covered by the Eindhoven Internationale **Knoop XL** project requires adherence to the **Environment Buildings Decree (Bbl)**, particularly concerning temporary status and relocation.\n\nA. Temporary Structure Classification\n\nA \"temporary structure\" is defined as a structure with a maintenance period of **no more than 15 years** at the same location, making your 3-year plan compliant with this definition.\n\n• **General Rules:** The rules of **Chapter 3 (Existing Structures)** generally apply to the construction of a temporary structure, unless otherwise specified in Sections 4.2 to 4.7 (New Constructions),. The underlying assumption for structural and health requirements is that satisfying the rules for existing structures (Sections 3.2 to 3.7) is sufficient.\n\n• **Specific Requirements (Chapter 4):** Key rules from Chapter 4 that specifically apply to temporary structures include provisions related to:\n\n    ◦ **Escape Routes and Fire Assistance:** Articles 4.65 to 4.71 (course of escape routes) and Articles 4.84 and 4.85 (fire brigade lift/aid post) apply.\n\n    ◦ **Ventilation and Flue Gas:** The requirements for ventilation/flushing facility capacity (Articles 4.131 and 4.132) and rules regarding flue gas discharge/combustion air supply (Articles 4.135 to 4.141) apply.\n\n    ◦ **Sustainability (Thermal):** Articles 4.152 (thermal resistance), 4.153 (heat transfer coefficient), and 4.154 (air volume flow) apply, generally setting the minimum requirements at values specified in Table 4.148B,.\n\nB. Relocation Regulations\n\nThe relocation of a temporary structure is considered the displacement of an existing structure,.\n\n• **Rules for Displacement:** When relocating an existing structure in an **unchanged composition**, the structure must comply with the rules of **Chapter 3 (Existing Structures)**,. For a temporary structure, this rule remains applicable after relocation,.",
+			"styleAttributes":{
+				"shape":null,
+				"border":"dashed",
+				"textAlign":null
+			},
+			"x":-2600,
+			"y":-1120,
+			"width":783,
+			"height":1060,
+			"color":"6"
+		},
+		{"id":"e8b5c95629f57b61","type":"file","file":"Research/Foundation/Helical anchors foundation.md","subpath":"#**Conclusions **","x":-1450,"y":1696,"width":330,"height":280},
+		{"id":"12c06e41bf809658","type":"file","file":"MEDIA/IMAGES/IMG-20-12-2025-182253640.png","x":-1450,"y":2020,"width":410,"height":231}
 	],
 	"edges":[
 		{"id":"f1153a809622ee9e","toFloating":false,"fromNode":"0a18e5d7148299a3","fromSide":"bottom","toNode":"67ebb59448249d05","toSide":"top"},
