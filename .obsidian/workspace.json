@@ -11,17 +11,14 @@
             "id": "dbf060e3617d4609",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "CANVAS OF IDEAS.canvas",
-                "viewState": {
-                  "x": -1739.7199789508131,
-                  "y": 2496.550339753247,
-                  "zoom": -1.535752238301379
-                }
+                "file": "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/Histories book summary.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "CANVAS OF IDEAS"
+              "icon": "lucide-file",
+              "title": "Histories book summary"
             }
           }
         ]
@@ -56,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "history book summary",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -218,8 +214,10 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "7a2268e24aeea763",
+  "active": "dbf060e3617d4609",
   "lastOpenFiles": [
+    "CANVAS OF IDEAS.canvas",
+    "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/Histories book summary.md",
     "Research/Case studies/Second Ground architectural works/Second Ground architectural works.md",
     "Research/Case studies/Second Ground architectural works/3. Ewha womans university.md",
     "Research/Case studies/Second Ground architectural works/2. TU Delft library.md",
@@ -260,12 +258,9 @@
     "Thoughts/Approach to make honors meaningfull.md",
     "Research/Connections/Connection script in grasshopper.md",
     "Research/Connections/Modular connections.md",
-    "CANVAS OF IDEAS.canvas",
     "Research/Research math papers (Black Maria)/Research math papers (Black Maria).md",
     "MEDIA/IMAGES/IMG-20-12-2025-182253640.png",
     "Notion/Meet 20 dec.md",
-    "explain_to_me_the_plan_of_miletus@20251219_230114.md",
-    "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/History of Urbanism and Architecture Book 1.md",
     "Canvas export/media/images/pasted-image-20251219003844.png",
     "MEDIA/IMAGES/IMAGES.canvas",
     "Canvas export/CANVAS OF IDEAS.canvas",

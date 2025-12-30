@@ -2,7 +2,6 @@
   "customOrder": {
     "/": {
       "children": [
-        "Histories book summary.md",
         "copilot",
         "MEDIA",
         "Notion",
@@ -19,6 +18,7 @@
     },
     "copilot": {
       "children": [
+        "copilot/memory",
         "copilot/copilot-conversations",
         "copilot/copilot-custom-prompts"
       ],
@@ -46,6 +46,10 @@
         "copilot/copilot-custom-prompts/Rewrite as tweet.md",
         "copilot/copilot-custom-prompts/Rewrite as tweet thread.md"
       ],
+      "sortOrder": "custom"
+    },
+    "copilot/memory": {
+      "children": [],
       "sortOrder": "custom"
     },
     "MEDIA": {
@@ -127,6 +131,7 @@
     },
     "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1": {
       "children": [
+        "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/Histories book summary.md",
         "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/assets",
         "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/History of Urbanism and Architecture Book 1.pdf",
         "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/History of Urbanism and Architecture Book 1.md"
