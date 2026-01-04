@@ -11,10 +11,16 @@
             "id": "dbf060e3617d4609",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "pdf",
+              "state": {
+                "file": "MEDIA/EUROCODE/EUCODE-1-Loads.pdf",
+                "page": 31,
+                "left": -11,
+                "top": 534,
+                "zoom": 1.465966386554622
+              },
+              "icon": "lucide-file-text",
+              "title": "EUCODE-1-Loads"
             }
           }
         ]
