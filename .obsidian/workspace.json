@@ -13,14 +13,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "MEDIA/EUROCODE/EUCODE-1-Loads/EUCODE-1-Loads.pdf",
-                "page": 29,
+                "file": "MEDIA/EUROCODE/EUCODE-1-Loads/en.1991.1.6.2005.pdf",
+                "page": 1,
                 "left": -11,
-                "top": 624,
+                "top": 558,
                 "zoom": 1.465966386554622
               },
               "icon": "lucide-file-text",
-              "title": "EUCODE-1-Loads"
+              "title": "en.1991.1.6.2005"
             }
           }
         ]
@@ -216,11 +216,15 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "c89686570795ced7",
+  "active": "dbf060e3617d4609",
   "lastOpenFiles": [
-    "MEDIA/EUROCODE/EUCODE-1-Loads",
-    "MEDIA/EUROCODE/EUCODE-1-Loads/en.1991.1.4.pdf",
+    "MEDIA/EUROCODE/EUCODE-1-Loads/en.1991.1.4.2005.pdf",
+    "MEDIA/EUROCODE/EUCODE-1-Loads/en.1991.1.2.2002.pdf",
     "MEDIA/EUROCODE/EUCODE-1-Loads/EUCODE-1-Loads.pdf",
+    "MEDIA/EUROCODE/EUCODE-1-Loads/en.1991.1.6.2005.pdf",
+    "MEDIA/EUROCODE/EUCODE-1-Loads/en.1991.1.5.2003.pdf",
+    "MEDIA/EUROCODE/EUCODE-1-Loads/en.1991.1.3.2003.pdf",
+    "MEDIA/EUROCODE/EUCODE-1-Loads",
     "CANVAS OF IDEAS.canvas",
     "Research/Case studies/Gem-Stage tower (floor).md",
     "Research/Research math papers (Black Maria)/Research math papers (Black Maria).md",
@@ -245,10 +249,6 @@
     "MEDIA/IMAGES/IMG-23-12-2025-224627941.png",
     "Research/Modularity of the structure.md",
     "Research/End of life/End of life.md",
-    "MEDIA/PDF/IMG-18-12-2025-235631148.pdf",
-    "MEDIA/PDF/Gem tower.pdf",
-    "MEDIA/PDF/IMG-20-12-2025-182253592.pdf",
-    "MEDIA/PDF/PDF.base",
     "MEDIA/IMAGES/IMG-22-12-2025-004113981.png",
     "MEDIA/IMAGES/IMG-22-12-2025-004114041.png",
     "MEDIA/IMAGES/IMG-22-12-2025-004114090.png",
