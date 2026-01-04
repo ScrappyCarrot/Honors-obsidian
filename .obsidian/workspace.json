@@ -13,14 +13,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "MEDIA/EUROCODE/EUCODE-1-Loads.pdf",
-                "page": 31,
+                "file": "MEDIA/EUROCODE/en.1991.1.4.2005.pdf",
+                "page": 1,
                 "left": -11,
-                "top": 534,
+                "top": 141,
                 "zoom": 1.465966386554622
               },
               "icon": "lucide-file-text",
-              "title": "EUCODE-1-Loads"
+              "title": "en.1991.1.4.2005"
             }
           }
         ]
@@ -216,9 +216,10 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "dbf060e3617d4609",
+  "active": "c89686570795ced7",
   "lastOpenFiles": [
     "MEDIA/EUROCODE/EUCODE-1-Loads.pdf",
+    "MEDIA/EUROCODE/en.1991.1.4.2005.pdf",
     "CANVAS OF IDEAS.canvas",
     "Research/Case studies/Gem-Stage tower (floor).md",
     "Research/Research math papers (Black Maria)/Research math papers (Black Maria).md",
