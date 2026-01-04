@@ -64,7 +64,7 @@
     "MEDIA/EUROCODE": {
       "children": [
         "MEDIA/EUROCODE/EUCODE-0-Design principles.pdf",
-        "MEDIA/EUROCODE/EUCODE-1-Loads.pdf",
+        "MEDIA/EUROCODE/EUCODE-1-Loads",
         "MEDIA/EUROCODE/EUCODE-2-Concrete.pdf",
         "MEDIA/EUROCODE/EUCODE-3-Steel.pdf",
         "MEDIA/EUROCODE/EUCODE-4-Composite.pdf",
@@ -72,6 +72,13 @@
         "MEDIA/EUROCODE/EUCODE-6-Masonry.pdf",
         "MEDIA/EUROCODE/EUCODE-7-Geotechnical.pdf",
         "MEDIA/EUROCODE/EUCODE-9-Aluminium.pdf"
+      ],
+      "sortOrder": "custom"
+    },
+    "MEDIA/EUROCODE/EUCODE-1-Loads": {
+      "children": [
+        "MEDIA/EUROCODE/EUCODE-1-Loads/EUCODE-1-Loads.pdf",
+        "MEDIA/EUROCODE/EUCODE-1-Loads/en.1991.1.4.pdf"
       ],
       "sortOrder": "custom"
     },

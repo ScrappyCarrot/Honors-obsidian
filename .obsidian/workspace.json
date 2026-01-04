@@ -13,14 +13,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "MEDIA/EUROCODE/en.1991.1.4.2005.pdf",
-                "page": 1,
+                "file": "MEDIA/EUROCODE/EUCODE-1-Loads/EUCODE-1-Loads.pdf",
+                "page": 29,
                 "left": -11,
-                "top": 141,
+                "top": 624,
                 "zoom": 1.465966386554622
               },
               "icon": "lucide-file-text",
-              "title": "en.1991.1.4.2005"
+              "title": "EUCODE-1-Loads"
             }
           }
         ]
@@ -218,8 +218,9 @@
   },
   "active": "c89686570795ced7",
   "lastOpenFiles": [
-    "MEDIA/EUROCODE/EUCODE-1-Loads.pdf",
-    "MEDIA/EUROCODE/en.1991.1.4.2005.pdf",
+    "MEDIA/EUROCODE/EUCODE-1-Loads",
+    "MEDIA/EUROCODE/EUCODE-1-Loads/en.1991.1.4.pdf",
+    "MEDIA/EUROCODE/EUCODE-1-Loads/EUCODE-1-Loads.pdf",
     "CANVAS OF IDEAS.canvas",
     "Research/Case studies/Gem-Stage tower (floor).md",
     "Research/Research math papers (Black Maria)/Research math papers (Black Maria).md",
@@ -252,7 +253,6 @@
     "MEDIA/IMAGES/IMG-22-12-2025-004114041.png",
     "MEDIA/IMAGES/IMG-22-12-2025-004114090.png",
     "MEDIA/IMAGES/IMG-22-12-2025-004114132.png",
-    "Untitled",
     "Research/Connections/Manufacturing of custom connections.md",
     "Research/Connections/Reusable connections.md",
     "Research/Connections/Bolted connections.md",
