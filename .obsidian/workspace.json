@@ -11,17 +11,16 @@
             "id": "dbf060e3617d4609",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "pdf",
               "state": {
-                "file": "CANVAS OF IDEAS.canvas",
-                "viewState": {
-                  "x": 449.5551676432294,
-                  "y": 605.6654947916668,
-                  "zoom": -3.126532405928932
-                }
+                "file": "MEDIA/EUROCODE/EUCODE-1-Loads.pdf",
+                "page": 1,
+                "left": -11,
+                "top": 584,
+                "zoom": 1.465966386554622
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "CANVAS OF IDEAS"
+              "icon": "lucide-file-text",
+              "title": "EUCODE-1-Loads"
             }
           }
         ]
@@ -219,6 +218,7 @@
   },
   "active": "dbf060e3617d4609",
   "lastOpenFiles": [
+    "CANVAS OF IDEAS.canvas",
     "Research/Case studies/Gem-Stage tower (floor).md",
     "Research/Research math papers (Black Maria)/Research math papers (Black Maria).md",
     "Research/Connections/Connections.md",
@@ -233,7 +233,6 @@
     "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/History of Urbanism and Architecture Book 1.md",
     "MEDIA/EUROCODE/EUCODE-1-Loads.pdf",
     "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/Histories book summary.md",
-    "CANVAS OF IDEAS.canvas",
     "Research/Case studies/Second Ground architectural works/3. Ewha womans university.md",
     "Research/Case studies/Second Ground architectural works/2. TU Delft library.md",
     "Research/Case studies/Second Ground architectural works/1. Oslo opera house.md",
@@ -263,7 +262,6 @@
     "Research/Foundation/Foundation.md",
     "Thoughts/Approach to make honors meaningfull.md",
     "Research/Connections/Connection script in grasshopper.md",
-    "Research/Connections/Modular connections.md",
     "MEDIA/IMAGES/IMG-20-12-2025-182253640.png",
     "Canvas export/media/images/pasted-image-20251219003844.png",
     "MEDIA/IMAGES/IMAGES.canvas",
