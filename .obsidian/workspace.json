@@ -11,16 +11,10 @@
             "id": "dbf060e3617d4609",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "MEDIA/EUROCODE/EUCODE-1-Loads.pdf",
-                "page": 1,
-                "left": -11,
-                "top": 584,
-                "zoom": 1.465966386554622
-              },
-              "icon": "lucide-file-text",
-              "title": "EUCODE-1-Loads"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -218,6 +212,7 @@
   },
   "active": "dbf060e3617d4609",
   "lastOpenFiles": [
+    "MEDIA/EUROCODE/EUCODE-1-Loads.pdf",
     "CANVAS OF IDEAS.canvas",
     "Research/Case studies/Gem-Stage tower (floor).md",
     "Research/Research math papers (Black Maria)/Research math papers (Black Maria).md",
@@ -231,7 +226,6 @@
     "MEDIA/PDF/Books/Temporary and Tactical Urbanism (Re)Assembling Urban Space (Quentin Stevens, Kim Dovey) (Z-Library).pdf",
     "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/History of Urbanism and Architecture Book 1.pdf",
     "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/History of Urbanism and Architecture Book 1.md",
-    "MEDIA/EUROCODE/EUCODE-1-Loads.pdf",
     "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/Histories book summary.md",
     "Research/Case studies/Second Ground architectural works/3. Ewha womans university.md",
     "Research/Case studies/Second Ground architectural works/2. TU Delft library.md",
