@@ -11,16 +11,14 @@
             "id": "dbf060e3617d4609",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "MEDIA/EUROCODE/EUCODE-9-Aluminium.pdf",
-                "page": 1,
-                "left": -11,
-                "top": 842,
-                "zoom": 1.465966386554622
+                "file": "Research/Modularity of the structure.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "EUCODE-9-Aluminium"
+              "icon": "lucide-file",
+              "title": "Modularity of the structure"
             }
           }
         ]
@@ -218,6 +216,14 @@
   },
   "active": "dbf060e3617d4609",
   "lastOpenFiles": [
+    "Research/Research math papers (Black Maria)/Research math papers (Black Maria).md",
+    "Research/Foundation/Foundation.md",
+    "Research/End of life/End of life.md",
+    "Research/Connections/Connections.md",
+    "Research/Case studies/Gem-Stage tower (floor).md",
+    "Research/Case studies/Second Ground architectural works/Second Ground architectural works.md",
+    "CANVAS OF IDEAS.canvas",
+    "MEDIA/EUROCODE/EUCODE-9-Aluminium.pdf",
     "MEDIA/EUROCODE/EUCODE-6-Masonry.pdf",
     "MEDIA/EUROCODE/EUCODE-1-Loads/en.1991.1.6.2005.pdf",
     "MEDIA/EUROCODE/EUCODE-1-Loads/en.1991.1.4.2005.pdf",
@@ -226,18 +232,11 @@
     "MEDIA/EUROCODE/EUCODE-1-Loads/en.1991.1.5.2003.pdf",
     "MEDIA/EUROCODE/EUCODE-1-Loads/en.1991.1.3.2003.pdf",
     "MEDIA/EUROCODE/EUCODE-1-Loads",
-    "CANVAS OF IDEAS.canvas",
-    "Research/Case studies/Gem-Stage tower (floor).md",
-    "Research/Research math papers (Black Maria)/Research math papers (Black Maria).md",
-    "Research/Connections/Connections.md",
     "Research/Case studies/Second Ground architectural works/5. The Rotterdam Rooftop Walk.md",
     "Research/Case studies/Second Ground architectural works/4. The High line.md",
-    "Research/Case studies/Second Ground architectural works/Second Ground architectural works.md",
     "Research ideas.md",
     "Notion/Meet 12dec.md",
     "MEDIA/PDF/Books/Tactical urbanism short-term action for long-term change (Garcia, AnthonyLydon, Mike) (Z-Library).pdf",
-    "MEDIA/PDF/Books/Temporary and Tactical Urbanism (Re)Assembling Urban Space (Quentin Stevens, Kim Dovey) (Z-Library).pdf",
-    "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/History of Urbanism and Architecture Book 1.pdf",
     "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/History of Urbanism and Architecture Book 1.md",
     "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/Histories book summary.md",
     "Research/Case studies/Second Ground architectural works/3. Ewha womans university.md",
@@ -248,7 +247,6 @@
     "MEDIA/IMAGES/IMG-23-12-2025-224652195.png",
     "MEDIA/IMAGES/IMG-23-12-2025-224627941.png",
     "Research/Modularity of the structure.md",
-    "Research/End of life/End of life.md",
     "MEDIA/IMAGES/IMG-22-12-2025-004113981.png",
     "MEDIA/IMAGES/IMG-22-12-2025-004114041.png",
     "MEDIA/IMAGES/IMG-22-12-2025-004114090.png",
@@ -260,7 +258,6 @@
     "Research/End of life/Soil and biomass.md",
     "Thoughts/Green scaffolding.md",
     "Thoughts/Cool structure.md",
-    "Research/Foundation/Foundation.md",
     "Thoughts/Approach to make honors meaningfull.md",
     "Research/Connections/Connection script in grasshopper.md",
     "MEDIA/IMAGES/IMG-20-12-2025-182253640.png",
