@@ -11,14 +11,16 @@
             "id": "dbf060e3617d4609",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Research/Modularity of the structure.md",
-                "mode": "source",
-                "source": false
+                "file": "MEDIA/EUROCODE/EUCODE-1-Loads/en.1991.1.4.2005.pdf",
+                "page": 71,
+                "left": -9,
+                "top": 468,
+                "zoom": 1.8579831932773112
               },
-              "icon": "lucide-file",
-              "title": "Modularity of the structure"
+              "icon": "lucide-file-text",
+              "title": "en.1991.1.4.2005"
             }
           }
         ]
@@ -216,6 +218,7 @@
   },
   "active": "dbf060e3617d4609",
   "lastOpenFiles": [
+    "Research/Modularity of the structure.md",
     "Research/Research math papers (Black Maria)/Research math papers (Black Maria).md",
     "Research/Foundation/Foundation.md",
     "Research/End of life/End of life.md",
@@ -246,7 +249,6 @@
     "MEDIA/IMAGES/IMG-23-12-2025-224701784.png",
     "MEDIA/IMAGES/IMG-23-12-2025-224652195.png",
     "MEDIA/IMAGES/IMG-23-12-2025-224627941.png",
-    "Research/Modularity of the structure.md",
     "MEDIA/IMAGES/IMG-22-12-2025-004113981.png",
     "MEDIA/IMAGES/IMG-22-12-2025-004114041.png",
     "MEDIA/IMAGES/IMG-22-12-2025-004114090.png",
