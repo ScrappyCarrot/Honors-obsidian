@@ -6,7 +6,7 @@
       {
         "id": "5c65fc1b8181e818",
         "type": "tabs",
-        "dimension": 64.48362720403023,
+        "dimension": 19.81205951448708,
         "children": [
           {
             "id": "dbf060e3617d4609",
@@ -27,7 +27,7 @@
       {
         "id": "2e8a127d84c000e7",
         "type": "tabs",
-        "dimension": 35.51637279596977,
+        "dimension": 80.18794048551293,
         "children": [
           {
             "id": "fe1c725a5d89a902",
@@ -47,12 +47,14 @@
             "id": "661d68728b295a61",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.5"
+                "file": "Research/Case studies/Second Ground architectural works/4. The High line.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.5"
+              "icon": "lucide-file",
+              "title": "4. The High line"
             }
           }
         ],
