@@ -42,8 +42,21 @@
               "icon": "lucide-file",
               "title": "2. TU Delft library"
             }
+          },
+          {
+            "id": "661d68728b295a61",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.5"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -236,7 +249,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "fe1c725a5d89a902",
+  "active": "661d68728b295a61",
   "lastOpenFiles": [
     "MEDIA/PDF/DArchwLandscMethodsdj07lr/DArchwLandscMethodsdj07lr.md",
     "Research/Case studies/Second Ground architectural works/2. TU Delft library.md",
