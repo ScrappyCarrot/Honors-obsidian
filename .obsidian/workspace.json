@@ -6,9 +6,33 @@
       {
         "id": "5c65fc1b8181e818",
         "type": "tabs",
+        "dimension": 70.70773263433814,
         "children": [
           {
             "id": "dbf060e3617d4609",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "MEDIA/PDF/DArchwLandscMethodsdj07lr.pdf",
+                "page": 116,
+                "left": -305,
+                "top": 586,
+                "zoom": 0.15
+              },
+              "icon": "lucide-file-text",
+              "title": "DArchwLandscMethodsdj07lr"
+            }
+          }
+        ]
+      },
+      {
+        "id": "2e8a127d84c000e7",
+        "type": "tabs",
+        "dimension": 29.29226736566186,
+        "children": [
+          {
+            "id": "fe1c725a5d89a902",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,7 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 237.5110321044922
   },
   "right": {
     "id": "6b65d8149b344cc2",
@@ -214,11 +238,12 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "dbf060e3617d4609",
+  "active": "fe1c725a5d89a902",
   "lastOpenFiles": [
-    "MEDIA/IMAGES/IMG-21-01-2026-141554353.png",
-    "Research/Case studies/Second Ground architectural works/1. Oslo opera house.md",
+    "MEDIA/PDF/DArchwLandscMethodsdj07lr.pdf",
     "Research/Case studies/Second Ground architectural works/2. TU Delft library.md",
+    "Research/Case studies/Second Ground architectural works/1..md",
+    "MEDIA/IMAGES/IMG-21-01-2026-141554353.png",
     "Research/Case studies/Second Ground architectural works/3. Ewha womans university.md",
     "Research/Case studies/Second Ground architectural works/4. The High line.md",
     "Research/Case studies/Second Ground architectural works/5. The Rotterdam Rooftop Walk.md",
@@ -241,7 +266,6 @@
     "MEDIA/EUROCODE/EUCODE-1-Loads",
     "Research ideas.md",
     "Notion/Meet 12dec.md",
-    "MEDIA/PDF/Books/Tactical urbanism short-term action for long-term change (Garcia, AnthonyLydon, Mike) (Z-Library).pdf",
     "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/History of Urbanism and Architecture Book 1.md",
     "MEDIA/PDF/Books/History of Urbanism and Architecture Book 1/Histories book summary.md",
     "MEDIA/IMAGES/IMG-23-12-2025-224831488.png",
@@ -262,7 +286,6 @@
     "Thoughts/Approach to make honors meaningfull.md",
     "Research/Connections/Connection script in grasshopper.md",
     "MEDIA/IMAGES/IMG-20-12-2025-182253640.png",
-    "Canvas export/media/images/pasted-image-20251219003844.png",
     "MEDIA/IMAGES/IMAGES.canvas",
     "Canvas export/CANVAS OF IDEAS.canvas",
     "Untitled.canvas"

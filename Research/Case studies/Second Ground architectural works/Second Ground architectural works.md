@@ -1,4 +1,4 @@
-[[1. Oslo opera house]]
+[[1.]]
 [[2. TU Delft library]]
 [[3. Ewha womans university]]
 [[4. The High line]]

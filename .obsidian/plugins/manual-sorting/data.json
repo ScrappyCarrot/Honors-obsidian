@@ -88,6 +88,7 @@
     },
     "MEDIA/IMAGES": {
       "children": [
+        "MEDIA/IMAGES/IMG-21-01-2026-141554353.png",
         "MEDIA/IMAGES/IMG-14-12-2025-001219736.png",
         "MEDIA/IMAGES/Pasted image 20251214023717.png",
         "MEDIA/IMAGES/Pasted image 20251214023739.png",
@@ -126,7 +127,8 @@
         "MEDIA/PDF/IMG-20-12-2025-182253592.pdf",
         "MEDIA/PDF/PDF.base",
         "MEDIA/PDF/Determination of Safe Ballasts for Anchoring Event Tents by Finit.pdf",
-        "MEDIA/PDF/IMG-18-12-2025-235631148.pdf"
+        "MEDIA/PDF/IMG-18-12-2025-235631148.pdf",
+        "MEDIA/PDF/DArchwLandscMethodsdj07lr.pdf"
       ],
       "sortOrder": "custom"
     },
