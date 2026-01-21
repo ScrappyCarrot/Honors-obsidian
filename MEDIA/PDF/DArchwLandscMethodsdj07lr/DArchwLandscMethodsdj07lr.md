@@ -4420,16 +4420,16 @@ Analyse 7
 
 ## The Metaphoric Structure
 
-1. The new landscape creates a new amenity for the whole campus: lawns with flowers and trees where students and professors meet informally on it.
-2. The conical tower, which extends forty meters above grade and floodlit at night, acts as a beacon on the campus day and night.
+1. The new landscape creates a new amenity for the whole campus: lawns with flowers and trees where students and professors meet informally on it. ^fut89w
+2. The conical tower, which extends forty meters above grade and floodlit at night, acts as a beacon on the campus day and night. ^bipifv
 
 ## Geometry and Basic Form
 
-This library, which has a diamond-like shape, is sited in front of the student union (AULA) architecture designed by Bakema who also design the master plan of the site. I could assume that the library had used the context with the Bakema's architecture and had been created as a new hill on the TU Delft campus.
+This library, which has a diamond-like shape, is sited in front of the student union (AULA) architecture designed by Bakema who also design the master plan of the site. I could assume that the library had used the context with the Bakema's architecture and had been created as a new hill on the TU Delft campus. ^slsl8v
 
-Villa Urbana Analysis --- Stowe House, Cap Gemini Campus &amp; TU/Delft Library
+Villa Urbana Analysis --- Stowe House, Cap Gemini Campus &amp; TU/Delft Library ^j4o000
 
-TU Delft Library
+TU Delft Library ^wk3o08
 
 ---
 
