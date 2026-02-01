@@ -8,34 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fe1c725a5d89a902",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Research/Case studies/Second Ground architectural works/2. TU Delft library.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2. TU Delft library"
-            }
-          },
-          {
-            "id": "661d68728b295a61",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Thoughts/Cool structure.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cool structure"
-            }
-          },
-          {
             "id": "9ece03156963aeec",
             "type": "leaf",
             "state": {
@@ -49,8 +21,7 @@
               "title": "ABC"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -246,9 +218,10 @@
   "active": "9ece03156963aeec",
   "lastOpenFiles": [
     "Research/Case studies/Second Ground architectural works/4. The High line.md",
+    "Research/Research math papers (Black Maria)/Research math papers (Black Maria).md",
+    "ABC.md",
     "Thoughts/Cool structure.md",
     "Research/Case studies/Second Ground architectural works/2. TU Delft library.md",
-    "ABC.md",
     "MEDIA/EUROCODE/EUCODE-1-Loads/en.1991.1.4.2005.pdf",
     "MEDIA/EUROCODE/EUCODE-1-Loads/en.1991.1.3.2003.pdf",
     "MEDIA/EUROCODE/EUCODE-9-Aluminium.pdf",
@@ -274,7 +247,6 @@
     "Research/Case studies/Second Ground architectural works/3. Ewha womans university.md",
     "Research/Case studies/Second Ground architectural works/5. The Rotterdam Rooftop Walk.md",
     "Research/Modularity of the structure.md",
-    "Research/Research math papers (Black Maria)/Research math papers (Black Maria).md",
     "Research/Foundation/Foundation.md",
     "Research/End of life/End of life.md",
     "Research/Connections/Connections.md",
