@@ -14,4 +14,8 @@ Knoopxl construction phase
 
 
 
+Make blocks more abstract
+
+
+
 
