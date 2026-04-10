@@ -11,14 +11,17 @@
             "id": "769b61989644d8e6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Research/Case studies/Second Ground architectural works/5. The Rotterdam Rooftop Walk.md",
-                "mode": "source",
-                "source": false
+                "file": "CANVAS OF IDEAS.canvas",
+                "viewState": {
+                  "x": -53.562589988201836,
+                  "y": -1009.8377291371571,
+                  "zoom": 1
+                }
               },
-              "icon": "lucide-file",
-              "title": "5. The Rotterdam Rooftop Walk"
+              "icon": "lucide-layout-dashboard",
+              "title": "CANVAS OF IDEAS"
             }
           }
         ]
@@ -216,6 +219,7 @@
   },
   "active": "769b61989644d8e6",
   "lastOpenFiles": [
+    "Research/Case studies/Second Ground architectural works/5. The Rotterdam Rooftop Walk.md",
     "Research/Research math papers (Black Maria)/Research math papers (Black Maria).md",
     "Research/Case studies/Second Ground architectural works/4. The High line.md",
     "CANVAS OF IDEAS.canvas",
@@ -241,7 +245,6 @@
     "Research/Case studies/Second Ground architectural works/2. TU Delft library.md",
     "Research/Case studies/Second Ground architectural works/3. Ewha womans university.md",
     "Research/Connections/Reusable connections.md",
-    "Research/Case studies/Second Ground architectural works/5. The Rotterdam Rooftop Walk.md",
     "Research ideas.md",
     "Personal meeting notes/15-12-25 Presentation GMM.md",
     "MEDIA/EUROCODE/EUCODE-1-Loads/en.1991.1.4.2005.pdf",
