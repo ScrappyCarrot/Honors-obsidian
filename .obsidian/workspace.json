@@ -15,9 +15,9 @@
               "state": {
                 "file": "CANVAS OF IDEAS.canvas",
                 "viewState": {
-                  "x": -1823.2814188913926,
-                  "y": 876.6098883364131,
-                  "zoom": -1.0286017906411034
+                  "x": -950.4773580576757,
+                  "y": 580.2253082710911,
+                  "zoom": -2.478548657019173
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -217,10 +217,10 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "c89686570795ced7",
+  "active": "769b61989644d8e6",
   "lastOpenFiles": [
-    "CANVAS OF IDEAS.canvas",
     "Untitled.md",
+    "CANVAS OF IDEAS.canvas",
     "Research/Case studies/Second Ground architectural works/5. The Rotterdam Rooftop Walk.md",
     "Research/Research math papers (Black Maria)/Research math papers (Black Maria).md",
     "Research/Case studies/Second Ground architectural works/4. The High line.md",
