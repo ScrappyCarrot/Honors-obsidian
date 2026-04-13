@@ -151,7 +151,7 @@
 			"width":320,
 			"height":60
 		},
-		{"id":"5d394b60821dfe4f","type":"file","file":"Research/Foundation/Ballast Supported Foundations.md","x":-3243,"y":1866,"width":480,"height":1054},
+		{"id":"5d394b60821dfe4f","type":"file","file":"Research/Foundation/Ballast Supported Foundations.md","x":-3243,"y":1866,"width":480,"height":1074},
 		{
 			"id":"07dbd45a660f8ebd",
 			"type":"text",
@@ -293,7 +293,7 @@
 		},
 		{
 			"id":"64a612a25eef19ff",
-			"styleAttributes":{},
+			"styleAttributes":{"pathfindingMethod":"square"},
 			"toFloating":false,
 			"fromNode":"514dc48d63e46c40",
 			"fromSide":"bottom",
@@ -302,8 +302,9 @@
 		},
 		{
 			"id":"08fce5c09aea20c4",
-			"styleAttributes":{},
+			"styleAttributes":{"pathfindingMethod":"square"},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"514dc48d63e46c40",
 			"fromSide":"bottom",
 			"toNode":"53366ec4b447d535",
