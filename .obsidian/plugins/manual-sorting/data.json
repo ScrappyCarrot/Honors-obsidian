@@ -2,7 +2,6 @@
   "customOrder": {
     "/": {
       "children": [
-        "ABC.md",
         "copilot",
         "MEDIA",
         "Notion",
