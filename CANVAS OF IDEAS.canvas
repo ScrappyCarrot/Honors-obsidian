@@ -293,8 +293,11 @@
 		},
 		{
 			"id":"64a612a25eef19ff",
-			"styleAttributes":{"pathfindingMethod":"square"},
+			"styleAttributes":{
+				"pathfindingMethod":null
+			},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"514dc48d63e46c40",
 			"fromSide":"bottom",
 			"toNode":"e8b5c95629f57b61",
@@ -302,7 +305,9 @@
 		},
 		{
 			"id":"08fce5c09aea20c4",
-			"styleAttributes":{"pathfindingMethod":"square"},
+			"styleAttributes":{
+				"pathfindingMethod":null
+			},
 			"toFloating":false,
 			"fromFloating":false,
 			"fromNode":"514dc48d63e46c40",
