@@ -1,6 +1,40 @@
 {
 	"nodes":[
 		{
+			"id":"6d4480ec957eed46",
+			"type":"text",
+			"text":"Ballasted supported foundation",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-3163,
+			"y":1746,
+			"width":320,
+			"height":60
+		},
+		{"id":"5d394b60821dfe4f","type":"file","file":"Research/Foundation/Ballast Supported Foundations.md","x":-3243,"y":1866,"width":480,"height":1074},
+		{
+			"id":"07dbd45a660f8ebd",
+			"type":"text",
+			"text":"Look into starwin and their developed method (still this might need submerging by -0.500mm",
+			"styleAttributes":{},
+			"x":-3923,
+			"y":2187,
+			"width":287,
+			"height":133
+		},
+		{"id":"053192fc1e3127a2","type":"file","file":"MEDIA/IMAGES/IMG-15-12-2025-120629098.png","x":-3703,"y":2366,"width":300,"height":400},
+		{"id":"760916fcfdd801e2","type":"file","file":"MEDIA/IMAGES/IMG-15-12-2025-120548680.png","x":-2723,"y":2250,"width":400,"height":396},
+		{"id":"84cad1b31c97de60","type":"file","file":"MEDIA/IMAGES/IMG-15-12-2025-120418416.png","x":-2723,"y":1866,"width":399,"height":321},
+		{
+			"id":"ff230932966466f6",
+			"type":"text",
+			"text":"Possible limitation of non penetrating systems is that I have mainly found them to be implemented in solar pannel arrays",
+			"styleAttributes":{},
+			"x":-3580,
+			"y":2000,
+			"width":260,
+			"height":160
+		},
+		{
 			"id":"0a18e5d7148299a3",
 			"type":"text",
 			"text":"Have to check regulations on:",
@@ -141,30 +175,6 @@
 			"height":100
 		},
 		{"id":"14c14346df1849c0","type":"file","file":"MEDIA/IMAGES/Pasted image 20251214214706.png","x":-4143,"y":880,"width":267,"height":400},
-		{
-			"id":"6d4480ec957eed46",
-			"type":"text",
-			"text":"Ballasted supported foundation",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-3163,
-			"y":1746,
-			"width":320,
-			"height":60
-		},
-		{"id":"5d394b60821dfe4f","type":"file","file":"Research/Foundation/Ballast Supported Foundations.md","x":-3243,"y":1866,"width":480,"height":1074},
-		{
-			"id":"07dbd45a660f8ebd",
-			"type":"text",
-			"text":"Look into starwin and their developed method (still this might need submerging by -0.500mm",
-			"styleAttributes":{},
-			"x":-3923,
-			"y":2187,
-			"width":287,
-			"height":133
-		},
-		{"id":"053192fc1e3127a2","type":"file","file":"MEDIA/IMAGES/IMG-15-12-2025-120629098.png","x":-3703,"y":2366,"width":300,"height":400},
-		{"id":"760916fcfdd801e2","type":"file","file":"MEDIA/IMAGES/IMG-15-12-2025-120548680.png","x":-2723,"y":2250,"width":400,"height":396},
-		{"id":"84cad1b31c97de60","type":"file","file":"MEDIA/IMAGES/IMG-15-12-2025-120418416.png","x":-2723,"y":1866,"width":399,"height":321},
 		{"id":"2bb13b50fd23feb1","type":"file","file":"MEDIA/IMAGES/Pasted image 20251214215500.png","x":-430,"y":-1840,"width":780,"height":520},
 		{"id":"8fa2bd2732d12090","type":"file","file":"MEDIA/IMAGES/Gemini_Generated_Image_hbccjnhbccjnhbcc.png","x":-430,"y":-1280,"width":779,"height":582},
 		{
@@ -176,16 +186,6 @@
 			"y":1536,
 			"width":240,
 			"height":380
-		},
-		{
-			"id":"ff230932966466f6",
-			"type":"text",
-			"text":"Possible limitation of non penetrating systems is that I have mainly found them to be implemented in solar pannel arrays",
-			"styleAttributes":{},
-			"x":-3580,
-			"y":2000,
-			"width":260,
-			"height":160
 		},
 		{
 			"id":"c31fc334dc63ff3d",
@@ -376,6 +376,44 @@
 			"toSide":"left"
 		},
 		{
+			"id":"610613bee56a9189",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"08e9bae3e2d456a7",
+			"fromSide":"bottom",
+			"toNode":"514dc48d63e46c40",
+			"toSide":"top"
+		},
+		{
+			"id":"f3684a3943b0f32c",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"c31fc334dc63ff3d",
+			"fromSide":"bottom",
+			"toNode":"3ff0892fdeaeb534",
+			"toSide":"top"
+		},
+		{
+			"id":"daa70144fb350752",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"3ff0892fdeaeb534",
+			"fromSide":"left",
+			"toNode":"73104da93a8c8935",
+			"toSide":"right"
+		},
+		{
+			"id":"80af8a6e78462526",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"fa618c0673ac65cb",
+			"fromSide":"bottom",
+			"toNode":"08e9bae3e2d456a7",
+			"toSide":"top"
+		},
+		{
 			"id":"3981779f9c1d0e15",
 			"styleAttributes":{
 				"pathfindingMethod":null
@@ -422,44 +460,6 @@
 			"fromNode":"07dbd45a660f8ebd",
 			"fromSide":"right",
 			"toNode":"053192fc1e3127a2",
-			"toSide":"top"
-		},
-		{
-			"id":"610613bee56a9189",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromFloating":false,
-			"fromNode":"08e9bae3e2d456a7",
-			"fromSide":"bottom",
-			"toNode":"514dc48d63e46c40",
-			"toSide":"top"
-		},
-		{
-			"id":"f3684a3943b0f32c",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"c31fc334dc63ff3d",
-			"fromSide":"bottom",
-			"toNode":"3ff0892fdeaeb534",
-			"toSide":"top"
-		},
-		{
-			"id":"daa70144fb350752",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"3ff0892fdeaeb534",
-			"fromSide":"left",
-			"toNode":"73104da93a8c8935",
-			"toSide":"right"
-		},
-		{
-			"id":"80af8a6e78462526",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromFloating":false,
-			"fromNode":"fa618c0673ac65cb",
-			"fromSide":"bottom",
-			"toNode":"08e9bae3e2d456a7",
 			"toSide":"top"
 		}
 	],
