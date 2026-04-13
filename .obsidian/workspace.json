@@ -11,17 +11,10 @@
             "id": "769b61989644d8e6",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "CANVAS OF IDEAS.canvas",
-                "viewState": {
-                  "x": -929.6175198237329,
-                  "y": 419.2073315377568,
-                  "zoom": -0.4499468663780697
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "CANVAS OF IDEAS"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -217,10 +210,10 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "c89686570795ced7",
+  "active": "769b61989644d8e6",
   "lastOpenFiles": [
-    "Untitled.base",
     "CANVAS OF IDEAS.canvas",
+    "Untitled.base",
     "ABC.md",
     "Untitled.md",
     "Research/Case studies/Second Ground architectural works/5. The Rotterdam Rooftop Walk.md",
