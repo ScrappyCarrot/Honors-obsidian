@@ -15,9 +15,9 @@
               "state": {
                 "file": "CANVAS OF IDEAS.canvas",
                 "viewState": {
-                  "x": -3268.0300870070223,
-                  "y": 2582.910535470793,
-                  "zoom": -0.014300895320551676
+                  "x": -929.6175198237329,
+                  "y": 419.2073315377568,
+                  "zoom": -0.4499468663780697
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -81,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237.5110321044922
+    "width": 302.5110321044922
   },
   "right": {
     "id": "6b65d8149b344cc2",
@@ -217,7 +217,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "769b61989644d8e6",
+  "active": "c89686570795ced7",
   "lastOpenFiles": [
     "Untitled.base",
     "CANVAS OF IDEAS.canvas",
