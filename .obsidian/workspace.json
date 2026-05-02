@@ -42,17 +42,14 @@
             "id": "cc85a568527a2b38",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "CANVAS OF IDEAS.canvas",
-                "viewState": {
-                  "x": -1450.903890007623,
-                  "y": 1135.9144812994757,
-                  "zoom": -2.107819558585186
-                }
+                "file": "6th May municipality presentation.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "CANVAS OF IDEAS"
+              "icon": "lucide-file",
+              "title": "6th May municipality presentation"
             }
           }
         ],
@@ -251,12 +248,14 @@
   },
   "active": "cc85a568527a2b38",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Thoughts/Cool structure.md",
+    "Thoughts/Green scaffolding.md",
+    "CANVAS OF IDEAS.canvas",
     "Research/Case studies/Second Ground architectural works/5. The Rotterdam Rooftop Walk.md",
     "Research/Case studies/Second Ground architectural works/3. Ewha womans university.md",
     "Research/Case studies/Second Ground architectural works/1..md",
-    "Untitled.md",
     "6th May municipality presentation.md",
-    "CANVAS OF IDEAS.canvas",
     "Untitled.base",
     "ABC.md",
     "Research/Research math papers (Black Maria)/Research math papers (Black Maria).md",
@@ -279,8 +278,6 @@
     "Notion/Other people material/Comparrative essay.md",
     "MEDIA/Site Clippings/Ballasted Foundations - No Concrete Required.md",
     "Research/Case studies/Second Ground architectural works/2. TU Delft library.md",
-    "Research/Connections/Reusable connections.md",
-    "Research ideas.md",
     "MEDIA/EUROCODE/EUCODE-1-Loads/en.1991.1.4.2005.pdf",
     "MEDIA/EUROCODE/EUCODE-1-Loads/en.1991.1.3.2003.pdf",
     "MEDIA/EUROCODE/EUCODE-9-Aluminium.pdf",
