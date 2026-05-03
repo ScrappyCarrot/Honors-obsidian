@@ -42,14 +42,17 @@
             "id": "cc85a568527a2b38",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "6th May municipality presentation.md",
-                "mode": "source",
-                "source": false
+                "file": "CANVAS OF IDEAS.canvas",
+                "viewState": {
+                  "x": -51.80556926741093,
+                  "y": -1046.1757887732188,
+                  "zoom": 1
+                }
               },
-              "icon": "lucide-file",
-              "title": "6th May municipality presentation"
+              "icon": "lucide-layout-dashboard",
+              "title": "CANVAS OF IDEAS"
             }
           }
         ],
@@ -248,6 +251,7 @@
   },
   "active": "cc85a568527a2b38",
   "lastOpenFiles": [
+    "6th May municipality presentation.md",
     "Notion/Meet 12dec.md",
     "Notion/Meet 20 dec.md",
     "Research/End of life/Materials.md",
@@ -257,7 +261,6 @@
     "Thoughts/Green scaffolding.md",
     "Untitled.md",
     "CANVAS OF IDEAS.canvas",
-    "6th May municipality presentation.md",
     "Research/Case studies/Second Ground architectural works/5. The Rotterdam Rooftop Walk.md",
     "Research/Case studies/Second Ground architectural works/3. Ewha womans university.md",
     "Research/Case studies/Second Ground architectural works/1..md",
