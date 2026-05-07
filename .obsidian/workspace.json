@@ -42,17 +42,14 @@
             "id": "cc85a568527a2b38",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "CANVAS OF IDEAS.canvas",
-                "viewState": {
-                  "x": -42.43574093669635,
-                  "y": -959.9123223010248,
-                  "zoom": -0.5214513429808275
-                }
+                "file": "Wesley Workplan.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "CANVAS OF IDEAS"
+              "icon": "lucide-file",
+              "title": "Wesley Workplan"
             }
           }
         ],
@@ -251,6 +248,7 @@
   },
   "active": "cc85a568527a2b38",
   "lastOpenFiles": [
+    "CANVAS OF IDEAS.canvas",
     "6th May municipality presentation.md",
     "Notion/Meet 12dec.md",
     "Notion/Meet 20 dec.md",
@@ -259,8 +257,7 @@
     "Thoughts/Approach to make honors meaningfull.md",
     "Thoughts/Cool structure.md",
     "Thoughts/Green scaffolding.md",
-    "Untitled.md",
-    "CANVAS OF IDEAS.canvas",
+    "Wesley Workplan.md",
     "Research/Case studies/Second Ground architectural works/5. The Rotterdam Rooftop Walk.md",
     "Research/Case studies/Second Ground architectural works/3. Ewha womans university.md",
     "Research/Case studies/Second Ground architectural works/1..md",
@@ -280,7 +277,6 @@
     "Research/Connections/Connection script in grasshopper.md",
     "Research/Connections/Modular connections.md",
     "Notion/Other people material/Comparrative essay.md",
-    "MEDIA/Site Clippings/Ballasted Foundations - No Concrete Required.md",
     "MEDIA/EUROCODE/EUCODE-1-Loads/en.1991.1.4.2005.pdf",
     "MEDIA/EUROCODE/EUCODE-1-Loads/en.1991.1.3.2003.pdf",
     "MEDIA/EUROCODE/EUCODE-9-Aluminium.pdf",
