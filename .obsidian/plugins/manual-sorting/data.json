@@ -2,7 +2,6 @@
   "customOrder": {
     "/": {
       "children": [
-        "Untitled",
         "Honors Y1 report",
         "Wesley Workplan.md",
         "MEDIA",
@@ -20,8 +19,19 @@
     },
     "Honors Y1 report": {
       "children": [
+        "Honors Y1 report/Final presentation outputs",
+        "Honors Y1 report/FINAL REPORT-example gaslab.pdf",
+        "Honors Y1 report/Honors Connectit Group Report First Draft.docx",
+        "Honors Y1 report/Feedback Robert.md",
         "Honors Y1 report/6th May municipality presentation plan (not final).md",
         "Honors Y1 report/Report planning.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Honors Y1 report/Final presentation outputs": {
+      "children": [
+        "Honors Y1 report/Final presentation outputs/connect-it_booklet.pdf",
+        "Honors Y1 report/Final presentation outputs/presentation_municipality.pdf"
       ],
       "sortOrder": "custom"
     },
@@ -1166,10 +1176,6 @@
         "Thoughts/Cool structure.md",
         "Thoughts/Green scaffolding.md"
       ],
-      "sortOrder": "custom"
-    },
-    "Untitled": {
-      "children": [],
       "sortOrder": "custom"
     }
   },
