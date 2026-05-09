@@ -1,0 +1,26 @@
+# LOD 400 Key areas modelling
+
+Status: Not started
+Assignee: Victor Arhip, Maria Barbu, Veronika Valisova, Lars Steenbreker, Amanda Henka
+Due date: April 26, 2026 → April 28, 2026
+Description: Design
+Parent task: Site (Site%203444d57434b880f38124db2c6fb887da.md)
+Sprint: Sprint 1 (https://www.notion.so/Sprint-1-3444d57434b88062aa00efa12620a51d?pvs=21)
+
+## Task description
+
+Provide an overview of the task and related details.
+
+## Sub-tasks
+
+- [ ]  
+- [ ]  
+- [ ]  
+
+## Supporting files
+
+[https://www.notion.so](https://www.notion.so)
+
+[https://www.notion.so](https://www.notion.so)
+
+[https://www.notion.so](https://www.notion.so)
