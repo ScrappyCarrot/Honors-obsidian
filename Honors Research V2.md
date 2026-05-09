@@ -25,7 +25,7 @@ The concept for the Connect-IT bridge emerges from the synthesis of structural e
 
 The factors mentioned previously were expressed in our design in two main ways. The structure was decided to be a triangular truss system, and the viewing decks (leisure) were placed on top of the supports, while the main deck wrapped around them. This effectively separated the two programs of the bridge giving adequate space for both. The railing was used to express an extension of structure, this put the railing at a 60° angle which made the decking feel more spacious than the real width would suggest.
 
-Parametric modeling was employed to optimize the truss density based on the load requirements of the three entrance points. This allowed for a design that accommodates both pedestrians and cyclists while maintaining a coherent technical language across the entire span.
+Parametric modeling was employed to optimize the truss density based on the load requirements of the three entrance points. This allowed for a design that accommodates 
 
 ## **4. Feasibility, Phasing, and Circularity**
 
