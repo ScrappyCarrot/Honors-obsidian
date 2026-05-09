@@ -2,8 +2,8 @@
   "customOrder": {
     "/": {
       "children": [
+        "Honors Y1 report",
         "Wesley Workplan.md",
-        "6th May municipality presentation.md",
         "copilot",
         "MEDIA",
         "Notion",
@@ -52,6 +52,13 @@
     },
     "copilot/memory": {
       "children": [],
+      "sortOrder": "custom"
+    },
+    "Honors Y1 report": {
+      "children": [
+        "Honors Y1 report/6th May municipality presentation.md",
+        "Honors Y1 report/Report planning.md"
+      ],
       "sortOrder": "custom"
     },
     "MEDIA": {
