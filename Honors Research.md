@@ -1,4 +1,4 @@
-﻿# **Project Synthesis: Technical Integration & Management**
+# **Project Synthesis: Technical Integration & Management**
 **Author:** Victor Arhip
 **Role:** Technical Lead / Multi-disciplinary Coordinator
 
