@@ -56,10 +56,14 @@
             "id": "bcc098740642eb20",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Wesley Workplan.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Wesley Workplan"
             }
           }
         ],
@@ -258,6 +262,10 @@
   },
   "active": "c89686570795ced7",
   "lastOpenFiles": [
+    "Honors Y1 report/Final presentation outputs/presentation_municipality.pdf",
+    "Honors Y1 report/Final presentation outputs/connect-it_booklet.pdf",
+    "copilot/copilot-conversations/give_me_a_summary_of_this@20251219_234345.md",
+    "Honors Y1 report/Final presentation outputs",
     "Notion/Exported tasks/busy kruisstraat and diagram closure 3554d57434b880daae4cf7ccf59ab412.md",
     "Notion/Exported tasks/community axonometric 3554d57434b8800398d7ceb3968a7cb9.md",
     "Notion/Exported tasks/construction phases 3554d57434b880e58109ecddfc2395cb.md",
@@ -285,16 +293,12 @@
     "Notion/Exported tasks/Commercial aspect pavilion 2cf4d57434b880658d9ff793e070b2fb.md",
     "Notion/Exported tasks/City flow research cases 2c04d57434b880fb9548d65e3bc1173b.md",
     "Notion/Exported tasks/Bridge_it_Meeting_4.pptx",
-    "Notion/Exported tasks/Urban analysis 3444d57434b880cf9c12c618e05a5381.md",
-    "Notion/Exported tasks/tunnel closed and alternative maps 3554d57434b880fab2b2fad58253d1e3.md",
     "Notion/Exported tasks",
     "Notion/New folder",
     "Honors Y1 report",
     "CANVAS OF IDEAS.canvas",
     "Untitled.base",
     "MEDIA/PDF/PDF.base",
-    "MEDIA/EUROCODE/EUCODE-0-Design principles.pdf",
-    "MEDIA/EUROCODE/EUCODE-1-Loads/en.1991.1.4.2005.pdf",
     "MEDIA/PDF/DArchwLandscMethodsdj07lr/assets/DArchwLandscMethodsdj07lr_img-749.jpeg",
     "MEDIA/PDF/DArchwLandscMethodsdj07lr/assets/DArchwLandscMethodsdj07lr_img-748.jpeg",
     "MEDIA/PDF/DArchwLandscMethodsdj07lr/assets/DArchwLandscMethodsdj07lr_img-747.jpeg",

@@ -2,9 +2,9 @@
   "customOrder": {
     "/": {
       "children": [
+        "Untitled",
         "Honors Y1 report",
         "Wesley Workplan.md",
-        "copilot",
         "MEDIA",
         "Notion",
         "Personal meeting notes",
@@ -18,45 +18,9 @@
       ],
       "sortOrder": "custom"
     },
-    "copilot": {
-      "children": [
-        "copilot/memory",
-        "copilot/copilot-conversations",
-        "copilot/copilot-custom-prompts"
-      ],
-      "sortOrder": "custom"
-    },
-    "copilot/copilot-conversations": {
-      "children": [
-        "copilot/copilot-conversations/give_me_a_summary_of_this@20251219_234345.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "copilot/copilot-custom-prompts": {
-      "children": [
-        "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
-        "copilot/copilot-custom-prompts/Translate to Chinese.md",
-        "copilot/copilot-custom-prompts/Summarize.md",
-        "copilot/copilot-custom-prompts/Simplify.md",
-        "copilot/copilot-custom-prompts/Explain like I am 5.md",
-        "copilot/copilot-custom-prompts/Emojify.md",
-        "copilot/copilot-custom-prompts/Make shorter.md",
-        "copilot/copilot-custom-prompts/Make longer.md",
-        "copilot/copilot-custom-prompts/Generate table of contents.md",
-        "copilot/copilot-custom-prompts/Generate glossary.md",
-        "copilot/copilot-custom-prompts/Remove URLs.md",
-        "copilot/copilot-custom-prompts/Rewrite as tweet.md",
-        "copilot/copilot-custom-prompts/Rewrite as tweet thread.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "copilot/memory": {
-      "children": [],
-      "sortOrder": "custom"
-    },
     "Honors Y1 report": {
       "children": [
-        "Honors Y1 report/6th May municipality presentation.md",
+        "Honors Y1 report/6th May municipality presentation plan (not final).md",
         "Honors Y1 report/Report planning.md"
       ],
       "sortOrder": "custom"
@@ -1070,9 +1034,55 @@
     },
     "Notion": {
       "children": [
+        "Notion/Exported tasks",
         "Notion/Other people material",
         "Notion/Meet 12dec.md",
         "Notion/Meet 20 dec.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Notion/Exported tasks": {
+      "children": [
+        "Notion/Exported tasks/Architectural Model 34b4d57434b8800ba782cadafc335c75.md",
+        "Notion/Exported tasks/Task Tracker 2c04d57434b88062b06dded06e570633_all.csv",
+        "Notion/Exported tasks/Task Tracker 2c04d57434b88062b06dded06e570633.csv",
+        "Notion/Exported tasks/Structure 3444d57434b88077bf59e2cdf7693b1d.md",
+        "Notion/Exported tasks/presentation track meeting 0202 2fb4d57434b88030a006e2324d68bff2.md",
+        "Notion/Exported tasks/Presentation layout assembly 3444d57434b8809b8ab1dba5beff2ad8.md",
+        "Notion/Exported tasks/Presentation for GMM2 2c74d57434b88065beb3cfc60d116299.md",
+        "Notion/Exported tasks/Material passports nearby buildings 2cf4d57434b880bfb56bf07ba2d15aab.md",
+        "Notion/Exported tasks/Manufacturing 2c04d57434b8801a8194dc18d231beb4.md",
+        "Notion/Exported tasks/Make team dynamic diagram 33a4d57434b88026b04add29bab29f15.md",
+        "Notion/Exported tasks/Make poster 2fc4d57434b880d6be76c739710322dd.md",
+        "Notion/Exported tasks/Karamba 33a4d57434b8801782f4d75095bf4d09.md",
+        "Notion/Exported tasks/Impact diagram 3444d57434b8809a9b52f1f76cd6ae06.md",
+        "Notion/Exported tasks/GIS with Grasshopper 33a4d57434b8801997d6f00d7ee6b10c.md",
+        "Notion/Exported tasks/GIS 3444d57434b88031a88fe3ffa3e91fab.md",
+        "Notion/Exported tasks/CROW Code 2cf4d57434b8802ca3aed2ab209f9f1d.md",
+        "Notion/Exported tasks/Create questions for survey 2c04d57434b88045a063f4561eb878c3.md",
+        "Notion/Exported tasks/Concept diagram 3444d57434b88032ba28ffdbfd36fb35.md",
+        "Notion/Exported tasks/Commercial aspect pavilion 2cf4d57434b880658d9ff793e070b2fb.md",
+        "Notion/Exported tasks/City flow research cases 2c04d57434b880fb9548d65e3bc1173b.md",
+        "Notion/Exported tasks/Bridge_it_Meeting_4.pptx",
+        "Notion/Exported tasks/Urban analysis 3444d57434b880cf9c12c618e05a5381.md",
+        "Notion/Exported tasks/tunnel closed and alternative maps 3554d57434b880fab2b2fad58253d1e3.md",
+        "Notion/Exported tasks/Truss structure 34c4d57434b880f0be75d3bc03d31a51.md",
+        "Notion/Exported tasks/Site 3444d57434b880f38124db2c6fb887da.md",
+        "Notion/Exported tasks/section 3554d57434b880b1a572f7aaa0895efb.md",
+        "Notion/Exported tasks/Report 34c4d57434b8807d9289dee650afdf4d.md",
+        "Notion/Exported tasks/Render on bridge atmosphere 3444d57434b880b39242e80ef8fc228d.md",
+        "Notion/Exported tasks/intervention mapping 34e4d57434b880cfadb7ff91bb61784b.md",
+        "Notion/Exported tasks/interior render 3554d57434b880868c2ef0e00bd7bafa.md",
+        "Notion/Exported tasks/Greenery 3444d57434b880ff8bbec677962aaefd.md",
+        "Notion/Exported tasks/Grasshopper script 34b4d57434b88030b1cbebe063929bc5.md",
+        "Notion/Exported tasks/Decking 34c4d57434b880deb9d4cad4b33b4000.md",
+        "Notion/Exported tasks/construction phases 3554d57434b880e58109ecddfc2395cb.md",
+        "Notion/Exported tasks/connectivity 34e4d57434b880e9a1a6cd551a5cfd1c.md",
+        "Notion/Exported tasks/community axonometric 3554d57434b8800398d7ceb3968a7cb9.md",
+        "Notion/Exported tasks/Code around construction 3444d57434b880db9b26ee7e404d3c18.md",
+        "Notion/Exported tasks/busy kruisstraat and diagram closure 3554d57434b880daae4cf7ccf59ab412.md",
+        "Notion/Exported tasks/Axo illustrator 34b4d57434b880b69bbecca607d8f0d2.md",
+        "Notion/Exported tasks/Assembly diagram 34b4d57434b880d5964bc2d202a447c1.md"
       ],
       "sortOrder": "custom"
     },
@@ -1156,6 +1166,10 @@
         "Thoughts/Cool structure.md",
         "Thoughts/Green scaffolding.md"
       ],
+      "sortOrder": "custom"
+    },
+    "Untitled": {
+      "children": [],
       "sortOrder": "custom"
     }
   },
