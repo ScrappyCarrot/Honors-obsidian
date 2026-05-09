@@ -21,6 +21,23 @@
               "icon": "lucide-file",
               "title": "Honors Research V2"
             }
+          },
+          {
+            "id": "54319a65bd557c92",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "CANVAS OF IDEAS.canvas",
+                "viewState": {
+                  "x": -203.73357821585432,
+                  "y": -804.353284548762,
+                  "zoom": -0.014300895320551676
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "CANVAS OF IDEAS"
+            }
           }
         ]
       },
@@ -238,8 +255,9 @@
   },
   "active": "f25c5d628faf2af1",
   "lastOpenFiles": [
-    "Honors Y1 report/FINAL REPORT-example gaslab.pdf",
+    "CANVAS OF IDEAS.canvas",
     "Honors Research V2.md",
+    "Honors Y1 report/FINAL REPORT-example gaslab.pdf",
     "Honors Y1 report/Report planning.md",
     "Research/Foundation/Foundation.md",
     "Honors Research.md",
@@ -273,7 +291,6 @@
     "Notion/Exported tasks/Make poster 2fc4d57434b880d6be76c739710322dd.md",
     "Notion/Exported tasks/Karamba 33a4d57434b8801782f4d75095bf4d09.md",
     "Notion/Exported tasks/Impact diagram 3444d57434b8809a9b52f1f76cd6ae06.md",
-    "CANVAS OF IDEAS.canvas",
     "MEDIA/PDF/DArchwLandscMethodsdj07lr/assets/DArchwLandscMethodsdj07lr_img-749.jpeg",
     "MEDIA/PDF/DArchwLandscMethodsdj07lr/assets/DArchwLandscMethodsdj07lr_img-748.jpeg",
     "MEDIA/PDF/DArchwLandscMethodsdj07lr/assets/DArchwLandscMethodsdj07lr_img-747.jpeg",
