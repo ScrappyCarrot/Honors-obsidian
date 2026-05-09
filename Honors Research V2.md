@@ -21,9 +21,11 @@ Utilizing bolted connections and standardized profiles ensures the system is ful
 
 ## **3. Architectural and Structural Synthesis**
 
-The concept for the Connect-IT bridge emerges from the synthesis of structural efficiency and user experience. Multiple constraints influenced our design (cost, location, construction site, community, structural efficiency, modularity, transportation, span optimization etc.). The three main ones that influenced the design the most were usable locations for supports (and the [[Foundation]] mechanism that could support them), Optimizing the structure for torsional resistance and the considerable changes in relief on the South side of our project.
+The concept for the Connect-IT bridge emerges from the synthesis of structural efficiency and user experience. Multiple constraints influenced our design (cost, location, construction site, community, structural efficiency, modularity, transportation, span optimization etc.). The 4 main ones that influenced the design the most were usable locations for supports (and the [[Foundation]] mechanism that could support them), Optimizing the structure for relatively large spans (30 meters as the biggest span between two supports), considerable changes in relief on the South side of our project and the balance between flow efficiency and leisure.
 
-The factors mentioned previously 
+The factors mentioned previously were expressed in our design in two main
+
+
 Parametric modeling was employed to optimize the truss density based on the load requirements of the three entrance points. This allowed for a design that accommodates both pedestrians and cyclists while maintaining a coherent technical language across the entire span.
 
 ## **4. Feasibility, Phasing, and Circularity**
