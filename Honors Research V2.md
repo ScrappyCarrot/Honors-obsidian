@@ -1,4 +1,4 @@
-﻿# **Project Synthesis: Technical Integration & Modular Development**
+# **Project Synthesis: Technical Integration & Modular Development**
 
 ## **1. Coordination and Discipline Integration**
 
