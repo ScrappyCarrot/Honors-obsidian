@@ -21,10 +21,9 @@ Utilizing bolted connections and standardized profiles ensures the system is ful
 
 ## **3. Architectural and Structural Synthesis**
 
-The concept for the Connect-IT bridge emerges from the synthesis of structural efficiency and user experience. Multiple constraints influenced our design (cost, location, construction site, community, structural efficiency, modularity, transportation, span optimization etc.). The three main ones that influenced the design the most were usable locations for supports,
+The concept for the Connect-IT bridge emerges from the synthesis of structural efficiency and user experience. Multiple constraints influenced our design (cost, location, construction site, community, structural efficiency, modularity, transportation, span optimization etc.). The three main ones that influenced the design the most were usable locations for supports (and the [[Foundation]] mechanism that could support them), Optimizing the structure for torsional resistance and the considerable changes in relief on the South side of our project.
 
-The structural system utilizes a large-scale truss grid, modeled at a high level of development (LOD 400) to ensure technical accuracy and assembly feasibility. To mitigate the "tunnel effect" and associated safety concerns, a split-level spatial logic was developed. The upper level serves as an open, high-visibility path for pedestrians and cyclists, offering visual connection to the surrounding urban development. The interior of the truss is utilized for structural stability and secondary functional elements, including information panels regarding the city's future vision.
-
+The factors mentioned previously 
 Parametric modeling was employed to optimize the truss density based on the load requirements of the three entrance points. This allowed for a design that accommodates both pedestrians and cyclists while maintaining a coherent technical language across the entire span.
 
 ## **4. Feasibility, Phasing, and Circularity**
