@@ -52,8 +52,7 @@ The integration of technical coordination and modular design was essential for a
 
 ## Ai statement
 
- In the development of the Connect-it honors project, Artificial Intelligence (AI) was employed strictly as a force multiplier, it was at no point given the option to generate ideas/diagrams/reports/ 
-  human-led research and design. The core architectural vision, structural logic, and modular strategies remain entirely the product of the design team's agency. AI tools were integrated into the workflow in
+ In the development of the Connect-it honors project, Artificial Intelligence (AI) was employed strictly as a force multiplier, it was at no point given the option to generate ideas/diagrams/reports/designs that were later presented as original work. The core architectural vision, structural logic, and modular strategies remain entirely the product of the design and structural teams' agency. AI tools were integrated into the workflow in
   the following capacities:
 
    1. Computational Skill Acquisition & Scripting: Large Language Models (LLMs), specifically Google Gemini, were utilized as interactive tutors to accelerate the learning of Rhino 8 and Grasshopper. This
