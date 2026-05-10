@@ -52,15 +52,12 @@ The integration of technical coordination and modular design was essential for a
 
 ## Ai statement
 
- In the development of the Connect-it honors project, Artificial Intelligence (AI) was employed strictly as a force multiplier, it was at no point given the option to generate ideas/diagrams/reports/designs that were later presented as original work. The core architectural vision, structural logic, and modular strategies remain entirely the product of the design and structural teams' agency. AI tools were integrated into the workflow in
-  the following capacities:
+ In the development of the Connect-it honors project, Artificial Intelligence (AI) was employed strictly as a force multiplier, it was at no point given the option to generate ideas/diagrams/reports/designs that were later presented as original work. The core architectural vision, structural logic, modular strategies and urban integration remain entirely the product of the design and structural teams' agency. AI tools were integrated into the workflow in the following capacities:
 
-   1. Computational Skill Acquisition & Scripting: Large Language Models (LLMs), specifically Google Gemini, were utilized as interactive tutors to accelerate the learning of Rhino 8 and Grasshopper. This
-      included the co-development of custom Python scripts within the Grasshopper environment to automate repetitive geometric tasks and manage complex data structures for the modular "kit-of-parts."
-   2. Documentation & Technical Synthesis: AI summarization tools were used to process and synthesize internal team meetings, ensuring that diverse disciplinary insights were accurately captured in the
-      technical coordination strategy. Claude was employed as a debugging assistant to ensure the structural and syntactical integrity of the LaTeX-based report, facilitating a higher standard of academic
+   1. Computational Skill Acquisition & Scripting: Large Language Models (LLMs), specifically Google Gemini, Anthropic Claude, OpenAI Chat-GPT, were utilized as interactive tutors to accelerate the learning of Rhino 8 and Grasshopper. This included the co-development of custom Python scripts within the Grasshopper environment to automate repetitive geometric tasks and manage complex data structures for the modular "kit-of-parts."
+   2. Documentation & Technical Synthesis: AI summarization tools were used to process and synthesize internal team meetings, ensuring that diverse disciplinary insights were accurately captured in the technical coordination strategy. Claude was employed as a debugging assistant to ensure the structural and syntactical integrity of the LaTeX-based report, facilitating a higher standard of academic
       presentation.
    3. Visual Refinement & Post-Production: AI-enhanced tools within D5 Render and Adobe Photoshop were utilized to refine physically based rendering (PBR) materials and atmospheric lighting. These tools served
-      to polish human-authored visualizations rather than generate synthetic imagery, ensuring that the "tectonic honesty" of the project was accurately communicated.
+      to polish human-authored visualizations rather than generate synthetic imagery, ensuring that the project was accurately communicated.
 
   By leveraging these technologies, the team was able to bypass technical bottlenecks and focus on the high-level structural research and urban integration that define the project’s value.
