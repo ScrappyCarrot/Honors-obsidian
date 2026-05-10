@@ -14,7 +14,7 @@ The concept of circularity is embedded in the structural joints. By utilizing bo
 
 \subsection{Strategy 2: Function Addition & Placemaking}
 [Content for Strategy 2]
-\section{Urban Integration}
+\section{Urban Integratio
 \section{User Experience}
 
 % --- BIBLIOGRAPHY FOR OVERLEAF (COPY/PASTE INTO .bib FILE) ---
