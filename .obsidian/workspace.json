@@ -26,17 +26,14 @@
             "id": "54319a65bd557c92",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "CANVAS OF IDEAS.canvas",
-                "viewState": {
-                  "x": -203.73357821585432,
-                  "y": -804.353284548762,
-                  "zoom": -0.014300895320551676
-                }
+                "file": "Honors Research V2.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "CANVAS OF IDEAS"
+              "icon": "lucide-file",
+              "title": "Honors Research V2"
             }
           }
         ],
@@ -254,7 +251,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "54319a65bd557c92",
+  "active": "9a4a592b2e491299",
   "lastOpenFiles": [
     "Honors Research V2.md",
     "CANVAS OF IDEAS.canvas",

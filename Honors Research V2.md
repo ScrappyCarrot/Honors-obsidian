@@ -21,7 +21,7 @@ Utilizing bolted connections and standardized profiles ensures the system is ful
 
 ## **3. Architectural and Structural Synthesis**
 
-The concept for the Connect-IT bridge emerges from the synthesis of structural efficiency and user experience. Multiple constraints influenced our design (cost, location, construction site, community, structural efficiency, modularity, transportation, span optimization etc.). The 4 main ones that influenced the design the most were usable locations for supports (and the [[Foundation]] mechanism that could support them), Optimizing the structure for relatively large spans (30 meters as the biggest span between two supports), considerable changes in relief on the South side of our project and the balance between flow efficiency and leisure.
+<mark style="background: #ABF7F7A6;">The concept for the Connect-IT bridge emerges from the synthesis of structural efficiency and user experience. Multiple constraints influenced our design (cost, location, construction site, community, structural efficiency, modularity, transportation, span optimization etc.). The 4 main ones that influenced the design the most were usable locations for supports (and the [[Foundation]] mechanism that could support them), Optimizing the structure for relatively large spans (30 meters as the biggest span between two supports), considerable changes in relief on the South side of our project and the balance between flow efficiency and leisure.
 
 The factors mentioned previously were expressed in our design in two main ways. The structure was decided to be a triangular truss system, and the viewing decks (leisure) were placed on top of the supports, while the main deck wrapped around them. This effectively separated the two programs of the bridge giving adequate space for both. The railing was used to express an extension of structure, this put the railing at a 60° angle which made the decking feel more spacious than the real width would suggest.
 
@@ -33,7 +33,7 @@ At a bigger scale this allows for a truly modular bridge. There are at least two
 
 Beyond the initial installation, the modular nature of the Connect-IT bridge ensures long-term resiliency and ease of maintenance. If a specific component or a section of the railing were to sustain damage, the discrete nature of the modular units allows for isolated replacement rather than extensive structural overhauls. Furthermore, this systemic approach means the design is inherently scalable; the parametric rules can be reapplied to future expansions or similar sites, transforming the bridge from a singular architectural object into a flexible infrastructure system.
 
-
+</mark>
 
 ## **4. Feasibility, Phasing, and Circularity**
 
