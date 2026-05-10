@@ -39,7 +39,8 @@
               "title": "CANVAS OF IDEAS"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "ed79f4bc7e084f08",
@@ -253,10 +254,10 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "f25c5d628faf2af1",
+  "active": "54319a65bd557c92",
   "lastOpenFiles": [
-    "CANVAS OF IDEAS.canvas",
     "Honors Research V2.md",
+    "CANVAS OF IDEAS.canvas",
     "Honors Y1 report/FINAL REPORT-example gaslab.pdf",
     "Honors Y1 report/Report planning.md",
     "Research/Foundation/Foundation.md",
