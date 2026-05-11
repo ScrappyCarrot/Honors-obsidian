@@ -64,4 +64,4 @@ The integration of technical coordination and modular design was essential for a
 
 ### AI statement V2
 
-In the development of the Connect-it honors project, Artificial Intelligence (AI) was employed strictly as a force multiplier, it was at no point given the option to generate ideas/diagrams/reports/designs that were later presented as original work. LLMs (such as Google Gemini, Open-AI Chat-GPT and Anthropic Claude) were used in 2 primary ways: as learning tools and as internal documentation synthetisys. Other Forms of AI were used
+In the development of the Connect-it honors project, Artificial Intelligence (AI) was employed strictly as a force multiplier, it was at no point given the option to generate ideas/diagrams/reports/designs that were later presented as original work. LLMs (such as Google Gemini, Open-AI Chat-GPT and Anthropic Claude) were used in 2 primary ways: as learning tools and as internal documentation synthetisys. Other Forms of AI (such as D5 AI tools and Adobe Firefly) were used for the enhancement of hand-made final products. 
