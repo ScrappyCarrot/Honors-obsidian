@@ -12,17 +12,14 @@
             "id": "f25c5d628faf2af1",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "CANVAS OF IDEAS.canvas",
-                "viewState": {
-                  "x": -1031.393015667633,
-                  "y": -515.0048365224167,
-                  "zoom": -2.640798911459205
-                }
+                "file": "Honors Research V2.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "CANVAS OF IDEAS"
+              "icon": "lucide-file",
+              "title": "Honors Research V2"
             }
           }
         ]
@@ -214,19 +211,9 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "88c82391c76a415d",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-chat-view",
-              "state": {},
-              "icon": "message-square",
-              "title": "Copilot"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -256,9 +243,10 @@
   },
   "active": "f25c5d628faf2af1",
   "lastOpenFiles": [
-    "Research/Case studies/Second Ground architectural works/4. The High line.md",
-    "Research/Case studies/Second Ground architectural works/3. Ewha womans university.md",
     "Research/Connections/Reusable connections.md",
+    "Research/Case studies/Second Ground architectural works/3. Ewha womans university.md",
+    "Research/Case studies/Second Ground architectural works/4. The High line.md",
+    "CANVAS OF IDEAS.canvas",
     "Honors Research V2.md",
     "Honors Y1 report/Report planning.md",
     "~$7A3B20_2026Q4_Literature Grid_Template.xlsx",
@@ -267,7 +255,6 @@
     "Honors Y1 report/Chapter 4 concept development.md",
     "Honors Research.md",
     "Honors Y1 report/Connect-it first draft..md",
-    "CANVAS OF IDEAS.canvas",
     "Honors Y1 report/FINAL REPORT-example gaslab.pdf",
     "Research/Foundation/Foundation.md",
     "~$nors Connectit Group Report First Draft.docx",
@@ -292,7 +279,6 @@
     "Notion/Exported tasks/Presentation layout assembly 3444d57434b8809b8ab1dba5beff2ad8.md",
     "Notion/Exported tasks/Material passports nearby buildings 2cf4d57434b880bfb56bf07ba2d15aab.md",
     "Notion/Exported tasks/Manufacturing 2c04d57434b8801a8194dc18d231beb4.md",
-    "Notion/Exported tasks/Make team dynamic diagram 33a4d57434b88026b04add29bab29f15.md",
     "MEDIA/PDF/DArchwLandscMethodsdj07lr/assets/DArchwLandscMethodsdj07lr_img-749.jpeg",
     "MEDIA/PDF/DArchwLandscMethodsdj07lr/assets/DArchwLandscMethodsdj07lr_img-748.jpeg",
     "MEDIA/PDF/DArchwLandscMethodsdj07lr/assets/DArchwLandscMethodsdj07lr_img-747.jpeg",
