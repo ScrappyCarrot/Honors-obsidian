@@ -64,4 +64,4 @@ The integration of technical coordination and modular design was essential for a
 
 ### AI statement V2
 
-In the development of this 
+In the development of the Connect-it honors project, Artificial Intelligence (AI) was employed strictly as a force multiplier, it was at no point given the option to generate ideas/diagrams/reports/designs that were later presented as original work.
