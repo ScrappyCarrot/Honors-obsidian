@@ -32,8 +32,7 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "ed79f4bc7e084f08",
@@ -262,7 +261,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "54319a65bd557c92",
+  "active": "f25c5d628faf2af1",
   "lastOpenFiles": [
     "Honors Y1 report/Report planning.md",
     "Honors Research V2.md",

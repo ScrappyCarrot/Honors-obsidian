@@ -61,3 +61,7 @@ The integration of technical coordination and modular design was essential for a
       to polish human-authored visualizations rather than generate synthetic imagery, ensuring that the project was accurately communicated.
 
   By leveraging these technologies, the team was able to bypass technical bottlenecks and focus on the high-level structural research and urban integration that define the project’s value.
+
+### AI statement V2
+
+In the development of this 
