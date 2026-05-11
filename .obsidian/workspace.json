@@ -12,24 +12,17 @@
             "id": "f25c5d628faf2af1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Honors Research V2.md",
-                "mode": "source",
-                "source": false
+                "file": "CANVAS OF IDEAS.canvas",
+                "viewState": {
+                  "x": -1031.393015667633,
+                  "y": -515.0048365224167,
+                  "zoom": -2.640798911459205
+                }
               },
-              "icon": "lucide-file",
-              "title": "Honors Research V2"
-            }
-          },
-          {
-            "id": "54319a65bd557c92",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-layout-dashboard",
+              "title": "CANVAS OF IDEAS"
             }
           }
         ]
@@ -263,8 +256,11 @@
   },
   "active": "f25c5d628faf2af1",
   "lastOpenFiles": [
-    "Honors Y1 report/Report planning.md",
+    "Research/Case studies/Second Ground architectural works/4. The High line.md",
+    "Research/Case studies/Second Ground architectural works/3. Ewha womans university.md",
+    "Research/Connections/Reusable connections.md",
     "Honors Research V2.md",
+    "Honors Y1 report/Report planning.md",
     "~$7A3B20_2026Q4_Literature Grid_Template.xlsx",
     "7A3B20_2026Q4_Literature Grid_Template.xlsx",
     "A2F55200",
@@ -297,8 +293,6 @@
     "Notion/Exported tasks/Material passports nearby buildings 2cf4d57434b880bfb56bf07ba2d15aab.md",
     "Notion/Exported tasks/Manufacturing 2c04d57434b8801a8194dc18d231beb4.md",
     "Notion/Exported tasks/Make team dynamic diagram 33a4d57434b88026b04add29bab29f15.md",
-    "Notion/Exported tasks/Make poster 2fc4d57434b880d6be76c739710322dd.md",
-    "Notion/Exported tasks/Karamba 33a4d57434b8801782f4d75095bf4d09.md",
     "MEDIA/PDF/DArchwLandscMethodsdj07lr/assets/DArchwLandscMethodsdj07lr_img-749.jpeg",
     "MEDIA/PDF/DArchwLandscMethodsdj07lr/assets/DArchwLandscMethodsdj07lr_img-748.jpeg",
     "MEDIA/PDF/DArchwLandscMethodsdj07lr/assets/DArchwLandscMethodsdj07lr_img-747.jpeg",

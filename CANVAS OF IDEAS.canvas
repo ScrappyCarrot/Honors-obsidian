@@ -200,7 +200,6 @@
 		},
 		{"id":"3ff0892fdeaeb534","type":"file","file":"Research/Case studies/Second Ground architectural works/Second Ground architectural works.md","x":465,"y":2620,"width":400,"height":300},
 		{"id":"e8b5c95629f57b61","type":"file","file":"Research/Foundation/Helical anchors foundation.md","subpath":"#**Conclusions **","x":-1450,"y":1696,"width":330,"height":280},
-		{"id":"12c06e41bf809658","type":"file","file":"MEDIA/IMAGES/IMG-20-12-2025-182253640.png","x":-1450,"y":2020,"width":410,"height":231},
 		{
 			"id":"73104da93a8c8935",
 			"type":"text",
@@ -261,7 +260,8 @@
 			"y":560,
 			"width":250,
 			"height":50
-		}
+		},
+		{"id":"12c06e41bf809658","type":"file","file":"MEDIA/IMAGES/IMG-20-12-2025-182253640.png","x":-1450,"y":2120,"width":410,"height":231}
 	],
 	"edges":[
 		{"id":"f1153a809622ee9e","toFloating":false,"fromNode":"0a18e5d7148299a3","fromSide":"bottom","toNode":"67ebb59448249d05","toSide":"top"},
