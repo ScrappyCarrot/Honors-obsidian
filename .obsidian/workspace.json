@@ -237,8 +237,7 @@
       "obsidian42-text-transporter:Text Transporter": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
-      "copilot:Open Copilot Chat": false
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
   "active": "f25c5d628faf2af1",
