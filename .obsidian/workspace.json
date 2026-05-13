@@ -6,20 +6,23 @@
       {
         "id": "2e8a127d84c000e7",
         "type": "tabs",
-        "dimension": 58.81877022653722,
+        "dimension": 63.26860841423948,
         "children": [
           {
             "id": "f25c5d628faf2af1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Research/Case studies/Second Ground architectural works/4. The High line.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 279.7748048508484,
+                  "y": -219.79392379902947,
+                  "zoom": -1.0286018649307271
+                }
               },
-              "icon": "lucide-file",
-              "title": "4. The High line"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ]
@@ -27,7 +30,7 @@
       {
         "id": "ed79f4bc7e084f08",
         "type": "tabs",
-        "dimension": 41.18122977346278,
+        "dimension": 36.73139158576052,
         "children": [
           {
             "id": "50fe7089940d3a08",
@@ -242,6 +245,8 @@
   },
   "active": "f25c5d628faf2af1",
   "lastOpenFiles": [
+    "Research/Case studies/Second Ground architectural works/4. The High line.md",
+    "Untitled.canvas",
     "Research/Case studies/Second Ground architectural works/3. Ewha womans university.md",
     "Research/Case studies/Second Ground architectural works/2. TU Delft library.md",
     "Personal meeting notes/15-12-25 Presentation GMM.md",
@@ -250,7 +255,6 @@
     "Thoughts/Approach to make honors meaningfull.md",
     "Honors Research V2.md",
     "Research/Connections/Reusable connections.md",
-    "Research/Case studies/Second Ground architectural works/4. The High line.md",
     "CANVAS OF IDEAS.canvas",
     "Honors Y1 report/Report planning.md",
     "~$7A3B20_2026Q4_Literature Grid_Template.xlsx",
@@ -278,7 +282,6 @@
     "Notion/Exported tasks/Site 3444d57434b880f38124db2c6fb887da.md",
     "Notion/Exported tasks/Presentation for GMM2 2c74d57434b88065beb3cfc60d116299.md",
     "Notion/Exported tasks/Structure 3444d57434b88077bf59e2cdf7693b1d.md",
-    "Notion/Exported tasks/Architectural Model 34b4d57434b8800ba782cadafc335c75.md",
     "MEDIA/PDF/DArchwLandscMethodsdj07lr/assets/DArchwLandscMethodsdj07lr_img-749.jpeg",
     "MEDIA/PDF/DArchwLandscMethodsdj07lr/assets/DArchwLandscMethodsdj07lr_img-748.jpeg",
     "MEDIA/PDF/DArchwLandscMethodsdj07lr/assets/DArchwLandscMethodsdj07lr_img-747.jpeg",
@@ -290,7 +293,6 @@
     "MEDIA/PDF/DArchwLandscMethodsdj07lr/assets/DArchwLandscMethodsdj07lr_img-741.jpeg",
     "MEDIA/PDF/DArchwLandscMethodsdj07lr/assets/DArchwLandscMethodsdj07lr_img-740.jpeg",
     "MEDIA/IMAGES/IMAGES.canvas",
-    "Canvas export/CANVAS OF IDEAS.canvas",
-    "Untitled.canvas"
+    "Canvas export/CANVAS OF IDEAS.canvas"
   ]
 }

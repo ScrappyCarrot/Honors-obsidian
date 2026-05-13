@@ -1,0 +1,58 @@
+{
+	"nodes":[
+		{
+			"id":"5662ea2d0d48431f",
+			"type":"text",
+			"text":"Fillet and offset polyline > Createe points",
+			"styleAttributes":{},
+			"x":140,
+			"y":-300,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"f88f50da6f45cb71",
+			"type":"text",
+			"text":"Polyline input",
+			"styleAttributes":{},
+			"x":-300,
+			"y":-360,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"95bc468fca5a72cd",
+			"type":"text",
+			"text":"Input panel",
+			"styleAttributes":{},
+			"x":-300,
+			"y":-220,
+			"width":260,
+			"height":60
+		}
+	],
+	"edges":[
+		{
+			"id":"7bd98afd12302700",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"95bc468fca5a72cd",
+			"fromSide":"right",
+			"toNode":"5662ea2d0d48431f",
+			"toSide":"left"
+		},
+		{
+			"id":"44ebf4dc40718596",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"f88f50da6f45cb71",
+			"fromSide":"right",
+			"toNode":"5662ea2d0d48431f",
+			"toSide":"left"
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}
