@@ -1,36 +1,6 @@
 {
 	"nodes":[
 		{
-			"id":"f88f50da6f45cb71",
-			"type":"text",
-			"text":"Polyline input",
-			"styleAttributes":{},
-			"x":-300,
-			"y":-360,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"95bc468fca5a72cd",
-			"type":"text",
-			"text":"Input panel",
-			"styleAttributes":{},
-			"x":-300,
-			"y":-220,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"5662ea2d0d48431f",
-			"type":"text",
-			"text":"Fillet and offset polyline > Createe points",
-			"styleAttributes":{},
-			"x":140,
-			"y":-300,
-			"width":300,
-			"height":80
-		},
-		{
 			"id":"1920e47375d56f5d",
 			"type":"text",
 			"text":"Orient triangles at set spacing on main curve",
@@ -41,11 +11,41 @@
 			"height":80
 		},
 		{
+			"id":"ca48fa2f7f338d5e",
+			"type":"text",
+			"text":"Use the offset curves to get same number of points on both",
+			"styleAttributes":{},
+			"x":620,
+			"y":-40,
+			"width":260,
+			"height":80
+		},
+		{
+			"id":"1a43d1f980e2ffaa",
+			"type":"text",
+			"text":"Create decking by lofting segments and extruding them",
+			"styleAttributes":{},
+			"x":1260,
+			"y":-40,
+			"width":260,
+			"height":80
+		},
+		{
+			"id":"6d670561f25f3ad5",
+			"type":"text",
+			"text":"Create steps by snapping the Z value at certain increments",
+			"styleAttributes":{},
+			"x":940,
+			"y":-40,
+			"width":260,
+			"height":80
+		},
+		{
 			"id":"f513831f25cae7ab",
 			"type":"text",
 			"text":"Connect points with same index",
 			"styleAttributes":{},
-			"x":980,
+			"x":940,
 			"y":-290,
 			"width":260,
 			"height":60
@@ -55,18 +55,28 @@
 			"type":"text",
 			"text":"create railings by extending 2 sides of the triangles.",
 			"styleAttributes":{},
-			"x":980,
-			"y":-520,
+			"x":940,
+			"y":-440,
 			"width":260,
 			"height":100
+		},
+		{
+			"id":"5c05266d2198923b",
+			"type":"text",
+			"text":"Python script to create cross bracing",
+			"styleAttributes":{},
+			"x":1260,
+			"y":-230,
+			"width":260,
+			"height":60
 		},
 		{
 			"id":"2c4d4045a657849c",
 			"type":"text",
 			"text":"Loft to create the glass pannels",
 			"styleAttributes":{},
-			"x":1320,
-			"y":-450,
+			"x":1260,
+			"y":-420,
 			"width":260,
 			"height":60
 		},
@@ -75,60 +85,100 @@
 			"type":"text",
 			"text":"Pipe to obtain the supports for the railing",
 			"styleAttributes":{},
-			"x":1320,
-			"y":-560,
+			"x":1260,
+			"y":-520,
 			"width":260,
 			"height":80
-		},
-		{
-			"id":"5c05266d2198923b",
-			"type":"text",
-			"text":"Python script to create cross bracing",
-			"styleAttributes":{},
-			"x":1320,
-			"y":-200,
-			"width":260,
-			"height":60
 		},
 		{
 			"id":"f45b8827f7301a92",
 			"type":"text",
 			"text":"Use profile selector to get the desired CHS profiles",
 			"styleAttributes":{},
-			"x":1660,
+			"x":1580,
 			"y":-300,
 			"width":260,
 			"height":80
 		},
 		{
-			"id":"ca48fa2f7f338d5e",
+			"id":"5662ea2d0d48431f",
 			"type":"text",
-			"text":"Use the offset curves to get same number of points on both",
+			"text":"Fillet and offset polyline > Createe points",
 			"styleAttributes":{},
-			"x":620,
-			"y":20,
+			"x":120,
+			"y":-300,
+			"width":300,
+			"height":80
+		},
+		{
+			"id":"95bc468fca5a72cd",
+			"type":"text",
+			"text":"Input panel",
+			"styleAttributes":{},
+			"x":-280,
+			"y":-250,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"f88f50da6f45cb71",
+			"type":"text",
+			"text":"Polyline input",
+			"styleAttributes":{},
+			"x":-280,
+			"y":-330,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"c2d0651a438ae642",
+			"type":"text",
+			"text":"Create The regular Support structure opposite of the decking",
+			"styleAttributes":{},
+			"x":940,
+			"y":-680,
 			"width":260,
 			"height":80
 		},
 		{
-			"id":"6d670561f25f3ad5",
+			"id":"d7bbe4a5bd0ab0b9",
 			"type":"text",
-			"text":"Create steps by snapping the Z value at certain increments",
+			"text":"Extract center, midpoint and endpoints of fillet arcs",
 			"styleAttributes":{},
-			"x":960,
-			"y":20,
+			"x":620,
+			"y":-780,
 			"width":260,
-			"height":60
+			"height":100
 		},
 		{
-			"id":"1a43d1f980e2ffaa",
+			"id":"1da622b307cdf5da",
 			"type":"text",
-			"text":"Create decking by lofting ",
+			"text":"Use aforementioned points to make connecting members between the support tower and the main truss system",
 			"styleAttributes":{},
-			"x":1160,
-			"y":20,
+			"x":940,
+			"y":-880,
 			"width":260,
-			"height":60
+			"height":100
+		},
+		{
+			"id":"67982b920833cfc6",
+			"type":"text",
+			"text":"Use profile selector to get the desired profiles",
+			"styleAttributes":{},
+			"x":1260,
+			"y":-870,
+			"width":260,
+			"height":80
+		},
+		{
+			"id":"32d46953ca6eb13b",
+			"type":"text",
+			"text":"Create foundation geometry by using the center point of the arc, making a circle and extruding it",
+			"styleAttributes":{},
+			"x":940,
+			"y":-580,
+			"width":260,
+			"height":100
 		}
 	],
 	"edges":[
@@ -240,6 +290,69 @@
 			"fromNode":"ca48fa2f7f338d5e",
 			"fromSide":"right",
 			"toNode":"6d670561f25f3ad5",
+			"toSide":"left"
+		},
+		{
+			"id":"b3645f4ec7a04975",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"6d670561f25f3ad5",
+			"fromSide":"right",
+			"toNode":"1a43d1f980e2ffaa",
+			"toSide":"left"
+		},
+		{
+			"id":"e8516e0d222b8c4d",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"5662ea2d0d48431f",
+			"fromSide":"right",
+			"toNode":"d7bbe4a5bd0ab0b9",
+			"toSide":"left"
+		},
+		{
+			"id":"7b0ffaa50d146b40",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"d7bbe4a5bd0ab0b9",
+			"fromSide":"right",
+			"toNode":"c2d0651a438ae642",
+			"toSide":"left"
+		},
+		{
+			"id":"5431c1fff7e17efe",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"d7bbe4a5bd0ab0b9",
+			"fromSide":"right",
+			"toNode":"1da622b307cdf5da",
+			"toSide":"left"
+		},
+		{
+			"id":"802b3874162afcc8",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"1da622b307cdf5da",
+			"fromSide":"right",
+			"toNode":"67982b920833cfc6",
+			"toSide":"left"
+		},
+		{
+			"id":"3542a69d302b8f8c",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"c2d0651a438ae642",
+			"fromSide":"right",
+			"toNode":"67982b920833cfc6",
+			"toSide":"left"
+		},
+		{
+			"id":"dc21264828cbaf62",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"d7bbe4a5bd0ab0b9",
+			"fromSide":"right",
+			"toNode":"32d46953ca6eb13b",
 			"toSide":"left"
 		}
 	],
