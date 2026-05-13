@@ -31,56 +31,6 @@
 			"height":80
 		},
 		{
-			"id":"d7bbe4a5bd0ab0b9",
-			"type":"text",
-			"text":"Extract center, midpoint and endpoints of fillet arcs",
-			"styleAttributes":{},
-			"x":620,
-			"y":-780,
-			"width":260,
-			"height":100
-		},
-		{
-			"id":"c2d0651a438ae642",
-			"type":"text",
-			"text":"Create The regular Support structure opposite of the decking",
-			"styleAttributes":{},
-			"x":940,
-			"y":-770,
-			"width":260,
-			"height":80
-		},
-		{
-			"id":"1da622b307cdf5da",
-			"type":"text",
-			"text":"Use aforementioned points to make connecting members between the support tower and the main truss system",
-			"styleAttributes":{},
-			"x":940,
-			"y":-890,
-			"width":260,
-			"height":100
-		},
-		{
-			"id":"32d46953ca6eb13b",
-			"type":"text",
-			"text":"Create foundation geometry by using the center point of the arc, making a circle and extruding it",
-			"styleAttributes":{},
-			"x":940,
-			"y":-660,
-			"width":260,
-			"height":100
-		},
-		{
-			"id":"67982b920833cfc6",
-			"type":"text",
-			"text":"Use profile selector to get the desired CHS profiles",
-			"styleAttributes":{},
-			"x":1260,
-			"y":-880,
-			"width":260,
-			"height":80
-		},
-		{
 			"id":"f45b8827f7301a92",
 			"type":"text",
 			"text":"Use profile selector to get the desired CHS profiles",
@@ -179,6 +129,56 @@
 			"y":-420,
 			"width":300,
 			"height":240
+		},
+		{
+			"id":"d7bbe4a5bd0ab0b9",
+			"type":"text",
+			"text":"Extract center, midpoint and endpoints of fillet arcs",
+			"styleAttributes":{},
+			"x":620,
+			"y":-840,
+			"width":260,
+			"height":100
+		},
+		{
+			"id":"c2d0651a438ae642",
+			"type":"text",
+			"text":"Create The regular Support structure opposite of the decking",
+			"styleAttributes":{},
+			"x":940,
+			"y":-845,
+			"width":260,
+			"height":110
+		},
+		{
+			"id":"67982b920833cfc6",
+			"type":"text",
+			"text":"Use profile selector to get the desired CHS profiles",
+			"styleAttributes":{},
+			"x":1260,
+			"y":-832,
+			"width":260,
+			"height":85
+		},
+		{
+			"id":"1da622b307cdf5da",
+			"type":"text",
+			"text":"Use aforementioned points to make connecting members between the support tower and the main truss system",
+			"styleAttributes":{},
+			"x":940,
+			"y":-1060,
+			"width":260,
+			"height":180
+		},
+		{
+			"id":"32d46953ca6eb13b",
+			"type":"text",
+			"text":"Create foundation geometry by using the center point of the arc, making a circle and extruding it",
+			"styleAttributes":{},
+			"x":940,
+			"y":-700,
+			"width":260,
+			"height":140
 		}
 	],
 	"edges":[
