@@ -1,37 +1,6 @@
 {
 	"nodes":[
 		{
-			"id":"ca48fa2f7f338d5e",
-			"type":"text",
-			"text":"Use the offset curves to get same number of points on both",
-			"styleAttributes":{},
-			"x":620,
-			"y":-40,
-			"width":260,
-			"height":80
-		},
-		{
-			"id":"1a43d1f980e2ffaa",
-			"type":"text",
-			"text":"Create decking by lofting segments and extruding them",
-			"styleAttributes":{},
-			"x":1260,
-			"y":-40,
-			"width":260,
-			"height":80,
-			"color":"3"
-		},
-		{
-			"id":"6d670561f25f3ad5",
-			"type":"text",
-			"text":"Create steps by snapping the Z value at certain increments",
-			"styleAttributes":{},
-			"x":940,
-			"y":-40,
-			"width":260,
-			"height":80
-		},
-		{
 			"id":"f45b8827f7301a92",
 			"type":"text",
 			"text":"Use profile selector to get the desired CHS profiles",
@@ -62,38 +31,6 @@
 			"width":260,
 			"height":60,
 			"color":"#48abcb"
-		},
-		{
-			"id":"d72a5819029211e5",
-			"type":"text",
-			"text":"Pipe to obtain the supports for the railing",
-			"styleAttributes":{},
-			"x":1260,
-			"y":-560,
-			"width":260,
-			"height":80,
-			"color":"3"
-		},
-		{
-			"id":"be7598bb609754e6",
-			"type":"text",
-			"text":"create railings by extending 2 sides of the triangles.",
-			"styleAttributes":{},
-			"x":940,
-			"y":-480,
-			"width":260,
-			"height":100
-		},
-		{
-			"id":"2c4d4045a657849c",
-			"type":"text",
-			"text":"Loft to create the glass pannels",
-			"styleAttributes":{},
-			"x":1260,
-			"y":-460,
-			"width":260,
-			"height":60,
-			"color":"3"
 		},
 		{
 			"id":"1920e47375d56f5d",
@@ -139,12 +76,75 @@
 			"color":"#48abcb"
 		},
 		{
+			"id":"6d670561f25f3ad5",
+			"type":"text",
+			"text":"Create steps by snapping the Z value at certain increments",
+			"styleAttributes":{},
+			"x":940,
+			"y":-140,
+			"width":260,
+			"height":80
+		},
+		{
+			"id":"1a43d1f980e2ffaa",
+			"type":"text",
+			"text":"Create decking by lofting segments and extruding them",
+			"styleAttributes":{},
+			"x":1260,
+			"y":-140,
+			"width":260,
+			"height":80,
+			"color":"3"
+		},
+		{
+			"id":"ca48fa2f7f338d5e",
+			"type":"text",
+			"text":"Use the offset curves to get same number of points on both",
+			"styleAttributes":{},
+			"x":620,
+			"y":-140,
+			"width":260,
+			"height":80
+		},
+		{
+			"id":"be7598bb609754e6",
+			"type":"text",
+			"text":"create railings by extending 2 sides of the triangles.",
+			"styleAttributes":{},
+			"x":940,
+			"y":-460,
+			"width":260,
+			"height":100
+		},
+		{
+			"id":"d72a5819029211e5",
+			"type":"text",
+			"text":"Pipe to obtain the supports for the railing",
+			"styleAttributes":{},
+			"x":1260,
+			"y":-500,
+			"width":260,
+			"height":80,
+			"color":"3"
+		},
+		{
+			"id":"2c4d4045a657849c",
+			"type":"text",
+			"text":"Loft to create the glass pannels",
+			"styleAttributes":{},
+			"x":1260,
+			"y":-400,
+			"width":260,
+			"height":60,
+			"color":"3"
+		},
+		{
 			"id":"d7bbe4a5bd0ab0b9",
 			"type":"text",
 			"text":"Extract center, midpoint and endpoints of fillet arcs",
 			"styleAttributes":{},
 			"x":620,
-			"y":-840,
+			"y":-770,
 			"width":260,
 			"height":100
 		},
@@ -154,7 +154,7 @@
 			"text":"Create The regular Support structure opposite of the decking",
 			"styleAttributes":{},
 			"x":940,
-			"y":-845,
+			"y":-775,
 			"width":260,
 			"height":110
 		},
@@ -164,20 +164,10 @@
 			"text":"Use profile selector to get the desired CHS profiles",
 			"styleAttributes":{},
 			"x":1260,
-			"y":-832,
+			"y":-762,
 			"width":260,
 			"height":85,
 			"color":"3"
-		},
-		{
-			"id":"1da622b307cdf5da",
-			"type":"text",
-			"text":"Use aforementioned points to make connecting members between the support tower and the main truss system",
-			"styleAttributes":{},
-			"x":940,
-			"y":-1060,
-			"width":260,
-			"height":180
 		},
 		{
 			"id":"c5b75ef55e1db978",
@@ -185,7 +175,7 @@
 			"text":"Extrude the circle ",
 			"styleAttributes":{},
 			"x":1260,
-			"y":-670,
+			"y":-600,
 			"width":260,
 			"height":60,
 			"color":"3"
@@ -196,7 +186,17 @@
 			"text":"Create foundation geometry by using the center point of the arc and making a circle",
 			"styleAttributes":{},
 			"x":940,
-			"y":-710,
+			"y":-640,
+			"width":260,
+			"height":140
+		},
+		{
+			"id":"1da622b307cdf5da",
+			"type":"text",
+			"text":"Usempoints to make connecting members between the support tower and the main truss system",
+			"styleAttributes":{},
+			"x":940,
+			"y":-940,
 			"width":260,
 			"height":140
 		}
