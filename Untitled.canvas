@@ -1,16 +1,6 @@
 {
 	"nodes":[
 		{
-			"id":"1920e47375d56f5d",
-			"type":"text",
-			"text":"Orient triangles at set spacing on main curve",
-			"styleAttributes":{},
-			"x":620,
-			"y":-300,
-			"width":260,
-			"height":80
-		},
-		{
 			"id":"ca48fa2f7f338d5e",
 			"type":"text",
 			"text":"Use the offset curves to get same number of points on both",
@@ -41,106 +31,6 @@
 			"height":80
 		},
 		{
-			"id":"f513831f25cae7ab",
-			"type":"text",
-			"text":"Connect points with same index",
-			"styleAttributes":{},
-			"x":940,
-			"y":-290,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"be7598bb609754e6",
-			"type":"text",
-			"text":"create railings by extending 2 sides of the triangles.",
-			"styleAttributes":{},
-			"x":940,
-			"y":-440,
-			"width":260,
-			"height":100
-		},
-		{
-			"id":"5c05266d2198923b",
-			"type":"text",
-			"text":"Python script to create cross bracing",
-			"styleAttributes":{},
-			"x":1260,
-			"y":-230,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"2c4d4045a657849c",
-			"type":"text",
-			"text":"Loft to create the glass pannels",
-			"styleAttributes":{},
-			"x":1260,
-			"y":-420,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"d72a5819029211e5",
-			"type":"text",
-			"text":"Pipe to obtain the supports for the railing",
-			"styleAttributes":{},
-			"x":1260,
-			"y":-520,
-			"width":260,
-			"height":80
-		},
-		{
-			"id":"f45b8827f7301a92",
-			"type":"text",
-			"text":"Use profile selector to get the desired CHS profiles",
-			"styleAttributes":{},
-			"x":1580,
-			"y":-300,
-			"width":260,
-			"height":80
-		},
-		{
-			"id":"5662ea2d0d48431f",
-			"type":"text",
-			"text":"Fillet and offset polyline > Createe points",
-			"styleAttributes":{},
-			"x":120,
-			"y":-300,
-			"width":300,
-			"height":80
-		},
-		{
-			"id":"95bc468fca5a72cd",
-			"type":"text",
-			"text":"Input panel",
-			"styleAttributes":{},
-			"x":-280,
-			"y":-250,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"f88f50da6f45cb71",
-			"type":"text",
-			"text":"Polyline input",
-			"styleAttributes":{},
-			"x":-280,
-			"y":-330,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"c2d0651a438ae642",
-			"type":"text",
-			"text":"Create The regular Support structure opposite of the decking",
-			"styleAttributes":{},
-			"x":940,
-			"y":-680,
-			"width":260,
-			"height":80
-		},
-		{
 			"id":"d7bbe4a5bd0ab0b9",
 			"type":"text",
 			"text":"Extract center, midpoint and endpoints of fillet arcs",
@@ -151,24 +41,24 @@
 			"height":100
 		},
 		{
+			"id":"c2d0651a438ae642",
+			"type":"text",
+			"text":"Create The regular Support structure opposite of the decking",
+			"styleAttributes":{},
+			"x":940,
+			"y":-770,
+			"width":260,
+			"height":80
+		},
+		{
 			"id":"1da622b307cdf5da",
 			"type":"text",
 			"text":"Use aforementioned points to make connecting members between the support tower and the main truss system",
 			"styleAttributes":{},
 			"x":940,
-			"y":-880,
+			"y":-890,
 			"width":260,
 			"height":100
-		},
-		{
-			"id":"67982b920833cfc6",
-			"type":"text",
-			"text":"Use profile selector to get the desired profiles",
-			"styleAttributes":{},
-			"x":1260,
-			"y":-870,
-			"width":260,
-			"height":80
 		},
 		{
 			"id":"32d46953ca6eb13b",
@@ -176,9 +66,119 @@
 			"text":"Create foundation geometry by using the center point of the arc, making a circle and extruding it",
 			"styleAttributes":{},
 			"x":940,
-			"y":-580,
+			"y":-660,
 			"width":260,
 			"height":100
+		},
+		{
+			"id":"67982b920833cfc6",
+			"type":"text",
+			"text":"Use profile selector to get the desired CHS profiles",
+			"styleAttributes":{},
+			"x":1260,
+			"y":-880,
+			"width":260,
+			"height":80
+		},
+		{
+			"id":"f45b8827f7301a92",
+			"type":"text",
+			"text":"Use profile selector to get the desired CHS profiles",
+			"styleAttributes":{},
+			"x":1580,
+			"y":-340,
+			"width":260,
+			"height":80
+		},
+		{
+			"id":"f513831f25cae7ab",
+			"type":"text",
+			"text":"Connect points with same index",
+			"styleAttributes":{},
+			"x":940,
+			"y":-330,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"5c05266d2198923b",
+			"type":"text",
+			"text":"Python script to create cross bracing",
+			"styleAttributes":{},
+			"x":1260,
+			"y":-270,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"d72a5819029211e5",
+			"type":"text",
+			"text":"Pipe to obtain the supports for the railing",
+			"styleAttributes":{},
+			"x":1260,
+			"y":-560,
+			"width":260,
+			"height":80
+		},
+		{
+			"id":"be7598bb609754e6",
+			"type":"text",
+			"text":"create railings by extending 2 sides of the triangles.",
+			"styleAttributes":{},
+			"x":940,
+			"y":-480,
+			"width":260,
+			"height":100
+		},
+		{
+			"id":"2c4d4045a657849c",
+			"type":"text",
+			"text":"Loft to create the glass pannels",
+			"styleAttributes":{},
+			"x":1260,
+			"y":-460,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"1920e47375d56f5d",
+			"type":"text",
+			"text":"Orient triangles at set spacing on main curve",
+			"styleAttributes":{},
+			"x":620,
+			"y":-340,
+			"width":260,
+			"height":80
+		},
+		{
+			"id":"5662ea2d0d48431f",
+			"type":"text",
+			"text":"Fillet and offset polyline > Createe points",
+			"styleAttributes":{},
+			"x":120,
+			"y":-340,
+			"width":300,
+			"height":80
+		},
+		{
+			"id":"95bc468fca5a72cd",
+			"type":"text",
+			"text":"Input panel",
+			"styleAttributes":{},
+			"x":-280,
+			"y":-290,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"f88f50da6f45cb71",
+			"type":"text",
+			"text":"Polyline input",
+			"styleAttributes":{},
+			"x":-280,
+			"y":-370,
+			"width":260,
+			"height":60
 		}
 	],
 	"edges":[
@@ -204,6 +204,7 @@
 			"id":"acf56d378e555d85",
 			"styleAttributes":{},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"5662ea2d0d48431f",
 			"fromSide":"right",
 			"toNode":"1920e47375d56f5d",

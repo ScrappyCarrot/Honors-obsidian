@@ -6,7 +6,7 @@
       {
         "id": "2e8a127d84c000e7",
         "type": "tabs",
-        "dimension": 72.65372168284789,
+        "dimension": 83.81877022653723,
         "children": [
           {
             "id": "f25c5d628faf2af1",
@@ -16,9 +16,9 @@
               "state": {
                 "file": "Untitled.canvas",
                 "viewState": {
-                  "x": 1137.0201654792115,
-                  "y": -666.1971101203815,
-                  "zoom": -0.07718756316250097
+                  "x": 1203.683676404468,
+                  "y": -235.3042164345336,
+                  "zoom": -0.5843380293951828
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -30,7 +30,7 @@
       {
         "id": "ed79f4bc7e084f08",
         "type": "tabs",
-        "dimension": 27.346278317152105,
+        "dimension": 16.181229773462782,
         "children": [
           {
             "id": "50fe7089940d3a08",
