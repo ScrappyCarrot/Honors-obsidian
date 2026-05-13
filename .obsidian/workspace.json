@@ -214,14 +214,23 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "98bb0f8711849d39",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {},
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 402.5,
-    "collapsed": true
+    "width": 351.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -240,10 +249,11 @@
       "obsidian42-text-transporter:Text Transporter": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "f25c5d628faf2af1",
+  "active": "98bb0f8711849d39",
   "lastOpenFiles": [
     "Research/Case studies/Second Ground architectural works/4. The High line.md",
     "Untitled.canvas",
