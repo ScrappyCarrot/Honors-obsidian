@@ -1,16 +1,6 @@
 {
 	"nodes":[
 		{
-			"id":"5662ea2d0d48431f",
-			"type":"text",
-			"text":"Fillet and offset polyline > Createe points",
-			"styleAttributes":{},
-			"x":140,
-			"y":-300,
-			"width":260,
-			"height":60
-		},
-		{
 			"id":"f88f50da6f45cb71",
 			"type":"text",
 			"text":"Polyline input",
@@ -27,6 +17,116 @@
 			"styleAttributes":{},
 			"x":-300,
 			"y":-220,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"5662ea2d0d48431f",
+			"type":"text",
+			"text":"Fillet and offset polyline > Createe points",
+			"styleAttributes":{},
+			"x":140,
+			"y":-300,
+			"width":300,
+			"height":80
+		},
+		{
+			"id":"1920e47375d56f5d",
+			"type":"text",
+			"text":"Orient triangles at set spacing on main curve",
+			"styleAttributes":{},
+			"x":620,
+			"y":-300,
+			"width":260,
+			"height":80
+		},
+		{
+			"id":"f513831f25cae7ab",
+			"type":"text",
+			"text":"Connect points with same index",
+			"styleAttributes":{},
+			"x":980,
+			"y":-290,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"be7598bb609754e6",
+			"type":"text",
+			"text":"create railings by extending 2 sides of the triangles.",
+			"styleAttributes":{},
+			"x":980,
+			"y":-520,
+			"width":260,
+			"height":100
+		},
+		{
+			"id":"2c4d4045a657849c",
+			"type":"text",
+			"text":"Loft to create the glass pannels",
+			"styleAttributes":{},
+			"x":1320,
+			"y":-450,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"d72a5819029211e5",
+			"type":"text",
+			"text":"Pipe to obtain the supports for the railing",
+			"styleAttributes":{},
+			"x":1320,
+			"y":-560,
+			"width":260,
+			"height":80
+		},
+		{
+			"id":"5c05266d2198923b",
+			"type":"text",
+			"text":"Python script to create cross bracing",
+			"styleAttributes":{},
+			"x":1320,
+			"y":-200,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"f45b8827f7301a92",
+			"type":"text",
+			"text":"Use profile selector to get the desired CHS profiles",
+			"styleAttributes":{},
+			"x":1660,
+			"y":-300,
+			"width":260,
+			"height":80
+		},
+		{
+			"id":"ca48fa2f7f338d5e",
+			"type":"text",
+			"text":"Use the offset curves to get same number of points on both",
+			"styleAttributes":{},
+			"x":620,
+			"y":20,
+			"width":260,
+			"height":80
+		},
+		{
+			"id":"6d670561f25f3ad5",
+			"type":"text",
+			"text":"Create steps by snapping the Z value at certain increments",
+			"styleAttributes":{},
+			"x":960,
+			"y":20,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"1a43d1f980e2ffaa",
+			"type":"text",
+			"text":"Create decking by lofting ",
+			"styleAttributes":{},
+			"x":1160,
+			"y":20,
 			"width":260,
 			"height":60
 		}
@@ -48,6 +148,98 @@
 			"fromNode":"f88f50da6f45cb71",
 			"fromSide":"right",
 			"toNode":"5662ea2d0d48431f",
+			"toSide":"left"
+		},
+		{
+			"id":"acf56d378e555d85",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"5662ea2d0d48431f",
+			"fromSide":"right",
+			"toNode":"1920e47375d56f5d",
+			"toSide":"left"
+		},
+		{
+			"id":"0ec39bcc6c78683a",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"1920e47375d56f5d",
+			"fromSide":"right",
+			"toNode":"f513831f25cae7ab",
+			"toSide":"left"
+		},
+		{
+			"id":"38004ade6df01915",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"1920e47375d56f5d",
+			"fromSide":"right",
+			"toNode":"be7598bb609754e6",
+			"toSide":"left"
+		},
+		{
+			"id":"9bbe3209b8765cb7",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"be7598bb609754e6",
+			"fromSide":"right",
+			"toNode":"d72a5819029211e5",
+			"toSide":"left"
+		},
+		{
+			"id":"d32c6a3c2557d138",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"be7598bb609754e6",
+			"fromSide":"right",
+			"toNode":"2c4d4045a657849c",
+			"toSide":"left"
+		},
+		{
+			"id":"d92e6550a4fcde1d",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"f513831f25cae7ab",
+			"fromSide":"right",
+			"toNode":"5c05266d2198923b",
+			"toSide":"left"
+		},
+		{
+			"id":"506aa925d966b29b",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"5c05266d2198923b",
+			"fromSide":"right",
+			"toNode":"f45b8827f7301a92",
+			"toSide":"left"
+		},
+		{
+			"id":"2921f7f418dc64f5",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"f513831f25cae7ab",
+			"fromSide":"right",
+			"toNode":"f45b8827f7301a92",
+			"toSide":"left"
+		},
+		{
+			"id":"339b6da757581ce4",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"5662ea2d0d48431f",
+			"fromSide":"right",
+			"toNode":"ca48fa2f7f338d5e",
+			"toSide":"left"
+		},
+		{
+			"id":"6d0cb47574c75630",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"ca48fa2f7f338d5e",
+			"fromSide":"right",
+			"toNode":"6d670561f25f3ad5",
 			"toSide":"left"
 		}
 	],
