@@ -151,16 +151,6 @@
 			"height":80
 		},
 		{
-			"id":"5662ea2d0d48431f",
-			"type":"text",
-			"text":"Fillet and offset polyline > Createe points",
-			"styleAttributes":{},
-			"x":120,
-			"y":-340,
-			"width":300,
-			"height":80
-		},
-		{
 			"id":"95bc468fca5a72cd",
 			"type":"text",
 			"text":"Input panel",
@@ -179,6 +169,16 @@
 			"y":-370,
 			"width":260,
 			"height":60
+		},
+		{
+			"id":"5662ea2d0d48431f",
+			"type":"text",
+			"text":"Python script that takes in A polyline, radii and point indices. It then fillets the points by the radii specified. \nAfter this, it offsets the curve created on both sides and divides them by the same amount of points.",
+			"styleAttributes":{},
+			"x":120,
+			"y":-420,
+			"width":300,
+			"height":240
 		}
 	],
 	"edges":[
