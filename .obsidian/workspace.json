@@ -6,7 +6,7 @@
       {
         "id": "2e8a127d84c000e7",
         "type": "tabs",
-        "dimension": 71.52103559870551,
+        "dimension": 61.326860841423944,
         "children": [
           {
             "id": "f25c5d628faf2af1",
@@ -45,7 +45,7 @@
       {
         "id": "0213a30598c6b022",
         "type": "tabs",
-        "dimension": 28.478964401294498,
+        "dimension": 38.673139158576056,
         "children": [
           {
             "id": "5b8a3fc0e145e3c4",
@@ -254,10 +254,10 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "471161a268e70377",
+  "active": "5b8a3fc0e145e3c4",
   "lastOpenFiles": [
-    "Script Logic.canvas",
     "PLAN FOR YEAR 2.md",
+    "Script Logic.canvas",
     "Honors Y1 report/Report planning.md",
     "Honors Y1 report/Feedback Robert.md",
     "Honors Y1 report/Connect-it first draft..md",
