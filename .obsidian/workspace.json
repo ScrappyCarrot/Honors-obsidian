@@ -65,14 +65,17 @@
             "id": "dceaf791260d6c99",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "CBL meet 19th of may.md",
-                "mode": "source",
-                "source": false
+                "file": "CANVAS OF IDEAS.canvas",
+                "viewState": {
+                  "x": -1520.759801882199,
+                  "y": 373.22496653813425,
+                  "zoom": -2.6492260195236574
+                }
               },
-              "icon": "lucide-file",
-              "title": "CBL meet 19th of may"
+              "icon": "lucide-layout-dashboard",
+              "title": "CANVAS OF IDEAS"
             }
           }
         ],
@@ -273,8 +276,8 @@
   },
   "active": "dceaf791260d6c99",
   "lastOpenFiles": [
-    "Honors Y1 report/Report planning.md",
     "CBL meet 19th of may.md",
+    "Honors Y1 report/Report planning.md",
     "PLAN FOR YEAR 2.md",
     "Script Logic.canvas",
     "Honors Y1 report/Feedback Robert.md",
